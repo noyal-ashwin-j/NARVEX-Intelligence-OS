@@ -1,0 +1,4 @@
+report_date,district_name,hospital_name,patient_age_group,primary_substance,intake_count,description
+2026-08-10,Coimbatore,Coimbatore Medical College Hospital,18-25,SYNTHETIC_MDMA,7,Aggregate admissions flagged for acute synthetic stimulant intoxication.
+2026-08-12,Chennai,Kilpauk Institute of Mental Health,19-28,PRESCRIPTION_OPIOIDS,12,Spike in weekly voluntary counseling and withdrawal admissions.
+2026-08-15,Madurai,Rajaji Government Hospital,20-30,CANNABIS,9,Community de-addiction outpatient registry aggregated count.

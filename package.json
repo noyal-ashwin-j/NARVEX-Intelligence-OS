@@ -1,0 +1,15 @@
+{
+  "name": "narc-intel-platform",
+  "version": "1.0.0",
+  "description": "Statewide Narcotic Intelligence & Preventive Risk Monitoring Platform (NARC-INTEL / N-RISE)",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix client run dev",
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "test": "npm --prefix server test",
+    "seed": "npm --prefix server run seed",
+    "build": "npm --prefix client run build"
+  }
+}

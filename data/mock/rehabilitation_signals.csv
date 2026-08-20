@@ -1,0 +1,6 @@
+rehab_id,center_name,district_name,taluk_name,reporting_date,service_type,demographic_group,inquiry_count,capacity_status,priority
+RHB-2026-001,Coimbatore De-Addiction Center,Coimbatore,Coimbatore North,2026-08-16,VOLUNTARY_COUNSELING,YOUTH_STUDENT,12,NEAR_CAPACITY,HIGH
+RHB-2026-002,Chennai Central Recovery Center,Chennai,Egmore,2026-08-15,INPATIENT_REHABILITATION,YOUNG_ADULT,8,CAPACITY_AVAILABLE,MEDIUM
+RHB-2026-003,Trichy Health Wellness Center,Tiruchirappalli,Tiruchirappalli,2026-08-13,OUTPATIENT_SUPPORT,ALL_AGES,5,CAPACITY_AVAILABLE,LOW
+RHB-2026-004,Madurai Community De-Addiction Unit,Madurai,Madurai South,2026-08-14,PSYCHOSOCIAL_SUPPORT,YOUTH,9,NEAR_CAPACITY,MEDIUM
+RHB-2026-005,Salem Regional Rehabilitation Clinic,Salem,Salem,2026-08-15,FAMILY_COUNSELING,YOUTH_STUDENT,6,CAPACITY_AVAILABLE,LOW

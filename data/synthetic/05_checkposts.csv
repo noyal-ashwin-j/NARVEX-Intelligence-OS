@@ -1,0 +1,9 @@
+checkpost_id,district_id,district_name,checkpost_name,border_state_corridor,latitude,longitude,operational_mode
+1,10,Krishnagiri,Zuzuvadi Checkpost,Karnataka (NH-48),12.7214,77.8341,24x7 HIGH_FREQUENCY
+2,2,Coimbatore,Walayar Checkpost,Kerala (NH-544),10.8456,76.8523,24x7 HIGH_FREQUENCY
+3,15,Tenkasi,Puliyarai Checkpost,Kerala (NH-744),8.9832,77.1642,24x7 HIGH_FREQUENCY
+4,14,Kanniyakumari,Kaliyakkavilai Post,Kerala (NH-66),8.3121,77.1425,24x7 HIGH_FREQUENCY
+5,18,Tiruvallur,Gummidipoondi Gate,Andhra Pradesh (NH-16),13.4121,80.1245,24x7 HIGH_FREQUENCY
+6,1,Chennai,Ennore Port Checkpoint,Maritime Logistics,13.2341,80.3214,24x7 HIGH_FREQUENCY
+7,13,Thoothukudi,V.O.C. Port Terminal,Maritime Coast,8.7521,78.1832,24x7 HIGH_FREQUENCY
+8,10,Krishnagiri,Attibele Border Axis,Karnataka Border,12.7845,77.7712,24x7 HIGH_FREQUENCY

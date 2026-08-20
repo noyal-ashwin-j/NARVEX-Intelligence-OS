@@ -1,0 +1,4 @@
+event_date,district_name,taluk_name,location_name,category,severity,source_department,description
+2026-08-15,Coimbatore,Coimbatore North,Gandhipuram Cross Cut Road,SEIZURE_ENFORCEMENT,HIGH,State Police STF,Commercial consignment intercept containing synthetic stimulant tablets.
+2026-08-16,Chennai,Egmore,Egmore Railway Goods Terminal,SEIZURE_ENFORCEMENT,HIGH,RPF & City Police,Seizure of unmanifested parcel crates containing prescription narcotics.
+2026-08-17,Salem,Salem South,Sankari Toll Plaza Highway,TRANSIT_CORRIDOR,MEDIUM,Highway Patrol,Intercepted inter-district freight vehicle carrying concealed contraband.

@@ -1,0 +1,375 @@
+locality_id,taluk_id,district_id,district_name,locality_name,locality_type,latitude,longitude
+1,1,1,Chennai,Chennai North Sector A,COMMERCIAL,13.0575,80.2029
+2,1,1,Chennai,Chennai North Market,CAMPUS_ZONE,13.0202,80.2178
+3,1,1,Chennai,Chennai North Bypass Hub,CAMPUS_ZONE,13.0364,80.2221
+4,2,1,Chennai,Chennai South Sector A,LOGISTICS_PARK,13.0077,80.2926
+5,2,1,Chennai,Chennai South Market,VILLAGE,13.0045,80.2881
+6,2,1,Chennai,Chennai South Bypass Hub,RESIDENTIAL,13.0528,80.2709
+7,3,1,Chennai,Chennai East Sector A,VILLAGE,13.0048,80.3182
+8,3,1,Chennai,Chennai East Market,RESIDENTIAL,13.0516,80.3155
+9,4,1,Chennai,Chennai West Sector A,VILLAGE,13.1284,80.2572
+10,4,1,Chennai,Chennai West Market,LOGISTICS_PARK,13.1061,80.2748
+11,4,1,Chennai,Chennai West Bypass Hub,LOGISTICS_PARK,13.0947,80.2667
+12,5,1,Chennai,Chennai Rural Sector A,RESIDENTIAL,13.0570,80.2550
+13,5,1,Chennai,Chennai Rural Market,CAMPUS_ZONE,13.0486,80.2224
+14,5,1,Chennai,Chennai Rural Bypass Hub,RESIDENTIAL,13.0798,80.2494
+15,6,2,Coimbatore,Coimbatore North Sector A,LOGISTICS_PARK,10.9791,76.9784
+16,6,2,Coimbatore,Coimbatore North Market,RESIDENTIAL,10.9848,76.9475
+17,6,2,Coimbatore,Coimbatore North Bypass Hub,TRANSIT_JUNCTION,10.9725,76.9514
+18,7,2,Coimbatore,Coimbatore South Sector A,TRANSIT_JUNCTION,11.0205,76.9358
+19,7,2,Coimbatore,Coimbatore South Market,LOGISTICS_PARK,11.0389,76.9201
+20,8,2,Coimbatore,Coimbatore East Sector A,LOGISTICS_PARK,11.0762,76.9965
+21,8,2,Coimbatore,Coimbatore East Market,RESIDENTIAL,11.0588,76.9845
+22,9,3,Madurai,Madurai North Sector A,COMMERCIAL,9.8406,78.0922
+23,9,3,Madurai,Madurai North Market,CAMPUS_ZONE,9.8568,78.0851
+24,10,3,Madurai,Madurai South Sector A,TRANSIT_JUNCTION,9.9225,78.0729
+25,10,3,Madurai,Madurai South Market,CAMPUS_ZONE,9.9324,78.0534
+26,10,3,Madurai,Madurai South Bypass Hub,LOGISTICS_PARK,9.9067,78.0493
+27,11,3,Madurai,Madurai East Sector A,COMMERCIAL,9.9356,78.1800
+28,11,3,Madurai,Madurai East Market,LOGISTICS_PARK,9.9037,78.1428
+29,11,3,Madurai,Madurai East Bypass Hub,RESIDENTIAL,9.9306,78.1390
+30,12,3,Madurai,Madurai West Sector A,LOGISTICS_PARK,9.8586,78.1986
+31,12,3,Madurai,Madurai West Market,LOGISTICS_PARK,9.8722,78.1807
+32,13,4,Salem,Salem North Sector A,TRANSIT_JUNCTION,11.5814,78.1763
+33,13,4,Salem,Salem North Market,RESIDENTIAL,11.6212,78.1900
+34,13,4,Salem,Salem North Bypass Hub,LOGISTICS_PARK,11.5949,78.1975
+35,14,4,Salem,Salem South Sector A,LOGISTICS_PARK,11.6342,78.2203
+36,14,4,Salem,Salem South Market,VILLAGE,11.5856,78.1850
+37,15,4,Salem,Salem East Sector A,CAMPUS_ZONE,11.6592,78.1751
+38,15,4,Salem,Salem East Market,LOGISTICS_PARK,11.6601,78.1726
+39,16,4,Salem,Salem West Sector A,CAMPUS_ZONE,11.6587,78.1099
+40,16,4,Salem,Salem West Market,TRANSIT_JUNCTION,11.6201,78.0754
+41,17,4,Salem,Salem Rural Sector A,LOGISTICS_PARK,11.6283,78.0589
+42,17,4,Salem,Salem Rural Market,COMMERCIAL,11.6635,78.0958
+43,18,5,Tiruchirappalli,Tiruchirappalli North Sector A,RESIDENTIAL,10.7704,78.6813
+44,18,5,Tiruchirappalli,Tiruchirappalli North Market,CAMPUS_ZONE,10.7798,78.6845
+45,18,5,Tiruchirappalli,Tiruchirappalli North Bypass Hub,VILLAGE,10.8098,78.6494
+46,19,5,Tiruchirappalli,Tiruchirappalli South Sector A,COMMERCIAL,10.8472,78.7144
+47,19,5,Tiruchirappalli,Tiruchirappalli South Market,LOGISTICS_PARK,10.8085,78.7046
+48,20,5,Tiruchirappalli,Tiruchirappalli East Sector A,VILLAGE,10.8547,78.6539
+49,20,5,Tiruchirappalli,Tiruchirappalli East Market,TRANSIT_JUNCTION,10.8425,78.6573
+50,20,5,Tiruchirappalli,Tiruchirappalli East Bypass Hub,VILLAGE,10.8572,78.6801
+51,21,5,Tiruchirappalli,Tiruchirappalli West Sector A,TRANSIT_JUNCTION,10.8030,78.7459
+52,21,5,Tiruchirappalli,Tiruchirappalli West Market,CAMPUS_ZONE,10.8338,78.7344
+53,22,5,Tiruchirappalli,Tiruchirappalli Rural Sector A,TRANSIT_JUNCTION,10.7381,78.7377
+54,22,5,Tiruchirappalli,Tiruchirappalli Rural Market,TRANSIT_JUNCTION,10.7256,78.7506
+55,23,6,Tirunelveli,Tirunelveli North Sector A,COMMERCIAL,8.6371,77.6971
+56,23,6,Tirunelveli,Tirunelveli North Market,RESIDENTIAL,8.6669,77.7016
+57,24,6,Tirunelveli,Tirunelveli South Sector A,TRANSIT_JUNCTION,8.6673,77.7180
+58,24,6,Tirunelveli,Tirunelveli South Market,CAMPUS_ZONE,8.6588,77.7517
+59,24,6,Tirunelveli,Tirunelveli South Bypass Hub,COMMERCIAL,8.6892,77.7540
+60,25,6,Tirunelveli,Tirunelveli East Sector A,VILLAGE,8.7627,77.7467
+61,25,6,Tirunelveli,Tirunelveli East Market,CAMPUS_ZONE,8.7589,77.7692
+62,25,6,Tirunelveli,Tirunelveli East Bypass Hub,TRANSIT_JUNCTION,8.7759,77.7317
+63,26,7,Tiruppur,Tiruppur North Sector A,RESIDENTIAL,11.0943,77.4014
+64,26,7,Tiruppur,Tiruppur North Market,RESIDENTIAL,11.0589,77.3867
+65,27,7,Tiruppur,Tiruppur South Sector A,VILLAGE,11.1418,77.3761
+66,27,7,Tiruppur,Tiruppur South Market,COMMERCIAL,11.1412,77.4204
+67,28,7,Tiruppur,Tiruppur East Sector A,CAMPUS_ZONE,11.1718,77.3306
+68,28,7,Tiruppur,Tiruppur East Market,CAMPUS_ZONE,11.1710,77.3141
+69,28,7,Tiruppur,Tiruppur East Bypass Hub,LOGISTICS_PARK,11.1376,77.3468
+70,29,8,Erode,Erode North Sector A,CAMPUS_ZONE,11.3615,77.7845
+71,29,8,Erode,Erode North Market,COMMERCIAL,11.3628,77.8070
+72,30,8,Erode,Erode South Sector A,COMMERCIAL,11.4098,77.7731
+73,30,8,Erode,Erode South Market,VILLAGE,11.4029,77.7764
+74,30,8,Erode,Erode South Bypass Hub,RESIDENTIAL,11.4072,77.7322
+75,31,8,Erode,Erode East Sector A,RESIDENTIAL,11.2960,77.7894
+76,31,8,Erode,Erode East Market,TRANSIT_JUNCTION,11.3089,77.7442
+77,32,8,Erode,Erode West Sector A,LOGISTICS_PARK,11.2465,77.7021
+78,32,8,Erode,Erode West Market,LOGISTICS_PARK,11.2790,77.6908
+79,32,8,Erode,Erode West Bypass Hub,RESIDENTIAL,11.2527,77.6717
+80,33,9,Vellore,Vellore North Sector A,COMMERCIAL,12.8951,79.1717
+81,33,9,Vellore,Vellore North Market,LOGISTICS_PARK,12.8573,79.1830
+82,33,9,Vellore,Vellore North Bypass Hub,CAMPUS_ZONE,12.8861,79.1679
+83,34,9,Vellore,Vellore South Sector A,CAMPUS_ZONE,12.9599,79.1210
+84,34,9,Vellore,Vellore South Market,CAMPUS_ZONE,12.9599,79.1143
+85,34,9,Vellore,Vellore South Bypass Hub,LOGISTICS_PARK,12.9503,79.1002
+86,35,9,Vellore,Vellore East Sector A,CAMPUS_ZONE,12.9642,79.1865
+87,35,9,Vellore,Vellore East Market,COMMERCIAL,12.9754,79.1657
+88,36,9,Vellore,Vellore West Sector A,VILLAGE,12.8996,79.1808
+89,36,9,Vellore,Vellore West Market,TRANSIT_JUNCTION,12.9197,79.1650
+90,37,9,Vellore,Vellore Rural Sector A,LOGISTICS_PARK,12.9006,79.1530
+91,37,9,Vellore,Vellore Rural Market,CAMPUS_ZONE,12.9320,79.1334
+92,37,9,Vellore,Vellore Rural Bypass Hub,TRANSIT_JUNCTION,12.9152,79.1476
+93,38,10,Krishnagiri,Krishnagiri North Sector A,VILLAGE,12.5104,78.1826
+94,38,10,Krishnagiri,Krishnagiri North Market,VILLAGE,12.5165,78.1538
+95,38,10,Krishnagiri,Krishnagiri North Bypass Hub,VILLAGE,12.4878,78.1699
+96,39,10,Krishnagiri,Krishnagiri South Sector A,CAMPUS_ZONE,12.4689,78.2139
+97,39,10,Krishnagiri,Krishnagiri South Market,VILLAGE,12.4619,78.2123
+98,40,10,Krishnagiri,Krishnagiri East Sector A,CAMPUS_ZONE,12.4702,78.1760
+99,40,10,Krishnagiri,Krishnagiri East Market,TRANSIT_JUNCTION,12.4982,78.1703
+100,40,10,Krishnagiri,Krishnagiri East Bypass Hub,TRANSIT_JUNCTION,12.5107,78.1636
+101,41,10,Krishnagiri,Krishnagiri West Sector A,TRANSIT_JUNCTION,12.4674,78.1531
+102,41,10,Krishnagiri,Krishnagiri West Market,RESIDENTIAL,12.4849,78.1635
+103,41,10,Krishnagiri,Krishnagiri West Bypass Hub,RESIDENTIAL,12.4593,78.1497
+104,42,10,Krishnagiri,Krishnagiri Rural Sector A,CAMPUS_ZONE,12.5105,78.1469
+105,42,10,Krishnagiri,Krishnagiri Rural Market,LOGISTICS_PARK,12.4863,78.1355
+106,42,10,Krishnagiri,Krishnagiri Rural Bypass Hub,CAMPUS_ZONE,12.4949,78.1551
+107,43,11,Dindigul,Dindigul North Sector A,LOGISTICS_PARK,10.3086,78.0536
+108,43,11,Dindigul,Dindigul North Market,LOGISTICS_PARK,10.3071,78.0349
+109,43,11,Dindigul,Dindigul North Bypass Hub,VILLAGE,10.3334,78.0347
+110,44,11,Dindigul,Dindigul South Sector A,CAMPUS_ZONE,10.4164,78.0500
+111,44,11,Dindigul,Dindigul South Market,VILLAGE,10.4160,78.0170
+112,45,11,Dindigul,Dindigul East Sector A,TRANSIT_JUNCTION,10.3630,78.0161
+113,45,11,Dindigul,Dindigul East Market,LOGISTICS_PARK,10.3671,78.0152
+114,45,11,Dindigul,Dindigul East Bypass Hub,TRANSIT_JUNCTION,10.3560,78.0391
+115,46,12,Thanjavur,Thanjavur North Sector A,LOGISTICS_PARK,10.7289,79.1221
+116,46,12,Thanjavur,Thanjavur North Market,VILLAGE,10.7087,79.1252
+117,46,12,Thanjavur,Thanjavur North Bypass Hub,VILLAGE,10.7146,79.1233
+118,47,12,Thanjavur,Thanjavur South Sector A,TRANSIT_JUNCTION,10.7478,79.1072
+119,47,12,Thanjavur,Thanjavur South Market,RESIDENTIAL,10.7396,79.1049
+120,48,12,Thanjavur,Thanjavur East Sector A,COMMERCIAL,10.8636,79.2085
+121,48,12,Thanjavur,Thanjavur East Market,TRANSIT_JUNCTION,10.8289,79.1942
+122,49,13,Thoothukudi,Thoothukudi North Sector A,VILLAGE,8.8238,78.1582
+123,49,13,Thoothukudi,Thoothukudi North Market,COMMERCIAL,8.8077,78.1288
+124,49,13,Thoothukudi,Thoothukudi North Bypass Hub,TRANSIT_JUNCTION,8.7978,78.1593
+125,50,13,Thoothukudi,Thoothukudi South Sector A,CAMPUS_ZONE,8.6924,78.1727
+126,50,13,Thoothukudi,Thoothukudi South Market,COMMERCIAL,8.7244,78.1701
+127,51,13,Thoothukudi,Thoothukudi East Sector A,CAMPUS_ZONE,8.8331,78.0815
+128,51,13,Thoothukudi,Thoothukudi East Market,VILLAGE,8.8138,78.0521
+129,52,13,Thoothukudi,Thoothukudi West Sector A,CAMPUS_ZONE,8.8186,78.2070
+130,52,13,Thoothukudi,Thoothukudi West Market,TRANSIT_JUNCTION,8.7907,78.2026
+131,53,13,Thoothukudi,Thoothukudi Rural Sector A,LOGISTICS_PARK,8.8107,78.0873
+132,53,13,Thoothukudi,Thoothukudi Rural Market,COMMERCIAL,8.8127,78.0978
+133,53,13,Thoothukudi,Thoothukudi Rural Bypass Hub,VILLAGE,8.8371,78.0951
+134,54,14,Kanniyakumari,Kanniyakumari North Sector A,CAMPUS_ZONE,8.0969,77.4967
+135,54,14,Kanniyakumari,Kanniyakumari North Market,LOGISTICS_PARK,8.1255,77.4895
+136,54,14,Kanniyakumari,Kanniyakumari North Bypass Hub,LOGISTICS_PARK,8.1182,77.4814
+137,55,14,Kanniyakumari,Kanniyakumari South Sector A,COMMERCIAL,8.1004,77.5832
+138,55,14,Kanniyakumari,Kanniyakumari South Market,CAMPUS_ZONE,8.0917,77.6201
+139,56,14,Kanniyakumari,Kanniyakumari East Sector A,CAMPUS_ZONE,8.0842,77.5043
+140,56,14,Kanniyakumari,Kanniyakumari East Market,VILLAGE,8.0633,77.4793
+141,56,14,Kanniyakumari,Kanniyakumari East Bypass Hub,COMMERCIAL,8.0586,77.4925
+142,57,14,Kanniyakumari,Kanniyakumari West Sector A,COMMERCIAL,8.0467,77.6039
+143,57,14,Kanniyakumari,Kanniyakumari West Market,LOGISTICS_PARK,8.0407,77.5864
+144,58,14,Kanniyakumari,Kanniyakumari Rural Sector A,CAMPUS_ZONE,8.0243,77.4879
+145,58,14,Kanniyakumari,Kanniyakumari Rural Market,TRANSIT_JUNCTION,8.0122,77.4986
+146,59,15,Tenkasi,Tenkasi North Sector A,COMMERCIAL,8.9436,77.3579
+147,59,15,Tenkasi,Tenkasi North Market,TRANSIT_JUNCTION,8.9745,77.3722
+148,59,15,Tenkasi,Tenkasi North Bypass Hub,COMMERCIAL,8.9573,77.3987
+149,60,15,Tenkasi,Tenkasi South Sector A,TRANSIT_JUNCTION,8.9143,77.2505
+150,60,15,Tenkasi,Tenkasi South Market,COMMERCIAL,8.9038,77.2827
+151,61,15,Tenkasi,Tenkasi East Sector A,VILLAGE,8.9934,77.2976
+152,61,15,Tenkasi,Tenkasi East Market,RESIDENTIAL,8.9693,77.3316
+153,61,15,Tenkasi,Tenkasi East Bypass Hub,CAMPUS_ZONE,8.9937,77.3201
+154,62,16,Kancheepuram,Kancheepuram North Sector A,RESIDENTIAL,12.8571,79.7601
+155,62,16,Kancheepuram,Kancheepuram North Market,VILLAGE,12.8587,79.7787
+156,63,16,Kancheepuram,Kancheepuram South Sector A,CAMPUS_ZONE,12.8156,79.7380
+157,63,16,Kancheepuram,Kancheepuram South Market,VILLAGE,12.8036,79.7502
+158,64,16,Kancheepuram,Kancheepuram East Sector A,LOGISTICS_PARK,12.7928,79.7087
+159,64,16,Kancheepuram,Kancheepuram East Market,TRANSIT_JUNCTION,12.8342,79.7200
+160,65,16,Kancheepuram,Kancheepuram West Sector A,RESIDENTIAL,12.8449,79.7601
+161,65,16,Kancheepuram,Kancheepuram West Market,COMMERCIAL,12.8485,79.7340
+162,65,16,Kancheepuram,Kancheepuram West Bypass Hub,CAMPUS_ZONE,12.8633,79.7721
+163,66,16,Kancheepuram,Kancheepuram Rural Sector A,CAMPUS_ZONE,12.8900,79.7197
+164,66,16,Kancheepuram,Kancheepuram Rural Market,VILLAGE,12.8715,79.6945
+165,67,17,Chengalpattu,Chengalpattu North Sector A,RESIDENTIAL,12.7555,80.0109
+166,67,17,Chengalpattu,Chengalpattu North Market,CAMPUS_ZONE,12.7510,80.0198
+167,67,17,Chengalpattu,Chengalpattu North Bypass Hub,VILLAGE,12.7464,79.9955
+168,68,17,Chengalpattu,Chengalpattu South Sector A,LOGISTICS_PARK,12.6400,79.9747
+169,68,17,Chengalpattu,Chengalpattu South Market,LOGISTICS_PARK,12.6270,79.9795
+170,68,17,Chengalpattu,Chengalpattu South Bypass Hub,CAMPUS_ZONE,12.6126,79.9420
+171,69,17,Chengalpattu,Chengalpattu East Sector A,TRANSIT_JUNCTION,12.7017,80.0370
+172,69,17,Chengalpattu,Chengalpattu East Market,RESIDENTIAL,12.7000,80.0364
+173,70,17,Chengalpattu,Chengalpattu West Sector A,TRANSIT_JUNCTION,12.6960,80.0367
+174,70,17,Chengalpattu,Chengalpattu West Market,RESIDENTIAL,12.7193,80.0520
+175,71,17,Chengalpattu,Chengalpattu Rural Sector A,LOGISTICS_PARK,12.7002,79.9403
+176,71,17,Chengalpattu,Chengalpattu Rural Market,COMMERCIAL,12.7435,79.9275
+177,72,18,Tiruvallur,Tiruvallur North Sector A,CAMPUS_ZONE,13.1551,79.8732
+178,72,18,Tiruvallur,Tiruvallur North Market,VILLAGE,13.1431,79.8458
+179,73,18,Tiruvallur,Tiruvallur South Sector A,VILLAGE,13.2039,79.8533
+180,73,18,Tiruvallur,Tiruvallur South Market,TRANSIT_JUNCTION,13.1694,79.8858
+181,73,18,Tiruvallur,Tiruvallur South Bypass Hub,CAMPUS_ZONE,13.1900,79.8762
+182,74,18,Tiruvallur,Tiruvallur East Sector A,TRANSIT_JUNCTION,13.0952,79.8606
+183,74,18,Tiruvallur,Tiruvallur East Market,RESIDENTIAL,13.0995,79.8746
+184,74,18,Tiruvallur,Tiruvallur East Bypass Hub,LOGISTICS_PARK,13.1179,79.8840
+185,75,19,Cuddalore,Cuddalore North Sector A,COMMERCIAL,11.8113,79.7792
+186,75,19,Cuddalore,Cuddalore North Market,CAMPUS_ZONE,11.8231,79.7756
+187,75,19,Cuddalore,Cuddalore North Bypass Hub,COMMERCIAL,11.8076,79.7731
+188,76,19,Cuddalore,Cuddalore South Sector A,VILLAGE,11.7473,79.7116
+189,76,19,Cuddalore,Cuddalore South Market,CAMPUS_ZONE,11.7209,79.6911
+190,76,19,Cuddalore,Cuddalore South Bypass Hub,CAMPUS_ZONE,11.7514,79.6880
+191,77,19,Cuddalore,Cuddalore East Sector A,CAMPUS_ZONE,11.7362,79.7275
+192,77,19,Cuddalore,Cuddalore East Market,TRANSIT_JUNCTION,11.7566,79.7402
+193,77,19,Cuddalore,Cuddalore East Bypass Hub,LOGISTICS_PARK,11.7273,79.7220
+194,78,19,Cuddalore,Cuddalore West Sector A,CAMPUS_ZONE,11.7407,79.7379
+195,78,19,Cuddalore,Cuddalore West Market,TRANSIT_JUNCTION,11.7266,79.7358
+196,78,19,Cuddalore,Cuddalore West Bypass Hub,LOGISTICS_PARK,11.7262,79.7201
+197,79,19,Cuddalore,Cuddalore Rural Sector A,CAMPUS_ZONE,11.7714,79.7919
+198,79,19,Cuddalore,Cuddalore Rural Market,RESIDENTIAL,11.7816,79.7871
+199,79,19,Cuddalore,Cuddalore Rural Bypass Hub,VILLAGE,11.7854,79.7899
+200,80,20,Viluppuram,Viluppuram North Sector A,RESIDENTIAL,11.9940,79.5073
+201,80,20,Viluppuram,Viluppuram North Market,CAMPUS_ZONE,11.9711,79.4913
+202,81,20,Viluppuram,Viluppuram South Sector A,RESIDENTIAL,11.8947,79.4290
+203,81,20,Viluppuram,Viluppuram South Market,RESIDENTIAL,11.9270,79.4305
+204,82,20,Viluppuram,Viluppuram East Sector A,RESIDENTIAL,11.9684,79.5689
+205,82,20,Viluppuram,Viluppuram East Market,TRANSIT_JUNCTION,11.9468,79.5556
+206,83,21,Kallakurichi,Kallakurichi North Sector A,COMMERCIAL,11.6810,78.9284
+207,83,21,Kallakurichi,Kallakurichi North Market,LOGISTICS_PARK,11.7142,78.9618
+208,83,21,Kallakurichi,Kallakurichi North Bypass Hub,CAMPUS_ZONE,11.7174,78.9583
+209,84,21,Kallakurichi,Kallakurichi South Sector A,VILLAGE,11.6858,78.8863
+210,84,21,Kallakurichi,Kallakurichi South Market,RESIDENTIAL,11.6776,78.8869
+211,85,21,Kallakurichi,Kallakurichi East Sector A,RESIDENTIAL,11.7167,79.0423
+212,85,21,Kallakurichi,Kallakurichi East Market,VILLAGE,11.7229,79.0195
+213,85,21,Kallakurichi,Kallakurichi East Bypass Hub,VILLAGE,11.7012,79.0199
+214,86,21,Kallakurichi,Kallakurichi West Sector A,VILLAGE,11.8015,79.0044
+215,86,21,Kallakurichi,Kallakurichi West Market,CAMPUS_ZONE,11.8000,79.0247
+216,87,21,Kallakurichi,Kallakurichi Rural Sector A,CAMPUS_ZONE,11.7869,79.0123
+217,87,21,Kallakurichi,Kallakurichi Rural Market,TRANSIT_JUNCTION,11.7760,78.9862
+218,87,21,Kallakurichi,Kallakurichi Rural Bypass Hub,VILLAGE,11.7859,78.9719
+219,88,22,Dharmapuri,Dharmapuri North Sector A,VILLAGE,12.0451,78.1223
+220,88,22,Dharmapuri,Dharmapuri North Market,TRANSIT_JUNCTION,12.0440,78.1497
+221,89,22,Dharmapuri,Dharmapuri South Sector A,TRANSIT_JUNCTION,12.1030,78.1750
+222,89,22,Dharmapuri,Dharmapuri South Market,VILLAGE,12.1006,78.1624
+223,90,22,Dharmapuri,Dharmapuri East Sector A,CAMPUS_ZONE,12.1590,78.2264
+224,90,22,Dharmapuri,Dharmapuri East Market,COMMERCIAL,12.1648,78.1810
+225,91,22,Dharmapuri,Dharmapuri West Sector A,CAMPUS_ZONE,12.0622,78.1861
+226,91,22,Dharmapuri,Dharmapuri West Market,LOGISTICS_PARK,12.0918,78.1918
+227,92,23,Namakkal,Namakkal North Sector A,CAMPUS_ZONE,11.1341,78.1175
+228,92,23,Namakkal,Namakkal North Market,COMMERCIAL,11.1640,78.1222
+229,93,23,Namakkal,Namakkal South Sector A,COMMERCIAL,11.1843,78.1909
+230,93,23,Namakkal,Namakkal South Market,RESIDENTIAL,11.2307,78.1495
+231,93,23,Namakkal,Namakkal South Bypass Hub,VILLAGE,11.1860,78.1523
+232,94,23,Namakkal,Namakkal East Sector A,VILLAGE,11.1793,78.1228
+233,94,23,Namakkal,Namakkal East Market,COMMERCIAL,11.1973,78.1545
+234,95,23,Namakkal,Namakkal West Sector A,COMMERCIAL,11.2443,78.1120
+235,95,23,Namakkal,Namakkal West Market,RESIDENTIAL,11.2299,78.0931
+236,96,24,Nilgiris,Nilgiris North Sector A,COMMERCIAL,11.3702,76.7288
+237,96,24,Nilgiris,Nilgiris North Market,COMMERCIAL,11.4176,76.7074
+238,97,24,Nilgiris,Nilgiris South Sector A,VILLAGE,11.4381,76.7678
+239,97,24,Nilgiris,Nilgiris South Market,CAMPUS_ZONE,11.4313,76.7686
+240,98,24,Nilgiris,Nilgiris East Sector A,LOGISTICS_PARK,11.4091,76.6344
+241,98,24,Nilgiris,Nilgiris East Market,RESIDENTIAL,11.4225,76.6030
+242,98,24,Nilgiris,Nilgiris East Bypass Hub,COMMERCIAL,11.4492,76.6056
+243,99,24,Nilgiris,Nilgiris West Sector A,RESIDENTIAL,11.4208,76.7085
+244,99,24,Nilgiris,Nilgiris West Market,LOGISTICS_PARK,11.4394,76.7071
+245,100,25,Karur,Karur North Sector A,VILLAGE,11.0427,78.0592
+246,100,25,Karur,Karur North Market,COMMERCIAL,11.0065,78.1014
+247,100,25,Karur,Karur North Bypass Hub,RESIDENTIAL,11.0306,78.0988
+248,101,25,Karur,Karur South Sector A,RESIDENTIAL,10.8927,78.0702
+249,101,25,Karur,Karur South Market,LOGISTICS_PARK,10.8843,78.0805
+250,102,25,Karur,Karur East Sector A,RESIDENTIAL,10.9244,78.0374
+251,102,25,Karur,Karur East Market,LOGISTICS_PARK,10.9197,78.0248
+252,103,25,Karur,Karur West Sector A,CAMPUS_ZONE,10.8861,78.0807
+253,103,25,Karur,Karur West Market,RESIDENTIAL,10.8901,78.0739
+254,103,25,Karur,Karur West Bypass Hub,RESIDENTIAL,10.8867,78.0566
+255,104,26,Ariyalur,Ariyalur North Sector A,CAMPUS_ZONE,11.1869,79.1505
+256,104,26,Ariyalur,Ariyalur North Market,CAMPUS_ZONE,11.2179,79.1449
+257,104,26,Ariyalur,Ariyalur North Bypass Hub,COMMERCIAL,11.1908,79.1298
+258,105,26,Ariyalur,Ariyalur South Sector A,LOGISTICS_PARK,11.1228,79.1339
+259,105,26,Ariyalur,Ariyalur South Market,COMMERCIAL,11.1493,79.1362
+260,105,26,Ariyalur,Ariyalur South Bypass Hub,VILLAGE,11.1505,79.1716
+261,106,26,Ariyalur,Ariyalur East Sector A,COMMERCIAL,11.1325,79.0431
+262,106,26,Ariyalur,Ariyalur East Market,TRANSIT_JUNCTION,11.1514,79.0291
+263,107,26,Ariyalur,Ariyalur West Sector A,COMMERCIAL,11.1953,79.0310
+264,107,26,Ariyalur,Ariyalur West Market,RESIDENTIAL,11.1896,79.0644
+265,108,27,Perambalur,Perambalur North Sector A,TRANSIT_JUNCTION,11.2924,78.8164
+266,108,27,Perambalur,Perambalur North Market,COMMERCIAL,11.2871,78.8594
+267,109,27,Perambalur,Perambalur South Sector A,RESIDENTIAL,11.1554,78.9434
+268,109,27,Perambalur,Perambalur South Market,CAMPUS_ZONE,11.1623,78.9390
+269,109,27,Perambalur,Perambalur South Bypass Hub,COMMERCIAL,11.1612,78.9578
+270,110,27,Perambalur,Perambalur East Sector A,TRANSIT_JUNCTION,11.2466,78.8038
+271,110,27,Perambalur,Perambalur East Market,VILLAGE,11.2760,78.8058
+272,110,27,Perambalur,Perambalur East Bypass Hub,COMMERCIAL,11.2499,78.8423
+273,111,28,Pudukkottai,Pudukkottai North Sector A,TRANSIT_JUNCTION,10.4113,78.8354
+274,111,28,Pudukkottai,Pudukkottai North Market,RESIDENTIAL,10.3956,78.8560
+275,112,28,Pudukkottai,Pudukkottai South Sector A,RESIDENTIAL,10.3309,78.8764
+276,112,28,Pudukkottai,Pudukkottai South Market,CAMPUS_ZONE,10.3594,78.8807
+277,113,28,Pudukkottai,Pudukkottai East Sector A,RESIDENTIAL,10.4288,78.7870
+278,113,28,Pudukkottai,Pudukkottai East Market,COMMERCIAL,10.4506,78.7940
+279,114,29,Sivaganga,Sivaganga North Sector A,TRANSIT_JUNCTION,9.8851,78.5659
+280,114,29,Sivaganga,Sivaganga North Market,TRANSIT_JUNCTION,9.8576,78.5588
+281,114,29,Sivaganga,Sivaganga North Bypass Hub,VILLAGE,9.8828,78.5430
+282,115,29,Sivaganga,Sivaganga South Sector A,COMMERCIAL,9.8765,78.5050
+283,115,29,Sivaganga,Sivaganga South Market,COMMERCIAL,9.9081,78.4609
+284,115,29,Sivaganga,Sivaganga South Bypass Hub,TRANSIT_JUNCTION,9.8891,78.4729
+285,116,29,Sivaganga,Sivaganga East Sector A,RESIDENTIAL,9.8371,78.4923
+286,116,29,Sivaganga,Sivaganga East Market,LOGISTICS_PARK,9.8512,78.5203
+287,117,29,Sivaganga,Sivaganga West Sector A,COMMERCIAL,9.8784,78.5313
+288,117,29,Sivaganga,Sivaganga West Market,VILLAGE,9.8798,78.5637
+289,118,30,Ramanathapuram,Ramanathapuram North Sector A,TRANSIT_JUNCTION,9.4020,78.8110
+290,118,30,Ramanathapuram,Ramanathapuram North Market,VILLAGE,9.3902,78.7894
+291,119,30,Ramanathapuram,Ramanathapuram South Sector A,RESIDENTIAL,9.3314,78.7915
+292,119,30,Ramanathapuram,Ramanathapuram South Market,CAMPUS_ZONE,9.3472,78.7820
+293,119,30,Ramanathapuram,Ramanathapuram South Bypass Hub,RESIDENTIAL,9.3399,78.7826
+294,120,30,Ramanathapuram,Ramanathapuram East Sector A,VILLAGE,9.2969,78.9058
+295,120,30,Ramanathapuram,Ramanathapuram East Market,TRANSIT_JUNCTION,9.3021,78.8623
+296,120,30,Ramanathapuram,Ramanathapuram East Bypass Hub,COMMERCIAL,9.3042,78.8743
+297,121,30,Ramanathapuram,Ramanathapuram West Sector A,VILLAGE,9.2949,78.8466
+298,121,30,Ramanathapuram,Ramanathapuram West Market,RESIDENTIAL,9.2941,78.8511
+299,121,30,Ramanathapuram,Ramanathapuram West Bypass Hub,LOGISTICS_PARK,9.2879,78.8655
+300,122,31,Virudhunagar,Virudhunagar North Sector A,RESIDENTIAL,9.5540,77.9154
+301,122,31,Virudhunagar,Virudhunagar North Market,COMMERCIAL,9.5376,77.9260
+302,123,31,Virudhunagar,Virudhunagar South Sector A,LOGISTICS_PARK,9.5620,77.9659
+303,123,31,Virudhunagar,Virudhunagar South Market,VILLAGE,9.5588,77.9861
+304,124,31,Virudhunagar,Virudhunagar East Sector A,COMMERCIAL,9.6177,78.0372
+305,124,31,Virudhunagar,Virudhunagar East Market,TRANSIT_JUNCTION,9.6135,78.0209
+306,125,31,Virudhunagar,Virudhunagar West Sector A,COMMERCIAL,9.5361,77.9392
+307,125,31,Virudhunagar,Virudhunagar West Market,CAMPUS_ZONE,9.5049,77.9287
+308,126,31,Virudhunagar,Virudhunagar Rural Sector A,LOGISTICS_PARK,9.5214,78.0147
+309,126,31,Virudhunagar,Virudhunagar Rural Market,CAMPUS_ZONE,9.5099,78.0309
+310,127,32,Theni,Theni North Sector A,COMMERCIAL,10.0999,77.4456
+311,127,32,Theni,Theni North Market,VILLAGE,10.0588,77.4723
+312,128,32,Theni,Theni South Sector A,LOGISTICS_PARK,10.0852,77.4937
+313,128,32,Theni,Theni South Market,COMMERCIAL,10.0875,77.4921
+314,129,32,Theni,Theni East Sector A,RESIDENTIAL,9.9958,77.5036
+315,129,32,Theni,Theni East Market,RESIDENTIAL,9.9775,77.5117
+316,129,32,Theni,Theni East Bypass Hub,LOGISTICS_PARK,9.9744,77.5391
+317,130,32,Theni,Theni West Sector A,VILLAGE,9.9837,77.4738
+318,130,32,Theni,Theni West Market,VILLAGE,9.9604,77.4909
+319,130,32,Theni,Theni West Bypass Hub,CAMPUS_ZONE,9.9701,77.4885
+320,131,32,Theni,Theni Rural Sector A,CAMPUS_ZONE,9.9582,77.4762
+321,131,32,Theni,Theni Rural Market,COMMERCIAL,9.9562,77.4643
+322,131,32,Theni,Theni Rural Bypass Hub,CAMPUS_ZONE,9.9459,77.4907
+323,132,33,Thiruvarur,Thiruvarur North Sector A,VILLAGE,10.8577,79.6895
+324,132,33,Thiruvarur,Thiruvarur North Market,LOGISTICS_PARK,10.8230,79.7339
+325,133,33,Thiruvarur,Thiruvarur South Sector A,RESIDENTIAL,10.7989,79.6689
+326,133,33,Thiruvarur,Thiruvarur South Market,LOGISTICS_PARK,10.8252,79.6275
+327,134,33,Thiruvarur,Thiruvarur East Sector A,CAMPUS_ZONE,10.7894,79.6268
+328,134,33,Thiruvarur,Thiruvarur East Market,CAMPUS_ZONE,10.7626,79.5945
+329,134,33,Thiruvarur,Thiruvarur East Bypass Hub,TRANSIT_JUNCTION,10.7758,79.6267
+330,135,33,Thiruvarur,Thiruvarur West Sector A,LOGISTICS_PARK,10.7016,79.6674
+331,135,33,Thiruvarur,Thiruvarur West Market,RESIDENTIAL,10.7265,79.6660
+332,136,34,Nagapattinam,Nagapattinam North Sector A,RESIDENTIAL,10.7938,79.8150
+333,136,34,Nagapattinam,Nagapattinam North Market,RESIDENTIAL,10.8311,79.8127
+334,136,34,Nagapattinam,Nagapattinam North Bypass Hub,RESIDENTIAL,10.8062,79.8481
+335,137,34,Nagapattinam,Nagapattinam South Sector A,RESIDENTIAL,10.7916,79.7669
+336,137,34,Nagapattinam,Nagapattinam South Market,LOGISTICS_PARK,10.7774,79.7898
+337,137,34,Nagapattinam,Nagapattinam South Bypass Hub,RESIDENTIAL,10.7526,79.7792
+338,138,34,Nagapattinam,Nagapattinam East Sector A,COMMERCIAL,10.8015,79.8639
+339,138,34,Nagapattinam,Nagapattinam East Market,CAMPUS_ZONE,10.8300,79.8628
+340,139,34,Nagapattinam,Nagapattinam West Sector A,VILLAGE,10.8161,79.9038
+341,139,34,Nagapattinam,Nagapattinam West Market,VILLAGE,10.7968,79.8994
+342,139,34,Nagapattinam,Nagapattinam West Bypass Hub,VILLAGE,10.8205,79.9304
+343,140,35,Mayiladuthurai,Mayiladuthurai North Sector A,VILLAGE,11.0349,79.6889
+344,140,35,Mayiladuthurai,Mayiladuthurai North Market,COMMERCIAL,11.0188,79.7097
+345,141,35,Mayiladuthurai,Mayiladuthurai South Sector A,TRANSIT_JUNCTION,11.1256,79.5957
+346,141,35,Mayiladuthurai,Mayiladuthurai South Market,RESIDENTIAL,11.1309,79.6037
+347,142,35,Mayiladuthurai,Mayiladuthurai East Sector A,RESIDENTIAL,11.1520,79.5798
+348,142,35,Mayiladuthurai,Mayiladuthurai East Market,LOGISTICS_PARK,11.1356,79.6078
+349,143,35,Mayiladuthurai,Mayiladuthurai West Sector A,COMMERCIAL,11.1428,79.6070
+350,143,35,Mayiladuthurai,Mayiladuthurai West Market,VILLAGE,11.1504,79.5941
+351,143,35,Mayiladuthurai,Mayiladuthurai West Bypass Hub,RESIDENTIAL,11.1580,79.6167
+352,144,36,Ranipet,Ranipet North Sector A,LOGISTICS_PARK,12.9418,79.4012
+353,144,36,Ranipet,Ranipet North Market,RESIDENTIAL,12.9707,79.4199
+354,144,36,Ranipet,Ranipet North Bypass Hub,VILLAGE,12.9696,79.4072
+355,145,36,Ranipet,Ranipet South Sector A,CAMPUS_ZONE,12.9284,79.3672
+356,145,36,Ranipet,Ranipet South Market,LOGISTICS_PARK,12.9173,79.4055
+357,146,36,Ranipet,Ranipet East Sector A,CAMPUS_ZONE,12.9211,79.3045
+358,146,36,Ranipet,Ranipet East Market,TRANSIT_JUNCTION,12.8884,79.3069
+359,147,37,Tirupathur,Tirupathur North Sector A,RESIDENTIAL,12.4962,78.6371
+360,147,37,Tirupathur,Tirupathur North Market,VILLAGE,12.4581,78.6143
+361,148,37,Tirupathur,Tirupathur South Sector A,RESIDENTIAL,12.5034,78.5728
+362,148,37,Tirupathur,Tirupathur South Market,RESIDENTIAL,12.5244,78.5744
+363,148,37,Tirupathur,Tirupathur South Bypass Hub,VILLAGE,12.5196,78.5514
+364,149,37,Tirupathur,Tirupathur East Sector A,VILLAGE,12.5475,78.6560
+365,149,37,Tirupathur,Tirupathur East Market,COMMERCIAL,12.5455,78.6529
+366,150,38,Tiruvannamalai,Tiruvannamalai North Sector A,TRANSIT_JUNCTION,12.2466,79.1186
+367,150,38,Tiruvannamalai,Tiruvannamalai North Market,CAMPUS_ZONE,12.2351,79.1237
+368,151,38,Tiruvannamalai,Tiruvannamalai South Sector A,VILLAGE,12.2775,79.0077
+369,151,38,Tiruvannamalai,Tiruvannamalai South Market,RESIDENTIAL,12.2919,79.0376
+370,152,38,Tiruvannamalai,Tiruvannamalai East Sector A,LOGISTICS_PARK,12.2263,79.0737
+371,152,38,Tiruvannamalai,Tiruvannamalai East Market,RESIDENTIAL,12.2426,79.0531
+372,152,38,Tiruvannamalai,Tiruvannamalai East Bypass Hub,RESIDENTIAL,12.2473,79.0871
+373,153,38,Tiruvannamalai,Tiruvannamalai West Sector A,LOGISTICS_PARK,12.3076,79.0700
+374,153,38,Tiruvannamalai,Tiruvannamalai West Market,CAMPUS_ZONE,12.3070,79.0304

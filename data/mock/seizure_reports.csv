@@ -1,0 +1,9 @@
+seizure_id,reference_fir,district_name,location_name,seizure_date,substance_name,quantity_kg,packaging_type,estimated_street_value_inr,arrests_count,intercepting_agency
+SEZ-2026-001,FIR/CBE/104/26,Coimbatore,Gandhipuram Cross Cut Road,2026-08-16,Synthetic MDMA Tablets,0.450,Heat-sealed Foil Packets,450000,2,City Police STF
+SEZ-2026-002,FIR/KRI/88/26,Krishnagiri,Hosur SIPCOT Phase 2,2026-08-15,Commercial Ganja,24.500,Jute Sacks Compressed,735000,3,Interstate Task Force
+SEZ-2026-003,FIR/CHN/412/26,Chennai,Egmore Railway Goods Terminal,2026-08-16,Prescription Opioids,1.200,Cardboard Parcel Crates,240000,1,RPF & City Crime Wing
+SEZ-2026-004,FIR/MDU/201/26,Madurai,Mattuthavani Bus Stand,2026-08-15,Commercial Ganja,18.000,Plastic Wraps,540000,2,Madurai City Police
+SEZ-2026-005,FIR/TUT/89/26,Thoothukudi,Old Port Wharf Anchorage,2026-08-16,Commercial Ganja,42.000,Waterproof Marine Bales,1260000,4,Coastal Security Group
+SEZ-2026-006,FIR/RMD/34/26,Ramanathapuram,Mandapam Coastal Road,2026-08-14,Commercial Ganja,35.000,Polypropylene Sacks,1050000,3,Coast Guard & Police
+SEZ-2026-007,FIR/VEL/77/26,Vellore,Katpadi Railway Junction,2026-08-16,Prescription Ampoules,0.850,Glass Ampoule Crates,170000,1,Railway Police
+SEZ-2026-008,FIR/TPR/109/26,Tiruppur,Avinashi Road Textile Cluster,2026-08-15,Tramadol Tablets,0.600,Blister Strips,120000,2,Tiruppur Police

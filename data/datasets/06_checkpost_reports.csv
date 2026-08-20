@@ -1,0 +1,1051 @@
+checkpost_report_id,checkpost_name,district_id,district_name,border_corridor,scanned_at,transit_direction,category_id,category_name,volume_band
+CHK-2026-00001,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-10-15 13:48:30,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00002,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-04-05 14:36:05,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00003,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-09-27 14:35:17,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00004,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-11 22:05:56,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00005,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-03-04 02:08:08,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00006,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-04-24 21:28:04,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00007,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-01 04:39:50,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00008,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-05-19 09:19:05,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00009,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-06-10 09:27:09,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00010,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-05-15 14:57:20,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00011,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-05-19 01:35:03,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00012,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-06-03 10:57:55,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00013,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-12-27 11:06:35,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00014,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-10-21 09:43:52,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00015,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-02-12 21:36:10,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00016,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-09-15 12:22:08,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00017,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-03-28 07:23:13,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00018,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-11-26 11:15:37,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00019,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-28 20:08:54,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00020,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-04-21 09:02:43,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00021,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-03-09 12:11:24,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00022,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-01-08 14:37:28,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00023,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-10-04 21:03:26,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00024,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-08-18 05:20:50,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00025,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-02-23 17:19:29,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00026,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-05-18 16:06:29,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00027,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-10-14 20:45:37,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00028,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-08-09 06:32:22,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00029,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-07-17 13:19:08,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00030,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-05-29 17:43:03,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00031,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-02-26 16:27:13,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00032,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-09-01 17:13:39,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00033,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-02-13 09:16:03,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00034,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-12-26 09:37:27,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00035,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-01-08 20:01:29,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00036,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-08-16 04:03:12,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00037,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-12-25 15:47:47,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00038,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-25 09:56:10,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00039,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-02-11 14:02:11,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00040,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-07-22 22:44:04,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00041,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-05 20:49:16,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00042,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-14 13:08:59,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00043,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-04 06:02:21,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00044,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-23 14:56:09,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00045,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-10-26 07:52:39,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00046,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-06-16 19:27:26,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00047,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-12 07:08:32,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00048,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-03 03:19:12,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00049,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-08-27 05:48:40,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00050,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-04-11 02:50:47,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00051,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-08-12 23:47:14,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00052,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-03-01 09:41:15,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00053,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-04-02 13:09:34,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00054,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-06-28 06:31:57,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00055,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-09-15 03:47:58,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00056,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-03-31 17:36:57,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00057,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-01 11:53:04,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00058,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-07-21 00:48:48,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00059,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-04-30 16:10:09,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00060,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-04-10 10:09:44,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00061,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-02-05 11:49:22,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00062,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-12-29 13:39:41,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00063,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-01-22 09:55:49,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00064,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-09-28 16:52:33,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00065,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-06 19:36:30,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00066,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-11-08 00:29:36,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00067,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-06-08 04:15:43,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00068,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-22 10:55:42,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00069,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-11-09 02:07:16,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00070,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-19 07:56:32,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00071,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-09-22 09:24:09,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00072,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-10 17:45:17,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00073,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-05-10 10:30:23,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00074,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-02-02 14:41:01,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00075,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-07-15 15:47:27,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00076,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-12-15 13:01:21,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00077,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-06-20 12:55:29,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00078,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-27 14:54:52,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00079,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-06-09 07:24:31,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00080,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-07-02 17:42:23,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00081,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-08-18 08:10:19,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00082,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-07-27 12:56:27,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00083,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-03-27 02:02:00,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00084,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-05-21 00:07:33,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00085,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-20 18:27:40,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00086,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-01-22 19:57:43,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00087,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-01-05 11:00:32,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00088,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-10-30 00:51:06,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00089,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-02-02 17:21:48,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00090,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-10-14 00:38:27,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00091,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-12-29 08:56:31,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00092,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-05-29 19:47:31,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00093,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-09-28 10:32:34,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00094,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-11-18 23:34:22,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00095,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-08-12 21:52:26,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00096,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-11-19 22:23:30,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00097,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-02-10 21:03:35,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00098,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-05-28 10:56:55,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00099,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-11-23 19:13:12,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00100,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-10-17 09:40:54,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00101,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-05-19 23:22:37,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00102,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-10-03 11:10:22,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00103,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-07-12 17:32:00,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00104,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-05-27 05:19:14,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00105,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-29 08:30:46,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00106,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-10-10 06:22:29,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00107,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-12-04 03:11:39,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00108,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-01-31 17:11:26,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00109,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-01-06 09:25:40,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00110,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-10-03 00:20:10,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00111,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-09 21:43:48,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00112,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-07-30 23:19:43,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00113,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-12-07 00:54:39,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00114,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-02-23 07:02:35,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00115,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-08-25 15:18:47,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00116,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-09-22 06:34:06,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00117,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-05-13 15:45:22,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00118,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-12-26 18:11:13,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00119,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-01-05 06:24:00,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00120,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-25 07:27:57,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00121,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-09-16 19:57:42,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00122,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-08-01 22:09:53,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00123,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-08-17 03:55:40,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00124,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-20 16:55:05,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00125,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-08-08 00:27:22,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00126,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-02-05 04:44:43,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00127,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-11-04 04:35:20,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00128,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-03-05 13:46:44,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00129,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-07-15 04:12:30,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00130,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-08-21 23:32:11,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00131,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-10-24 04:00:10,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00132,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-02 00:01:37,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00133,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-06-07 01:17:12,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00134,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-06-02 06:02:16,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00135,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-03-17 18:55:45,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00136,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-10-24 03:07:36,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00137,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-03-01 14:15:21,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00138,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-11-22 16:08:59,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00139,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-10 06:06:08,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00140,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-03-27 16:42:34,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00141,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-07-19 23:28:31,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00142,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-04-16 08:05:55,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00143,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-09-11 11:17:48,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00144,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-02-01 16:49:53,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00145,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-07-07 12:19:46,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00146,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-09-30 23:25:55,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00147,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-08-03 19:34:16,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00148,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-10-21 04:59:29,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00149,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-05-14 07:44:04,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00150,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-08-31 06:35:33,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00151,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-09-06 16:10:49,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00152,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-05-15 05:57:58,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00153,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-09-24 03:59:31,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00154,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-07-21 11:25:19,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00155,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-02-25 19:04:38,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00156,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-01-18 10:08:03,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00157,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-05-25 11:30:50,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00158,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-09-08 03:57:19,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00159,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-12-13 13:09:50,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00160,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-04-18 22:24:35,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00161,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-07 16:51:38,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00162,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-14 21:43:54,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00163,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-17 01:06:42,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00164,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-12-27 02:57:51,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00165,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-11-11 16:45:41,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00166,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-04-09 22:44:45,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00167,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-18 11:10:39,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00168,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-07-03 10:23:35,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00169,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-07 09:29:58,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00170,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-11-25 16:36:36,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00171,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-03 05:45:59,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00172,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-04-17 18:18:48,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00173,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-07-06 05:18:12,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00174,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-12-24 09:44:16,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00175,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-12-22 06:08:16,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00176,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-05-27 05:43:07,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00177,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-12-28 02:46:51,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00178,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-02-26 20:55:30,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00179,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-01-08 13:59:31,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00180,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-11-12 11:37:13,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00181,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-08-03 17:26:45,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00182,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-12-25 14:14:05,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00183,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-01-22 11:23:34,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00184,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-04 08:30:17,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00185,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-01-02 01:48:02,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00186,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-04-05 21:51:03,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00187,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-03-15 16:12:29,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00188,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-04 10:10:02,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00189,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-10 22:56:32,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00190,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-03-12 07:51:09,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00191,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-11-02 19:51:36,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00192,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-11-01 09:42:10,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00193,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-04-22 02:23:01,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00194,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-01-12 10:26:48,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00195,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-04-18 23:38:11,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00196,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-12-05 23:03:19,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00197,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-08-17 13:06:21,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00198,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-28 10:40:09,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00199,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-07-29 13:59:24,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00200,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-03-09 04:56:45,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00201,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-04-22 18:58:12,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00202,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-04-01 08:42:43,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00203,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-09-04 18:15:17,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00204,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-10-16 02:10:02,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00205,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-07 13:35:05,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00206,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-08-29 00:45:31,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00207,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-11-03 19:55:44,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00208,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-01-31 18:17:01,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00209,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-05 15:11:39,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00210,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-03-25 03:23:33,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00211,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-29 22:49:56,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00212,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-09-30 08:05:22,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00213,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-18 23:35:08,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00214,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-01-22 22:50:53,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00215,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-12-15 13:50:50,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00216,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-11-02 15:28:05,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00217,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-01-04 12:42:04,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00218,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-09-05 11:54:50,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00219,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-09-28 06:53:27,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00220,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-03-13 18:55:23,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00221,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-04-25 17:14:33,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00222,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-06-07 18:57:30,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00223,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-05-01 18:10:07,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00224,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-10-13 07:23:58,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00225,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-08-19 04:33:09,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00226,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-06-07 22:13:48,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00227,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-01-29 12:51:06,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00228,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-07-14 02:33:07,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00229,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-03-22 17:54:04,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00230,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-08-18 14:41:12,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00231,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-01-18 14:55:14,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00232,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-02-09 21:51:38,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00233,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-28 19:55:58,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00234,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-11-26 18:03:38,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00235,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-05-09 10:24:42,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00236,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-04-13 06:00:16,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00237,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-04-09 16:36:51,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00238,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-11-08 15:47:46,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00239,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-10-04 16:08:13,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00240,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-12 04:57:58,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00241,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-01-04 21:03:11,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00242,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-14 19:47:27,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00243,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-08-18 12:46:29,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00244,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-17 10:40:54,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00245,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-02-15 23:42:59,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00246,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-02-18 05:24:36,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00247,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-10-15 01:16:39,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00248,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-10-25 20:53:21,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00249,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-03-11 13:14:44,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00250,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-12-13 01:09:54,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00251,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-10-19 08:19:20,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00252,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-01-02 04:46:53,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00253,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-05-22 02:47:38,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00254,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-11-18 17:32:46,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00255,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-10-08 14:35:48,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00256,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-12-17 12:20:56,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00257,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-12-21 05:24:16,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00258,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-03-18 21:13:49,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00259,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-07-16 13:43:22,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00260,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-12-26 14:33:42,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00261,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-18 09:13:01,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00262,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-11-13 12:14:50,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00263,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-05-10 23:38:58,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00264,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-02-13 10:19:38,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00265,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-20 04:58:11,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00266,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-02-07 07:17:14,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00267,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-06-24 20:58:08,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00268,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-11-30 17:01:08,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00269,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-05-18 13:46:43,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00270,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-07-16 05:21:26,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00271,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-07-11 10:51:24,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00272,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-09-05 17:13:29,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00273,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-15 14:24:50,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00274,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-08-01 21:21:23,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00275,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-11-18 11:42:57,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00276,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-07 00:41:16,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00277,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-08-03 00:03:50,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00278,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-01-13 02:33:28,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00279,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-05-10 12:24:51,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00280,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-03 09:03:25,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00281,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-02-11 03:45:25,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00282,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-04-29 09:59:00,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00283,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-06-02 17:01:41,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00284,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-11-15 17:34:30,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00285,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-04-11 18:43:27,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00286,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-11-11 09:38:54,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00287,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-03-12 22:26:25,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00288,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-05-09 19:39:33,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00289,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-02-15 20:55:21,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00290,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-08-12 11:10:53,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00291,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-08-13 22:40:30,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00292,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-04-16 03:24:51,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00293,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-03-18 19:42:36,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00294,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-10-31 10:15:47,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00295,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-07-20 04:50:35,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00296,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-10-03 09:33:41,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00297,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-09 08:11:43,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00298,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-12-11 17:53:58,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00299,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-06-05 08:19:02,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00300,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-07-18 07:04:26,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00301,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-03-05 02:20:22,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00302,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-04-01 08:21:34,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00303,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-05-04 20:11:36,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00304,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-12-31 17:08:45,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00305,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-06-10 17:07:31,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00306,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-07-31 20:26:40,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00307,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-06-01 06:11:38,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00308,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-08-20 04:21:36,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00309,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-05-23 21:42:25,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00310,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-05-30 22:25:32,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00311,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-06-24 20:16:57,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00312,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-07-30 20:54:03,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00313,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-06-11 05:17:17,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00314,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-09-10 00:56:02,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00315,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-12-12 02:21:36,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00316,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-05-10 23:54:16,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00317,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-05-26 19:09:00,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00318,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-11-29 09:52:33,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00319,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-10-24 17:23:58,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00320,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-06-05 06:43:42,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00321,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-07-04 08:10:18,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00322,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-01-27 17:09:43,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00323,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-02-21 18:05:59,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00324,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-05-26 13:35:02,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00325,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-09-20 00:57:39,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00326,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-03 16:59:19,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00327,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-26 10:27:03,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00328,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-04-23 07:13:49,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00329,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-06 15:59:11,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00330,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-12 16:59:37,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00331,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-10-28 10:23:19,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00332,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-12-23 09:44:37,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00333,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-01-20 13:13:14,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00334,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-01-09 15:56:15,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00335,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-10-04 07:47:29,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00336,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-02-10 01:17:00,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00337,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-09-13 17:22:11,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00338,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-17 18:53:21,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00339,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-11-16 03:57:31,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00340,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-10-10 02:54:37,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00341,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-02-25 05:16:08,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00342,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-06-06 06:43:44,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00343,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-14 15:37:01,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00344,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-05-08 07:20:31,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00345,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-03-14 12:13:20,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00346,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-03-10 21:11:21,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00347,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-11-05 16:02:08,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00348,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-10-27 00:18:28,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00349,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-11-06 20:19:29,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00350,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-02-03 19:30:48,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00351,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-01-21 00:15:08,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00352,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-05-10 09:18:54,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00353,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-12 05:50:24,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00354,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-03-10 06:49:21,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00355,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-12-17 06:51:51,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00356,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-11-09 18:56:34,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00357,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-05-08 04:12:36,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00358,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-12-30 14:46:29,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00359,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-03-28 07:52:35,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00360,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-08-01 18:07:12,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00361,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-09-14 08:10:04,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00362,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-12-20 16:13:00,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00363,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-08-10 21:48:59,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00364,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-05-22 07:08:17,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00365,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-03-12 08:26:20,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00366,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-01 14:01:38,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00367,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-04-06 16:58:04,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00368,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-10-27 01:10:29,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00369,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-05-27 12:54:18,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00370,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-05-13 10:34:33,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00371,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-04-10 19:18:13,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00372,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-11-09 07:19:52,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00373,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-03-20 15:29:37,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00374,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-12-28 04:22:40,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00375,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-06 21:08:33,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00376,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-06-13 13:08:42,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00377,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-03-31 16:32:27,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00378,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-01-02 09:06:01,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00379,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-12-16 22:23:53,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00380,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-08-12 02:19:37,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00381,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-04-03 23:25:47,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00382,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-03-27 11:56:42,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00383,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-12-24 17:18:26,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00384,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-02-11 13:16:16,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00385,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-06-11 05:45:19,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00386,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-12-15 07:14:24,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00387,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-04-27 05:09:43,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00388,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-10-21 18:23:54,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00389,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-09-23 22:54:25,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00390,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-09-10 09:33:52,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00391,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-02-03 15:44:08,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00392,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-01-22 17:24:05,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00393,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-11-04 23:42:34,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00394,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-09-29 19:09:32,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00395,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-01-05 22:25:32,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00396,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-01-14 19:10:45,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00397,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-06-22 06:21:31,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00398,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-09-09 21:21:18,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00399,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-11-18 16:47:06,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00400,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-03-01 21:20:19,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00401,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-12-14 09:07:02,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00402,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-15 13:30:22,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00403,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-05-23 11:17:10,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00404,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-02-24 07:52:11,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00405,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-09-22 03:15:39,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00406,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-02-16 20:48:32,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00407,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-02-03 18:35:58,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00408,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-11-27 01:31:19,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00409,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-12-20 20:21:12,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00410,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-03-16 17:30:37,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00411,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-09-23 21:54:02,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00412,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-04 09:44:37,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00413,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-11-18 10:05:30,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00414,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-23 04:25:49,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00415,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-10-01 19:37:41,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00416,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-09-24 08:25:50,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00417,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-03 23:23:50,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00418,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-02-05 23:46:02,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00419,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-02-26 08:56:20,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00420,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-11-12 15:44:31,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00421,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-06-10 16:07:06,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00422,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-01-17 09:10:45,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00423,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-09-22 10:18:50,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00424,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-06 15:05:00,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00425,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-05-15 17:21:00,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00426,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-10 08:53:39,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00427,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-10-22 21:33:43,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00428,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-10-27 14:41:53,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00429,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-01-02 20:23:02,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00430,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-01-21 09:43:52,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00431,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-04-08 16:21:24,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00432,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-10-15 19:37:47,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00433,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-12-12 22:24:44,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00434,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-10-09 02:32:12,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00435,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-10-09 17:03:37,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00436,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-08-02 07:31:13,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00437,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-12-28 08:11:04,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00438,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-11-10 00:23:23,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00439,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-12-09 09:10:42,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00440,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-09-06 22:38:49,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00441,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-08-10 01:10:24,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00442,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-10-11 22:16:31,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00443,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-08-06 15:35:27,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00444,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-11-18 23:15:57,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00445,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-07-15 18:42:43,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00446,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-11-17 10:16:05,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00447,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-07-05 04:55:52,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00448,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-05-10 16:40:52,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00449,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-07 20:26:25,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00450,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-01-15 20:32:01,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00451,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-08-18 03:10:26,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00452,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-06-02 07:56:50,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00453,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-07-22 19:30:46,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00454,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-01-14 11:49:10,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00455,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-11-27 13:07:50,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00456,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-17 08:55:39,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00457,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-10-17 20:37:42,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00458,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-05-17 07:00:31,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00459,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-10-02 01:53:15,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00460,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-01-05 19:04:46,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00461,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-04-13 02:56:05,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00462,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-02-19 18:19:32,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00463,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-11-02 22:33:32,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00464,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-12-09 18:06:23,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00465,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-10-13 19:03:46,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00466,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-02-02 09:36:33,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00467,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-07-03 16:47:47,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00468,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-12-20 16:44:45,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00469,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-05-13 11:29:47,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00470,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-05-02 11:44:07,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00471,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-02-17 09:50:43,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00472,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-10-05 21:08:40,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00473,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-09-26 02:30:43,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00474,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-13 00:48:16,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00475,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-04-23 16:57:18,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00476,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-08-04 19:47:40,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00477,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-06 18:50:50,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00478,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-08-11 01:20:38,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00479,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-03-09 12:11:44,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00480,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-04-28 09:54:01,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00481,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-04-16 19:52:15,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00482,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-05-04 14:16:02,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00483,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-10-15 09:11:31,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00484,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-11-28 00:49:14,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00485,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-07 12:57:28,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00486,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-11-21 12:27:19,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00487,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-02-15 23:12:17,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00488,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-08-04 19:34:57,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00489,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-07-09 23:17:06,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00490,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-05-27 23:39:15,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00491,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-03-26 19:34:47,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00492,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-12-07 06:48:04,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00493,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-30 14:37:29,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00494,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-11-25 07:12:22,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00495,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-11-29 10:59:24,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00496,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-09-13 18:59:28,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00497,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-02-19 18:03:48,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00498,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-05-27 20:04:49,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00499,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-10-31 08:35:05,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00500,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-03-28 23:25:19,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00501,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-06-22 08:04:51,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00502,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-08 09:48:55,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00503,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-11-29 09:49:08,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00504,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-11-28 04:06:14,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00505,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-04-17 11:36:00,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00506,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-02-12 10:57:57,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00507,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-05-09 08:24:05,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00508,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-12-15 10:47:27,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00509,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-12-06 11:10:11,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00510,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-02 15:40:41,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00511,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-06-01 23:08:37,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00512,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-11-01 23:36:59,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00513,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-03-29 22:00:57,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00514,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-10-22 05:39:00,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00515,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-11-10 04:04:29,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00516,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-06-22 03:09:07,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00517,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-12-25 10:06:50,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00518,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-02-02 18:10:21,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00519,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-08-09 16:40:27,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00520,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-05-26 16:31:10,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00521,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-11-01 15:57:18,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00522,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-10-02 18:10:59,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00523,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-23 15:55:07,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00524,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-10-22 16:32:34,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00525,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-11-30 08:24:41,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00526,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-08-01 01:19:29,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00527,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-12-04 19:17:23,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00528,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-01-02 13:20:11,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00529,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-25 03:24:24,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00530,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-05-05 06:12:18,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00531,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-12-12 21:53:31,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00532,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-08 17:01:58,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00533,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-09-15 21:13:34,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00534,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-18 23:56:46,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00535,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-06-22 17:38:31,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00536,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-18 11:27:31,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00537,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-07-06 14:02:39,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00538,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-06-05 20:35:22,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00539,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-09-27 00:38:21,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00540,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-12-13 15:29:11,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00541,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-10-28 22:09:12,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00542,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-28 17:11:08,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00543,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-11-20 15:44:49,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00544,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-07-20 12:34:35,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00545,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-08-01 21:49:45,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00546,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-01-27 11:02:12,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00547,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-09-29 12:05:14,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00548,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-09-29 10:46:49,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00549,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-07-30 17:38:37,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00550,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-11-02 10:35:58,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00551,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-02-11 07:37:47,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00552,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-02-17 21:51:51,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00553,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-02-12 06:56:49,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00554,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-04-14 08:43:28,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00555,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-12-02 03:34:09,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00556,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-01-01 13:07:39,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00557,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-01-31 09:37:52,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00558,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-10-27 12:56:21,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00559,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-05-19 05:48:29,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00560,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-10-22 11:24:23,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00561,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-02-05 07:34:15,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00562,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-08-12 07:45:55,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00563,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-08 15:26:50,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00564,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-05-20 07:45:39,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00565,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-06-06 12:45:27,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00566,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-03 10:19:33,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00567,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-11-18 22:15:51,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00568,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-03-23 17:43:38,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00569,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-12-10 13:57:58,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00570,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-04-02 02:07:07,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00571,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-06-14 15:15:15,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00572,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-07-04 15:07:06,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00573,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-12-13 08:43:18,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00574,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-05-16 12:25:17,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00575,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-01-27 02:54:49,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00576,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-04-14 22:48:35,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00577,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-08 22:24:16,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00578,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-03-15 02:39:41,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00579,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-10-09 06:34:50,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00580,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-11-21 20:24:44,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00581,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-02-03 13:53:19,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00582,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-06-23 12:46:48,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00583,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-01-08 12:00:33,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00584,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-11-29 07:39:10,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00585,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-12-08 22:14:15,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00586,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-05 17:27:46,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00587,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-02-17 06:52:50,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00588,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-07-26 01:03:31,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00589,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-12-12 04:26:31,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00590,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-15 05:59:42,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00591,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-01-16 14:44:47,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00592,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-06-29 01:24:29,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00593,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-05-12 18:53:59,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00594,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-04-13 21:36:31,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00595,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-11-15 09:12:13,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00596,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-11-05 08:15:56,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00597,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-25 19:08:36,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00598,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-10-12 07:05:52,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00599,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-03-25 20:54:11,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00600,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-03-04 00:22:25,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00601,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-04-11 02:29:55,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00602,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-03 07:58:53,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00603,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-07-22 07:01:33,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00604,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-08-14 04:16:57,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00605,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-05-02 02:02:23,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00606,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-06-01 05:46:42,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00607,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-12 15:19:44,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00608,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-04-14 13:35:45,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00609,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-09-24 02:29:33,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00610,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-07-30 13:40:40,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00611,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-09-28 19:17:22,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00612,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-09-30 04:41:34,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00613,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-10-07 07:24:53,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00614,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-10-04 13:31:29,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00615,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-17 08:18:39,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00616,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-03-03 04:39:28,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00617,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-04-13 17:11:41,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00618,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-03-23 22:27:39,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00619,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-04-19 00:51:27,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00620,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-11-14 09:36:07,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00621,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-05-21 21:41:02,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00622,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-10-15 11:14:29,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00623,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-03-21 07:48:38,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00624,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-11-21 01:58:36,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00625,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-13 14:29:06,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00626,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-01-26 05:17:03,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00627,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-01-18 22:51:17,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00628,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-11-04 03:10:10,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00629,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-08-01 06:24:45,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00630,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-08-19 08:49:37,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00631,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-08 14:09:44,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00632,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-03-18 21:58:34,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00633,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-08-20 10:49:03,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00634,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-12-20 21:35:08,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00635,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-01-04 07:36:38,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00636,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-02-27 15:06:30,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00637,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-11-02 06:32:37,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00638,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-01-19 12:54:29,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00639,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-04-07 14:49:10,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00640,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-05-01 08:14:32,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00641,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-03-08 11:28:30,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00642,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-09-08 06:38:39,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00643,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-10-28 07:05:05,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00644,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-07-13 17:49:30,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00645,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-01 11:29:43,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00646,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-04-07 03:49:13,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00647,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-04-17 13:53:04,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00648,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-09-22 04:51:17,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00649,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-03-13 10:18:36,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00650,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-01-17 18:04:24,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00651,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-08-26 15:20:56,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00652,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-12-17 21:17:29,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00653,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-05-15 20:45:18,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00654,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-11-12 14:28:22,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00655,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-12-19 01:52:35,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00656,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-08-16 07:36:17,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00657,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-14 09:29:25,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00658,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-04-14 17:54:14,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00659,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-05-18 05:45:33,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00660,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-01-26 23:42:37,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00661,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-02-09 00:06:16,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00662,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-27 10:54:53,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00663,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-02-04 10:03:04,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00664,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-19 22:32:17,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00665,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-02-22 19:12:25,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00666,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-02-25 12:20:38,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00667,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-19 18:28:12,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00668,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-03-25 11:28:12,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00669,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-10-19 12:43:30,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00670,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-07 12:21:17,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00671,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-10-24 08:06:55,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00672,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-12-07 19:22:57,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00673,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-10-18 13:07:47,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00674,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-03-17 07:37:51,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00675,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-10-08 11:58:31,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00676,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-10-07 12:29:44,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00677,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-24 12:14:05,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00678,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-06-02 09:48:30,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00679,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-07-15 10:56:41,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00680,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-07-22 10:18:52,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00681,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-29 12:12:17,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00682,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-03-09 14:02:37,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00683,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-11-16 06:11:19,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00684,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-03 09:59:37,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00685,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-02-12 15:43:20,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00686,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-24 12:47:44,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00687,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-10-21 23:42:55,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00688,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-11-28 08:26:56,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00689,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-11-01 18:18:21,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00690,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-09-11 19:34:39,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00691,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-05-01 11:47:53,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00692,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-05-03 12:55:28,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00693,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-10-07 00:51:03,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00694,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-04-17 02:50:32,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00695,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-06-29 06:40:32,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00696,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-06-02 09:05:52,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00697,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-07-12 07:25:57,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00698,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-08-13 12:30:15,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00699,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-05-26 20:56:46,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00700,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-03-21 08:57:32,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00701,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-03-06 12:01:49,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00702,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-07-26 16:59:30,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00703,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-01-23 18:12:49,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00704,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-06-14 07:30:27,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00705,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-08-11 01:39:06,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00706,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-05-19 03:25:36,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00707,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-25 11:01:30,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00708,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-01-03 14:46:23,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00709,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-11 17:22:15,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00710,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-01-01 08:43:29,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00711,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-11-05 05:22:39,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00712,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-06-10 22:29:48,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00713,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-05-03 18:38:41,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00714,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-12-12 20:03:01,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00715,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-30 11:01:15,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00716,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-02-04 18:14:00,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00717,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-08-12 01:38:01,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00718,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-11-02 06:50:51,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00719,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-05-03 00:18:04,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00720,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-02-05 20:42:20,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00721,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-02-11 20:58:26,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00722,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-03-09 17:37:58,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00723,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-07-27 10:29:13,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00724,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-01-01 12:17:18,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00725,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-12 21:01:24,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00726,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-11-05 01:10:41,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00727,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-06-23 07:45:53,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00728,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-08-10 21:43:38,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00729,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-11-25 15:57:36,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00730,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-23 13:40:37,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00731,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-08-18 19:16:08,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00732,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-20 23:56:43,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00733,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-03-04 02:30:50,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00734,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-03-17 20:16:27,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00735,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-01-29 15:13:29,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00736,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-01-19 09:24:24,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00737,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-10-08 04:19:59,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00738,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-05-10 03:43:50,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00739,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-10-09 11:21:34,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00740,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-07-23 14:33:26,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00741,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-10-02 17:40:37,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00742,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-01-18 11:58:44,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00743,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-06-28 22:03:08,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00744,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-05-23 06:47:25,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00745,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-05-12 18:12:38,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00746,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-07-23 23:25:14,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00747,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-03-21 16:13:26,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00748,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-05-16 12:08:14,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00749,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-05-18 00:28:46,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00750,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-22 23:50:37,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00751,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-01-21 20:39:13,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00752,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-09-30 03:49:33,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00753,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-02-16 17:43:57,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00754,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-04-16 00:05:42,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00755,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-08-04 16:13:30,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00756,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-05-14 03:44:09,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00757,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-09-22 23:57:57,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00758,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-05-12 22:09:33,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00759,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-09-22 11:24:51,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00760,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-03 03:37:26,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00761,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-09-23 16:14:39,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00762,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-07 00:30:56,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00763,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-06-24 09:43:13,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00764,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-06-14 05:10:19,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00765,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-08-17 01:46:46,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00766,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-03-17 20:44:14,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00767,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-12-05 02:34:59,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00768,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-03-19 15:10:42,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00769,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-05-15 13:39:39,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00770,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-02-24 03:28:06,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00771,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-05-13 04:56:41,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00772,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-01-06 10:34:47,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00773,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-03-21 16:28:30,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00774,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-07-27 05:04:11,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00775,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-06-20 16:48:56,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00776,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-01-12 13:09:46,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00777,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-28 19:33:46,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00778,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-04-22 14:46:38,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00779,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-03 08:19:49,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00780,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-05-12 05:54:30,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00781,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-10-28 10:09:05,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00782,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-03-07 01:36:33,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00783,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-15 17:35:06,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00784,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-11-02 23:20:19,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00785,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-06-29 23:42:13,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00786,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-08-01 14:49:02,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00787,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-01-09 20:56:34,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00788,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-04-01 00:25:49,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00789,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-07 16:31:57,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00790,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-12-17 12:02:21,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00791,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-06-17 03:35:58,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00792,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-30 01:31:30,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00793,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-05-27 22:21:41,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00794,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-29 19:23:36,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00795,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-11-23 05:27:04,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00796,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-03-27 10:15:01,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00797,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-06-18 14:20:48,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00798,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-05-14 11:41:29,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00799,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-09-05 10:39:33,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00800,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-05-16 17:57:56,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00801,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-10-07 16:03:22,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00802,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-09-09 17:27:19,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00803,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-01-19 00:51:31,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00804,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-08-25 17:50:21,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00805,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-21 18:10:26,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00806,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-05-17 05:28:01,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00807,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-10-22 15:04:27,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00808,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-10-16 23:20:43,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00809,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-02-04 23:05:31,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00810,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-01-08 11:04:56,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00811,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-08-14 13:14:53,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00812,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-11-01 01:32:18,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00813,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-02-18 16:59:05,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00814,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-07 20:16:50,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00815,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-08-16 04:58:14,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00816,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-11-13 00:22:11,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00817,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-06-08 11:48:54,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00818,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-07-06 07:34:48,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00819,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-11-12 07:26:28,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00820,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-09-24 19:04:40,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00821,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-01-25 02:59:17,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00822,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-07-07 15:32:16,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00823,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-01-03 13:12:24,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00824,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-08-29 19:33:35,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00825,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-02-06 10:27:55,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00826,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-07-14 13:56:34,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00827,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-02-28 01:48:06,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00828,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-05-26 08:36:41,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00829,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-06-19 15:40:02,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00830,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-04-22 21:52:05,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00831,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-07-22 14:22:49,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00832,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-06-11 10:01:54,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00833,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-07-06 17:26:54,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00834,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-01-26 02:46:10,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00835,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-12-17 15:37:29,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00836,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-25 08:33:22,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00837,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-12-01 22:58:49,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00838,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-04-27 05:11:30,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00839,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-03-12 23:31:26,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00840,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-22 05:48:26,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00841,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-12-20 01:24:06,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00842,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-05-02 03:35:00,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00843,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-11-02 19:22:19,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00844,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-09-16 21:52:50,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00845,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-08-07 09:09:23,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00846,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-07-29 15:51:34,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00847,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-10-13 01:54:54,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00848,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-10-07 14:12:32,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00849,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-04-12 07:52:09,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00850,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-07-05 03:18:59,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00851,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-11-08 11:11:35,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00852,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-12-25 23:37:10,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00853,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-03-11 23:42:42,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00854,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-06-30 18:51:14,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00855,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-16 05:08:00,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00856,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-03-13 11:52:54,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00857,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-09-10 20:07:50,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00858,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-02-06 11:56:55,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00859,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-05-15 23:13:21,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00860,Ennore Port Gate,1,Chennai,Maritime Logistics,2024-12-02 16:54:09,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00861,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-06-22 07:34:13,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00862,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-03 14:02:00,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00863,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-03-08 21:54:33,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00864,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-03-24 16:01:01,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00865,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-12-05 17:45:00,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00866,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-10-14 17:33:45,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00867,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-03-12 16:38:04,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00868,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-10-17 20:06:23,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00869,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-09-30 00:57:35,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00870,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-05-03 11:07:57,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00871,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-11-03 13:17:40,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00872,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-07-07 20:49:00,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00873,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-19 08:09:27,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00874,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-04-23 02:09:24,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00875,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-12-07 11:14:05,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00876,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-04-25 03:42:33,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00877,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-04-17 19:45:18,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00878,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-16 16:27:55,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00879,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-03-08 19:27:27,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00880,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-03 21:15:51,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00881,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-01-29 19:20:57,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00882,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-06-23 20:16:12,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00883,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-07-01 22:54:35,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00884,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-01-27 00:01:47,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00885,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-09-17 10:24:19,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00886,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-06-30 19:02:50,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00887,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-02-17 12:43:11,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00888,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-04-04 02:58:53,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00889,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-25 14:56:23,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00890,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-03-03 03:53:15,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00891,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-08-01 08:32:30,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00892,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-15 15:31:39,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00893,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-10-18 05:55:43,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00894,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-03-21 15:22:27,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00895,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-10-24 02:20:34,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00896,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-04-21 18:25:16,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00897,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-01-09 13:14:39,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00898,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-03-09 15:55:00,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00899,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-11-27 20:44:22,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00900,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-12-22 06:42:35,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00901,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-23 21:53:54,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00902,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-09-27 11:16:50,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00903,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-02-07 17:21:57,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00904,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-03-17 00:33:06,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-00905,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-04-17 22:49:11,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00906,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-03-19 18:54:26,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00907,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-09-19 10:33:21,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00908,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-10-30 08:04:35,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00909,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-01-29 08:50:26,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00910,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-08-26 07:40:35,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00911,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-10-11 12:26:00,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00912,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-12-03 14:57:17,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00913,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-11-18 10:55:54,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00914,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-12-21 11:23:54,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00915,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-03-09 09:39:45,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00916,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-07-15 13:16:06,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00917,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-06-20 17:01:37,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00918,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-12-13 08:46:48,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00919,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-08-03 19:32:48,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00920,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-07-19 16:46:20,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00921,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-06-06 16:19:37,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00922,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-06 07:14:22,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00923,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-04-24 07:22:40,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00924,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-09-29 01:39:39,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00925,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-08-16 12:18:17,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00926,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-01-25 14:27:37,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00927,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-01-30 18:30:23,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00928,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-02-19 07:58:31,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00929,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-01-02 21:40:36,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00930,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-12-11 15:36:39,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00931,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-03-06 09:41:32,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00932,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-08 07:20:55,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00933,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-02-25 16:23:56,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00934,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-10-04 10:20:03,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00935,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-01-24 15:48:31,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00936,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-11-01 07:45:57,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00937,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-12-15 13:25:59,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00938,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-06-05 20:38:22,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00939,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-08-08 19:05:28,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00940,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-03-01 02:10:21,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00941,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-02-23 15:22:31,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00942,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-01-26 10:37:35,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00943,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-07-22 00:41:03,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00944,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-11-27 09:32:13,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00945,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-03-22 20:55:33,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00946,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-09-22 19:50:29,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00947,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-10-17 07:50:59,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00948,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-12-14 21:08:01,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00949,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-11-21 03:45:45,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00950,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-22 15:37:18,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00951,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-08-06 22:58:57,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00952,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-05-05 23:02:39,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00953,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-11-05 06:39:08,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00954,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-05-02 12:37:20,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00955,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-04-20 06:21:20,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00956,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-06-03 04:18:59,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00957,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-06-19 18:26:28,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00958,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2026-04-17 19:38:43,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00959,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-01-16 20:19:58,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00960,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-09-20 02:22:39,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00961,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-01-13 01:11:20,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00962,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-04-20 22:29:11,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00963,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-03-07 19:55:54,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00964,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-06-30 06:15:15,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-00965,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-05-21 07:16:05,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00966,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-11 20:52:14,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00967,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-07-10 23:10:46,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00968,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-04-28 13:44:18,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00969,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-11-23 10:42:50,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00970,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-01-06 00:54:11,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-00971,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-10-16 00:29:26,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00972,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-08-14 00:03:08,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-00973,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-03-05 00:32:46,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-00974,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-06-22 19:45:58,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-00975,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-03-11 19:22:07,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00976,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-10-03 17:33:41,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00977,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-01-05 06:54:16,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00978,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-07-10 03:28:24,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-00979,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-05-25 18:08:17,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00980,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-04-10 02:21:12,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00981,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-07-15 01:00:40,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00982,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-06-03 04:14:18,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-00983,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-05-24 14:09:10,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00984,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-08-29 12:18:44,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-00985,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-05-20 01:38:58,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00986,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-09-12 22:33:24,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00987,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-11-01 14:25:17,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00988,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-03-27 13:39:35,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-00989,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-08-02 01:49:11,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-00990,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-06-07 02:06:02,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00991,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-04-14 23:35:36,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-00992,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-04-09 01:39:51,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-00993,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-09-07 08:53:18,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-00994,Ennore Port Gate,1,Chennai,Maritime Logistics,2025-09-28 13:41:47,INBOUND_TO_TN,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00995,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-04-21 00:47:44,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-00996,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-07-03 17:29:51,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-00997,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-03-07 19:52:13,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-00998,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-04-16 23:57:31,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-00999,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-01-08 20:10:07,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-01000,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-08-19 16:48:35,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-01001,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2024-11-28 13:07:34,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-01002,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2026-03-20 03:20:41,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-01003,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2026-03-27 15:34:47,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-01004,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-07-25 10:24:12,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-01005,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-07-18 05:48:38,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-01006,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-07-18 18:13:24,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-01007,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-07-27 06:17:14,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-01008,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-10-16 18:38:56,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-01009,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-03-23 15:12:08,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-01010,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-05-20 15:13:05,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-01011,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-26 07:48:39,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-01012,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-11-24 06:22:00,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-01013,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-04-24 12:30:09,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-01014,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-11-02 16:39:10,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-01015,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-09-14 06:06:12,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-01016,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-08-19 05:06:57,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-01017,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2024-09-20 18:25:22,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-01018,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2026-07-21 19:44:37,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-01019,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-08-18 04:15:57,OUTBOUND,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-01020,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-10-17 21:23:22,TRANSIT_CROSS_STATE,5,Opioid Analogues / Brown Sugar / Heroin,BAND_A_BULK
+CHK-2026-01021,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-10-28 09:52:51,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-01022,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-12-08 21:09:14,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-01023,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-01-07 21:59:51,TRANSIT_CROSS_STATE,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-01024,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-10-29 03:44:48,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-01025,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-03-03 00:12:27,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-01026,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-03-09 16:39:49,INBOUND_TO_TN,6,Unclassified / Suspicious Substance,BAND_C_PARCEL
+CHK-2026-01027,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-05-22 18:24:22,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_B_MEDIUM
+CHK-2026-01028,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-08-06 13:43:23,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_B_MEDIUM
+CHK-2026-01029,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-09-05 17:57:43,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-01030,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-01-11 12:23:40,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-01031,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-01-10 11:26:51,OUTBOUND,1,Commercial Ganja / Cannabis,BAND_C_PARCEL
+CHK-2026-01032,Ennore Port Gate,1,Chennai,Maritime Logistics,2026-07-19 01:49:10,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-01033,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2026-08-11 20:21:03,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-01034,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2024-10-04 03:52:19,TRANSIT_CROSS_STATE,3,Prescription Narcotics / Codeine / Alprazolam,BAND_A_BULK
+CHK-2026-01035,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2025-06-23 16:19:15,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-01036,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-10-22 05:25:33,INBOUND_TO_TN,2,Synthetic Stimulants / MDMA / Meth,BAND_C_PARCEL
+CHK-2026-01037,Zuzuvadi Checkpost,10,Krishnagiri,Karnataka (NH-48),2025-10-21 17:09:10,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_A_BULK
+CHK-2026-01038,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-06-11 06:12:50,INBOUND_TO_TN,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-01039,Kaliyakkavilai Gate,14,Kanniyakumari,Kerala (NH-66),2025-08-31 06:31:56,TRANSIT_CROSS_STATE,2,Synthetic Stimulants / MDMA / Meth,BAND_B_MEDIUM
+CHK-2026-01040,V.O.C. Port Terminal,13,Thoothukudi,Maritime Coast,2024-10-16 18:14:46,TRANSIT_CROSS_STATE,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-01041,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-05-19 19:57:30,TRANSIT_CROSS_STATE,1,Commercial Ganja / Cannabis,BAND_A_BULK
+CHK-2026-01042,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2024-09-19 19:01:31,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_A_BULK
+CHK-2026-01043,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-10-07 09:10:22,OUTBOUND,4,Chemical Precursors / Ephedrine,BAND_C_PARCEL
+CHK-2026-01044,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2024-09-24 01:53:20,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_C_PARCEL
+CHK-2026-01045,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2025-08-19 11:52:53,OUTBOUND,6,Unclassified / Suspicious Substance,BAND_B_MEDIUM
+CHK-2026-01046,Gummidipoondi Checkpost,18,Tiruvallur,Andhra Pradesh (NH-16),2026-06-21 01:46:30,OUTBOUND,2,Synthetic Stimulants / MDMA / Meth,BAND_A_BULK
+CHK-2026-01047,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-01-20 10:36:32,OUTBOUND,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM
+CHK-2026-01048,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-02-26 07:26:29,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_C_PARCEL
+CHK-2026-01049,Walayar Checkpost,2,Coimbatore,Kerala (NH-544),2025-09-16 00:48:10,INBOUND_TO_TN,5,Opioid Analogues / Brown Sugar / Heroin,BAND_B_MEDIUM
+CHK-2026-01050,Puliyarai Checkpost,15,Tenkasi,Kerala (NH-744),2025-04-16 08:02:20,INBOUND_TO_TN,3,Prescription Narcotics / Codeine / Alprazolam,BAND_B_MEDIUM

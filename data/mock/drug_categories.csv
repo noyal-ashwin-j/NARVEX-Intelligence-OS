@@ -1,0 +1,8 @@
+drug_category_id,category_key,category_name,parent_category,risk_class,risk_weight,description
+1,SUPPLY_SALE,Suspected Distribution / Sale,SUPPLY,HIGH,1.00,Signals indicating point-of-sale exchange or local distribution networks
+2,TRANSPORT_TRANSIT,Suspected Transit / Route Movement,LOGISTICS,HIGH,0.90,Movement along highway corridors border crossings or logistics hubs
+3,SEIZURE_ENFORCEMENT,Enforcement Seizure Interception,ENFORCEMENT,MEDIUM,0.85,Official law enforcement confiscation arrest or interception
+4,COMMUNITY_CONCERN,Community & Neighborhood Concern,PREVENTION,MEDIUM,0.60,Citizen observations regarding vulnerable public spots or suspicious gatherings
+5,HEALTH_EMERGENCY,Health / Overdose Emergency Signal,HEALTH,CRITICAL,0.80,Hospital admission indicators detoxification acute medical intervention
+6,REHAB_SERVICE_NEED,Rehabilitation / Counseling Request,HEALTH,LOW,0.40,Voluntary request for de-addiction service treatment or psychological counseling
+7,SYNTHETIC_MANUFACTURE,Clandestine Processing / Synthesis,MANUFACTURE,CRITICAL,1.20,Signals regarding unauthorized chemical storage conversion or tablet pressing

@@ -1,0 +1,105 @@
+[
+  {
+    "id": "riskZones",
+    "name": "Current Risk Indicators",
+    "source": "/api/riskZones",
+    "type": "circle",
+    "style": {"color": "#EF4444", "fillOpacity": 0.2},
+    "properties": ["risk_level", "confidence_level", "data_coverage"]
+  },
+  {
+    "id": "emergingZones",
+    "name": "Emerging Zones",
+    "source": "/api/emergingZones",
+    "type": "circle",
+    "style": {"color": "#F97316", "fillOpacity": 0.3},
+    "properties": ["risk_level", "confidence_level", "data_coverage"]
+  },
+  {
+    "id": "newSignals",
+    "name": "New Signals",
+    "source": "/api/newSignals",
+    "type": "circle",
+    "style": {"color": "#10B981", "fillOpacity": 0.25},
+    "properties": ["risk_level", "confidence_level", "data_coverage"]
+  },
+  {
+    "id": "corroboratedZones",
+    "name": "Corroborated/Persistent Zones",
+    "source": "/api/corroboratedZones",
+    "type": "circle",
+    "style": {"color": "#6366F1", "fillOpacity": 0.2},
+    "properties": ["risk_level", "confidence_level", "data_coverage"]
+  },
+  {
+    "id": "historicalComplaints",
+    "name": "Historical Complaints",
+    "source": "/api/historicalComplaints",
+    "type": "circle",
+    "style": {"color": "#A78BFA", "fillOpacity": 0.2},
+    "properties": ["risk_level", "confidence_level", "data_coverage"]
+  },
+  {
+    "id": "policeReports",
+    "name": "Police Reports",
+    "source": "/api/policeReports",
+    "type": "circle",
+    "style": {"color": "#F43F5E", "fillOpacity": 0.2},
+    "properties": ["risk_level", "confidence_level", "data_coverage"]
+  },
+  {
+    "id": "checkpostSignals",
+    "name": "Checkpost Signals",
+    "source": "/api/checkpostSignals",
+    "type": "circle",
+    "style": {"color": "#1D4ED8", "fillOpacity": 0.2},
+    "properties": ["risk_level", "confidence_level", "data_coverage"]
+  },
+  {
+    "id": "citizenReports",
+    "name": "Citizen Reports",
+    "source": "/api/citizenReports",
+    "type": "circle",
+    "style": {"color": "#F97316", "fillOpacity": 0.15},
+    "properties": ["risk_level", "confidence_level", "data_coverage"]
+  },
+  {
+    "id": "verifiedIncidents",
+    "name": "Verified Incidents",
+    "source": "/api/verifiedIncidents",
+    "type": "circle",
+    "style": {"color": "#10B981", "fillOpacity": 0.3},
+    "properties": ["risk_level", "confidence_level", "data_coverage"]
+  },
+  {
+    "id": "historicalCorridors",
+    "name": "Historical Spatial Corridors",
+    "source": "/api/historicalCorridors",
+    "type": "line",
+    "style": {"color": "#22D3EE", "width": 2, "dasharray": "4,2"},
+    "properties": ["date_range", "drug_category", "source_type", "confidence"]
+  },
+  {
+    "id": "forecast30",
+    "name": "30‑day Forecast",
+    "source": "/api/forecast30",
+    "type": "circle",
+    "style": {"color": "#FBBF24", "fillOpacity": 0.2, "pattern": "hatch"},
+    "properties": ["forecastRisk", "forecastConfidence"]
+  },
+  {
+    "id": "forecast90",
+    "name": "90‑day Forecast",
+    "source": "/api/forecast90",
+    "type": "circle",
+    "style": {"color": "#F59E0B", "fillOpacity": 0.2, "pattern": "hatch"},
+    "properties": ["forecastRisk", "forecastConfidence"]
+  },
+  {
+    "id": "adminArcs",
+    "name": "Administrative Connections",
+    "source": "/api/adminArcs",
+    "type": "arc",
+    "style": {"color": "#FF69B4", "width": 2, "dasharray": "2,2"},
+    "properties": []
+  }]

@@ -1,0 +1,4 @@
+event_date,district_name,checkpost_name,border_type,transport_mode,contraband_type,description
+2026-08-14,Krishnagiri,Zuzuvadi Interstate Checkpost,INTER_STATE,ROAD_HIGHWAY,Synthetic Pills,Vehicle inspection flagged suspicious hidden floor compartment.
+2026-08-16,Coimbatore,Walayar Border Toll Post,INTER_STATE,ROAD_HIGHWAY,Commercial Ganja,Heavy goods carrier detained during routine automated weight scan.
+2026-08-17,Tenkasi,Puliyarai Border Checkpost,INTER_STATE,BUS_TRANSIT,Prescription Opioids,Interstate passenger bus baggage screening alert.

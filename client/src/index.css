@@ -1,0 +1,195 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-primary: #f8fafc;
+    --bg-surface: #ffffff;
+    --bg-card: #ffffff;
+    --border-subtle: #e2e8f0;
+    --text-primary: #0f172a;
+    --text-secondary: #334155;
+    --text-muted: #64748b;
+    --accent-cyan: #22D3EE;
+    --signal-red: #EF4444;
+    --alert-orange: #F97316;
+    --watch-yellow: #EAB308;
+    --info-blue: #3B82F6;
+    --ai-purple: #A855F7;
+    --success-green: #10B981;
+  }
+
+  .dark {
+    --bg-primary: #0B0F19;   /* Deep Space */
+    --bg-surface: #111827;   /* Panel Gray */
+    --bg-card: #111827;      /* Panel Gray */
+    --border-subtle: #1e293b;
+    --text-primary: #f8fafc;
+    --text-secondary: #cbd5e1;
+    --text-muted: #94a3b8;
+    --accent-cyan: #22D3EE;
+    --signal-red: #EF4444;
+    --alert-orange: #F97316;
+    --watch-yellow: #EAB308;
+    --info-blue: #3B82F6;
+    --ai-purple: #A855F7;
+    --success-green: #10B981;
+  }
+
+  body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    letter-spacing: -0.01em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Typography Hierarchy Standards */
+  .map-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+
+  .section-header {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .data-value {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .data-value-lg {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  .body-text {
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+
+  .label-text {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .ai-insight {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #A855F7;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', 'Inter', sans-serif;
+    letter-spacing: -0.025em;
+  }
+
+  button, input, select, textarea {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+.dark ::-webkit-scrollbar-track {
+  background: #0B0F19;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #1e293b;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Leaflet Container Styling */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  background: #f1f5f9 !important;
+  font-family: 'Inter', sans-serif;
+}
+.dark .leaflet-container {
+  background: #0B0F19 !important; /* Deep Space */
+}
+
+.leaflet-popup-content-wrapper {
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border: 1px solid #cbd5e1;
+  border-radius: 12px !important;
+  font-family: 'Inter', sans-serif;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1) !important;
+}
+.dark .leaflet-popup-content-wrapper {
+  background: #111827 !important; /* Panel Gray */
+  color: #f8fafc !important;
+  border: 1px solid #1e293b;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.6) !important;
+}
+
+.leaflet-popup-tip {
+  background: #ffffff !important;
+}
+.dark .leaflet-popup-tip {
+  background: #111827 !important;
+}
+
+/* Meaning-Driven Single Glow per View */
+.glow-cyan-active {
+  box-shadow: 0 0 16px -2px rgba(34, 211, 238, 0.45);
+}
+
+.glow-purple-ai {
+  box-shadow: 0 0 16px -2px rgba(168, 85, 247, 0.45);
+}
+
+.glow-red-critical {
+  box-shadow: 0 0 16px -2px rgba(239, 68, 68, 0.45);
+}
+
+/* Clean Cards with High Legibility */
+.command-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05), 0 1px 2px -1px rgba(0, 0, 0, 0.03);
+}
+
+.dark .command-card {
+  background: #111827; /* Panel Gray */
+  border: 1px solid #1e293b;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+}

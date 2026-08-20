@@ -1,0 +1,6 @@
+source_id,source_key,source_name,source_type,reliability_weight
+1,CITIZEN_ANON,Anonymous Citizen Portal,CITIZEN,0.65
+2,POLICE_FIR,Police FIR & Seizure Register,ENFORCEMENT,0.95
+3,CHECKPOST_SCANNER,State Checkpost Telemetry,CHECKPOST,0.9
+4,HELPLINE_10583,State Anti-Drug Helpline 10583,HELPLINE,0.7
+5,HEALTH_REHAB_STAT,Health & Rehab Aggregate Registry,HEALTH_AGGREGATE,0.85

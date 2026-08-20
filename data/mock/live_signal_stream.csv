@@ -1,0 +1,7 @@
+stream_seq,event_date,district_name,taluk_name,location_name,latitude,longitude,category_key,source_type,severity,is_enforcement,description
+1,2026-08-19,Coimbatore,Coimbatore North,Gandhipuram Cross Cut Road Bus Stop,11.0168,76.9558,SUPPLY_SALE,CITIZEN,HIGH,0,[REDACTED] Live alert: suspicious small packet handoff spotted near bakery corner.
+2,2026-08-19,Krishnagiri,Hosur,Zuzuvadi Interstate Border Toll Post,12.7409,77.8253,TRANSPORT_TRANSIT,CHECKPOST,HIGH,1,[REDACTED] Live telemetry: interstate express container flagged during automated scanner check.
+3,2026-08-19,Salem,Salem,Shevapet Market North Junction,11.6541,78.1345,COMMUNITY_CONCERN,CITIZEN,MEDIUM,0,[REDACTED] Citizen tip: unverified youth gathering in alleyway behind grocery godown.
+4,2026-08-19,Chennai,Egmore,Egmore Railway Goods Shed Platform 4,13.0827,80.2607,SEIZURE_ENFORCEMENT,POLICE,HIGH,1,[REDACTED] RPF intercept: commercial parcel carton containing unauthorized prescription drugs.
+5,2026-08-19,Tenkasi,Sengottai,Puliyarai Border Checkpoint,8.9654,77.1541,TRANSPORT_TRANSIT,CHECKPOST,HIGH,0,[REDACTED] Telemetry scan: freight vehicle diverted from bypass road during surprise inspection.
+6,2026-08-19,Madurai,Madurai South,Goripalayam Hospital Road,9.9324,78.1254,HEALTH_EMERGENCY,HEALTH_AGGREGATE,CRITICAL,0,[REDACTED] Emergency casualty report: 2 individuals stabilized for synthetic stimulant toxicity.

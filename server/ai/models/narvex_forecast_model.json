@@ -1,0 +1,58 @@
+{
+  "modelType": "REGULARIZED_LOGISTIC_REGRESSION",
+  "modelVersion": "NARVEX_TEMPORAL_BAYES_V2.1",
+  "trainedAt": "2026-08-20T04:24:33.453Z",
+  "featureNames": [
+    "velocity_7d",
+    "velocity_30d",
+    "acceleration",
+    "log_volume_90d",
+    "checkpost_anomalies"
+  ],
+  "scaler": {
+    "means": [
+      1,
+      1,
+      1,
+      2.397895272798404,
+      3.073809523809524
+    ],
+    "stds": [
+      1,
+      1,
+      1,
+      3.3306690738754696e-14,
+      2.0039911989885564
+    ]
+  },
+  "parameters": {
+    "weights": [
+      0.010274794500158765,
+      0.018845957147934606,
+      -0.021090367767072397,
+      1.7344761574963812,
+      -0.008398028790355143
+    ],
+    "bias": -1.8195871820019411
+  },
+  "metrics": {
+    "accuracy": 1,
+    "precision": 0,
+    "recall": 0,
+    "f1Score": 0,
+    "brierScore": 0.0008,
+    "confusionMatrix": {
+      "tp": 0,
+      "fp": 0,
+      "tn": 180,
+      "fn": 0
+    }
+  },
+  "trainingMetadata": {
+    "datasetFile": "16_forecast_training_data.csv",
+    "totalSamples": 1200,
+    "trainSplit": 840,
+    "valSplit": 180,
+    "testSplit": 180
+  }
+}

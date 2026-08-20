@@ -1,0 +1,7 @@
+category_id,category_key,category_name,risk_weight,description
+1,COMMERCIAL_GANJA,Commercial Ganja / Cannabis,1.2,Flowering tops and compressed commercial contraband
+2,SYNTHETIC_MDMA,Synthetic Stimulants / MDMA / Meth,2,"Party pills, methamphetamine crystals, and synthetic analogues"
+3,PRESCRIPTION_NARCOTICS,Prescription Narcotics / Codeine / Alprazolam,1.5,Scheduled pharmaceutical formulations diverted without prescription
+4,CHEMICAL_PRECURSORS,Chemical Precursors / Ephedrine,1.8,Controlled industrial precursor chemicals
+5,OPIOID_ANALOGUES,Opioid Analogues / Brown Sugar / Heroin,2.2,Processed opioid narcotics and street-grade mixtures
+6,UNKNOWN_CONTRABAND,Unclassified / Suspicious Substance,1,Substance pending forensic laboratory identification

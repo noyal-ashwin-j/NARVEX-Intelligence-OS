@@ -1,0 +1,9 @@
+corridor_id,corridor_name,origin_district_id,origin_district_name,destination_district_id,destination_district_name,highway_route,distance_km,classification_type,monitoring_status
+1,Walayar - Coimbatore - Salem Corridor,2,Coimbatore,4,Salem,NH-544 / NH-44,165,HISTORICAL_SPATIAL_ASSOCIATION,ACTIVE_MONITORING
+2,Attibele - Hosur - Krishnagiri Axis,10,Krishnagiri,4,Salem,NH-48,120,HISTORICAL_SPATIAL_ASSOCIATION,ACTIVE_MONITORING
+3,Chittoor - Tiruvallur - Chennai Port Gateway,18,Tiruvallur,1,Chennai,NH-16,95,HISTORICAL_SPATIAL_ASSOCIATION,ACTIVE_MONITORING
+4,Puliyarai - Tenkasi - Madurai Highway,15,Tenkasi,3,Madurai,NH-744,160,HISTORICAL_SPATIAL_ASSOCIATION,ACTIVE_MONITORING
+5,Madurai - Thoothukudi Maritime Axis,3,Madurai,13,Thoothukudi,NH-38,145,HISTORICAL_SPATIAL_ASSOCIATION,ACTIVE_MONITORING
+6,Salem - Namakkal - Karur Axis,4,Salem,25,Karur,NH-44,98,HISTORICAL_SPATIAL_ASSOCIATION,ACTIVE_MONITORING
+7,Coimbatore - Tiruppur - Erode Industrial Route,2,Coimbatore,8,Erode,SH-17,105,HISTORICAL_SPATIAL_ASSOCIATION,ACTIVE_MONITORING
+8,Chennai - Chengalpattu - Viluppuram Corridor,1,Chennai,20,Viluppuram,NH-32 / NH-132,160,HISTORICAL_SPATIAL_ASSOCIATION,ACTIVE_MONITORING

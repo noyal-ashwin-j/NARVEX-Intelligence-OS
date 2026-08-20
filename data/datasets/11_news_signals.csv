@@ -1,0 +1,1001 @@
+news_signal_id,district_id,district_name,published_at,media_source,headline_sanitized,category_id,category_name,public_concern_level
+NWS-2026-00001,26,Ariyalur,2026-01-16 14:41:10,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00002,8,Tiruppur,2024-12-20 12:06:56,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00003,13,Thoothukudi,2026-08-07 08:53:43,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00004,6,Tirunelveli,2025-08-23 19:13:35,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00005,15,Tenkasi,2025-03-15 05:05:00,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00006,27,Perambalur,2025-12-30 05:46:02,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00007,38,Tiruvannamalai,2026-03-08 07:13:35,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00008,17,Chengalpattu,2025-02-09 17:19:44,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00009,7,Erode,2026-07-20 09:07:51,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Erode.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00010,19,Cuddalore,2025-09-23 16:40:11,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00011,31,Virudhunagar,2026-05-15 02:17:12,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00012,24,Nilgiris,2025-05-05 09:20:04,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00013,16,Kancheepuram,2025-12-27 10:10:20,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00014,30,Ramanathapuram,2024-12-10 10:37:06,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00015,29,Sivaganga,2025-06-22 23:30:30,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00016,27,Perambalur,2025-06-15 18:19:23,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00017,23,Namakkal,2026-06-03 04:30:40,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00018,8,Tiruppur,2026-01-25 04:41:23,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00019,7,Erode,2025-09-22 21:49:10,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Erode.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00020,33,Thiruvarur,2026-08-11 05:44:59,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00021,4,Salem,2024-10-28 11:39:45,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00022,10,Krishnagiri,2026-01-31 05:36:58,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00023,4,Salem,2025-08-26 11:38:02,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Salem.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00024,31,Virudhunagar,2024-10-13 22:19:39,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00025,6,Tirunelveli,2025-10-29 04:58:08,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00026,3,Madurai,2025-11-14 06:35:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Madurai.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00027,3,Madurai,2026-05-16 08:34:31,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Madurai.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00028,24,Nilgiris,2025-10-04 01:41:12,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00029,18,Tiruvallur,2025-01-02 06:04:39,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00030,7,Erode,2026-03-16 02:44:41,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00031,3,Madurai,2025-04-09 23:46:43,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Madurai.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00032,15,Tenkasi,2025-04-22 09:58:02,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00033,4,Salem,2026-07-13 05:18:24,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00034,10,Krishnagiri,2026-03-04 16:35:56,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00035,9,Vellore,2025-12-02 14:37:51,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Vellore.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00036,33,Thiruvarur,2026-02-28 01:29:13,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00037,13,Thoothukudi,2025-05-11 13:12:17,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00038,7,Erode,2026-04-10 14:52:01,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Erode.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00039,18,Tiruvallur,2026-05-19 14:21:47,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00040,33,Thiruvarur,2025-09-20 21:31:00,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00041,15,Tenkasi,2026-03-18 14:29:28,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00042,34,Nagapattinam,2025-01-04 21:09:28,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00043,36,Ranipet,2025-06-09 03:24:50,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00044,3,Madurai,2025-02-10 18:48:33,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Madurai.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00045,10,Krishnagiri,2024-10-09 05:20:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00046,18,Tiruvallur,2025-08-25 11:39:02,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00047,7,Erode,2024-10-24 21:34:35,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00048,5,Tiruchirappalli,2026-08-03 21:38:55,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00049,25,Karur,2026-03-12 13:34:48,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Karur.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00050,11,Dindigul,2024-10-24 14:12:57,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00051,2,Coimbatore,2025-07-05 01:07:30,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00052,15,Tenkasi,2026-06-17 10:22:42,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00053,20,Viluppuram,2026-02-17 12:13:47,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00054,5,Tiruchirappalli,2026-06-08 18:46:50,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00055,17,Chengalpattu,2026-03-17 20:58:31,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00056,21,Kallakurichi,2024-10-25 14:46:59,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00057,9,Vellore,2025-08-24 14:50:22,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Vellore.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00058,29,Sivaganga,2026-04-28 07:34:11,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00059,22,Dharmapuri,2025-04-02 15:12:14,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00060,14,Kanniyakumari,2025-02-04 11:11:08,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00061,2,Coimbatore,2025-09-20 06:08:53,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00062,27,Perambalur,2026-06-02 01:28:27,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00063,14,Kanniyakumari,2024-10-21 10:35:02,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00064,24,Nilgiris,2026-07-29 04:18:30,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00065,10,Krishnagiri,2026-05-14 09:23:09,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00066,10,Krishnagiri,2024-12-22 07:03:34,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00067,11,Dindigul,2024-11-19 22:04:07,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00068,26,Ariyalur,2025-11-03 19:34:05,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00069,13,Thoothukudi,2026-02-19 06:04:49,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00070,25,Karur,2024-11-13 20:48:01,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Karur.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00071,33,Thiruvarur,2025-08-11 04:11:40,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00072,29,Sivaganga,2025-10-30 04:27:38,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00073,3,Madurai,2026-02-07 17:22:28,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Madurai.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00074,23,Namakkal,2025-08-12 21:32:05,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00075,37,Tirupathur,2026-03-25 23:11:13,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00076,5,Tiruchirappalli,2025-06-04 05:29:12,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00077,2,Coimbatore,2024-09-28 15:11:27,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00078,17,Chengalpattu,2025-08-10 02:51:41,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00079,36,Ranipet,2025-01-11 23:20:38,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00080,22,Dharmapuri,2024-10-24 03:40:37,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00081,7,Erode,2026-03-06 09:01:37,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Erode.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00082,22,Dharmapuri,2024-10-23 10:40:36,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00083,10,Krishnagiri,2025-08-03 14:38:25,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00084,19,Cuddalore,2025-11-11 15:16:00,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00085,24,Nilgiris,2025-07-15 16:51:33,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00086,22,Dharmapuri,2026-06-16 21:55:51,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00087,23,Namakkal,2025-06-22 00:04:14,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00088,21,Kallakurichi,2026-04-03 23:55:14,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00089,10,Krishnagiri,2025-06-05 04:51:31,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00090,35,Mayiladuthurai,2025-06-15 16:47:30,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00091,21,Kallakurichi,2026-07-15 21:49:41,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00092,37,Tirupathur,2025-06-06 23:13:25,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00093,16,Kancheepuram,2025-07-25 19:49:46,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00094,4,Salem,2025-10-04 21:09:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Salem.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00095,32,Theni,2025-04-19 18:12:44,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00096,9,Vellore,2025-06-15 06:43:54,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00097,38,Tiruvannamalai,2024-09-26 12:13:26,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00098,31,Virudhunagar,2026-05-26 17:20:53,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00099,5,Tiruchirappalli,2025-06-14 14:34:23,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00100,32,Theni,2025-05-06 08:06:48,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00101,35,Mayiladuthurai,2025-12-14 02:33:27,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00102,17,Chengalpattu,2024-11-30 23:44:52,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00103,34,Nagapattinam,2025-05-12 18:04:43,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00104,5,Tiruchirappalli,2026-05-19 20:50:57,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00105,4,Salem,2025-03-03 20:21:33,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Salem.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00106,34,Nagapattinam,2025-07-04 07:53:32,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00107,28,Pudukkottai,2026-07-27 00:33:03,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00108,9,Vellore,2025-06-05 06:51:11,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Vellore.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00109,21,Kallakurichi,2026-03-21 08:17:50,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00110,29,Sivaganga,2025-07-26 07:26:15,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00111,8,Tiruppur,2025-09-10 20:11:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00112,21,Kallakurichi,2026-05-17 23:44:19,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00113,21,Kallakurichi,2026-07-09 18:23:12,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00114,11,Dindigul,2025-04-08 17:46:30,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00115,36,Ranipet,2025-02-06 12:18:40,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00116,11,Dindigul,2025-06-12 13:36:50,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00117,22,Dharmapuri,2025-07-07 15:30:42,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00118,28,Pudukkottai,2025-12-16 01:35:16,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00119,1,Chennai,2024-10-13 06:58:22,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chennai.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00120,23,Namakkal,2025-12-22 11:08:02,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00121,37,Tirupathur,2026-01-20 23:06:39,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00122,29,Sivaganga,2024-10-20 21:47:25,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00123,31,Virudhunagar,2026-07-30 08:55:20,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00124,24,Nilgiris,2026-03-05 05:39:55,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00125,20,Viluppuram,2025-10-27 10:16:19,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00126,16,Kancheepuram,2025-01-09 04:17:39,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00127,25,Karur,2025-07-08 17:14:12,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Karur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00128,27,Perambalur,2024-10-21 01:36:35,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00129,11,Dindigul,2025-12-11 06:56:21,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00130,5,Tiruchirappalli,2026-01-10 02:32:57,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00131,25,Karur,2026-03-03 18:28:30,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Karur.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00132,22,Dharmapuri,2025-02-08 09:21:22,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00133,6,Tirunelveli,2024-11-05 12:01:31,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00134,36,Ranipet,2026-07-20 15:46:41,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00135,3,Madurai,2026-07-05 11:43:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Madurai.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00136,29,Sivaganga,2025-03-08 14:52:35,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00137,36,Ranipet,2025-02-28 14:53:10,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00138,9,Vellore,2025-10-08 03:28:45,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00139,20,Viluppuram,2025-06-03 09:38:03,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00140,19,Cuddalore,2025-04-20 11:49:24,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00141,22,Dharmapuri,2025-10-24 04:51:53,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00142,37,Tirupathur,2024-09-30 10:00:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00143,32,Theni,2026-05-03 07:05:03,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Theni.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00144,10,Krishnagiri,2024-11-22 03:21:32,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00145,13,Thoothukudi,2025-03-10 22:13:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00146,17,Chengalpattu,2026-04-19 18:02:14,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00147,37,Tirupathur,2024-11-14 13:35:39,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00148,38,Tiruvannamalai,2025-07-18 21:38:57,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00149,38,Tiruvannamalai,2025-09-27 09:19:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00150,28,Pudukkottai,2025-01-18 12:55:09,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00151,33,Thiruvarur,2025-06-09 15:44:44,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00152,29,Sivaganga,2024-11-30 03:05:36,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00153,17,Chengalpattu,2026-07-28 03:33:55,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00154,25,Karur,2025-01-06 20:04:36,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Karur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00155,36,Ranipet,2025-09-24 15:16:44,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00156,12,Thanjavur,2025-09-17 23:22:36,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00157,30,Ramanathapuram,2024-11-27 02:30:36,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00158,15,Tenkasi,2025-11-27 03:33:05,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00159,35,Mayiladuthurai,2024-10-08 23:20:28,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00160,30,Ramanathapuram,2025-09-18 15:36:13,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00161,31,Virudhunagar,2025-09-03 23:30:32,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00162,34,Nagapattinam,2025-08-06 11:30:05,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00163,5,Tiruchirappalli,2025-06-24 11:29:55,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00164,15,Tenkasi,2025-05-18 16:43:41,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00165,6,Tirunelveli,2026-03-28 20:14:12,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00166,17,Chengalpattu,2024-10-03 01:15:03,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00167,11,Dindigul,2025-12-13 11:57:03,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00168,12,Thanjavur,2025-01-03 04:47:05,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00169,9,Vellore,2025-08-23 14:25:03,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Vellore.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00170,14,Kanniyakumari,2025-02-05 14:21:06,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00171,13,Thoothukudi,2024-11-28 08:21:10,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00172,31,Virudhunagar,2025-07-21 19:23:16,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00173,5,Tiruchirappalli,2024-10-18 16:13:04,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00174,24,Nilgiris,2026-04-15 12:26:14,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00175,17,Chengalpattu,2026-08-09 13:44:18,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00176,25,Karur,2025-04-12 13:21:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Karur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00177,19,Cuddalore,2025-04-20 12:52:17,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00178,31,Virudhunagar,2025-05-23 19:16:23,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00179,9,Vellore,2025-10-11 16:40:18,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00180,9,Vellore,2026-03-13 05:48:42,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Vellore.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00181,11,Dindigul,2024-11-04 21:25:32,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00182,29,Sivaganga,2026-03-23 08:07:09,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00183,23,Namakkal,2025-01-28 14:56:48,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00184,12,Thanjavur,2025-03-25 10:39:11,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00185,8,Tiruppur,2025-05-26 03:44:43,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00186,13,Thoothukudi,2024-12-02 19:07:16,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00187,9,Vellore,2025-11-08 13:10:41,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00188,18,Tiruvallur,2025-08-04 06:02:38,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00189,20,Viluppuram,2025-06-25 00:33:43,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00190,27,Perambalur,2025-12-17 07:22:31,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00191,13,Thoothukudi,2025-07-29 22:22:13,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00192,7,Erode,2026-08-12 18:59:04,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00193,35,Mayiladuthurai,2025-12-04 07:57:01,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00194,35,Mayiladuthurai,2025-07-27 00:08:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00195,28,Pudukkottai,2025-08-04 12:45:38,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00196,11,Dindigul,2026-07-21 10:54:27,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00197,6,Tirunelveli,2025-04-23 04:40:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00198,5,Tiruchirappalli,2025-09-22 18:49:10,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00199,22,Dharmapuri,2026-02-11 12:20:25,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00200,23,Namakkal,2025-01-25 00:47:25,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00201,34,Nagapattinam,2025-05-31 04:24:45,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00202,5,Tiruchirappalli,2024-09-29 12:34:16,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00203,13,Thoothukudi,2026-04-09 06:47:12,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00204,31,Virudhunagar,2026-04-26 17:58:09,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00205,34,Nagapattinam,2026-04-30 03:23:25,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00206,1,Chennai,2026-07-06 00:25:47,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chennai.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00207,8,Tiruppur,2025-05-25 09:40:41,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00208,13,Thoothukudi,2026-04-30 16:01:46,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00209,20,Viluppuram,2025-06-04 23:01:18,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00210,22,Dharmapuri,2024-12-03 16:01:01,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00211,37,Tirupathur,2026-04-16 03:33:51,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00212,6,Tirunelveli,2025-04-04 00:32:34,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00213,18,Tiruvallur,2026-01-06 13:35:27,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00214,7,Erode,2025-05-22 21:00:52,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Erode.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00215,2,Coimbatore,2025-12-02 06:18:38,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00216,37,Tirupathur,2026-03-17 01:50:11,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00217,14,Kanniyakumari,2025-06-22 08:57:35,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00218,10,Krishnagiri,2025-10-28 20:48:45,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00219,3,Madurai,2025-05-31 05:25:08,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Madurai.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00220,27,Perambalur,2026-01-14 06:08:54,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00221,37,Tirupathur,2024-10-28 06:07:08,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00222,27,Perambalur,2025-12-30 03:23:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00223,7,Erode,2025-09-29 05:47:33,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Erode.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00224,35,Mayiladuthurai,2025-12-01 17:16:36,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00225,13,Thoothukudi,2026-01-24 17:36:20,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00226,24,Nilgiris,2025-01-13 18:05:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00227,27,Perambalur,2026-05-30 03:15:30,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00228,12,Thanjavur,2026-01-29 15:56:29,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00229,22,Dharmapuri,2025-06-01 17:27:11,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00230,33,Thiruvarur,2025-01-09 15:38:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00231,16,Kancheepuram,2025-05-07 23:15:21,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00232,38,Tiruvannamalai,2026-03-04 03:01:46,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00233,22,Dharmapuri,2025-04-06 14:17:23,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00234,12,Thanjavur,2024-11-06 13:21:31,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00235,31,Virudhunagar,2026-06-22 16:10:24,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00236,6,Tirunelveli,2026-05-05 23:43:47,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00237,6,Tirunelveli,2025-11-08 05:07:30,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00238,1,Chennai,2026-08-16 13:56:30,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chennai.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00239,32,Theni,2025-10-31 17:50:26,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00240,6,Tirunelveli,2026-01-08 07:02:54,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00241,28,Pudukkottai,2025-09-03 01:49:42,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00242,36,Ranipet,2025-09-27 13:08:31,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00243,16,Kancheepuram,2025-08-09 07:30:56,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00244,5,Tiruchirappalli,2025-06-19 21:36:22,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00245,16,Kancheepuram,2024-09-30 07:02:13,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00246,14,Kanniyakumari,2026-04-30 03:25:13,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00247,17,Chengalpattu,2025-01-14 16:08:18,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00248,30,Ramanathapuram,2025-04-01 14:24:13,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00249,38,Tiruvannamalai,2026-03-12 04:05:55,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00250,16,Kancheepuram,2026-06-02 04:56:31,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00251,30,Ramanathapuram,2025-07-07 01:15:11,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00252,16,Kancheepuram,2026-02-25 06:22:53,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00253,17,Chengalpattu,2026-03-04 09:52:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00254,1,Chennai,2025-03-26 18:40:55,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chennai.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00255,15,Tenkasi,2025-03-09 09:17:24,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00256,32,Theni,2024-11-26 07:30:29,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00257,26,Ariyalur,2026-07-19 01:38:49,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00258,37,Tirupathur,2024-11-08 20:10:30,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00259,24,Nilgiris,2024-10-12 08:34:12,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00260,7,Erode,2025-12-07 13:06:51,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Erode.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00261,34,Nagapattinam,2026-01-28 02:11:59,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00262,20,Viluppuram,2025-02-10 20:34:09,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00263,23,Namakkal,2026-08-17 15:21:01,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00264,13,Thoothukudi,2026-02-18 13:25:39,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00265,22,Dharmapuri,2024-10-21 18:24:52,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00266,30,Ramanathapuram,2026-05-18 05:19:25,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00267,34,Nagapattinam,2026-01-15 15:42:37,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00268,3,Madurai,2026-05-01 06:06:55,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Madurai.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00269,28,Pudukkottai,2025-11-12 13:20:54,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00270,29,Sivaganga,2025-12-23 22:55:11,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00271,24,Nilgiris,2026-07-31 21:43:15,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00272,19,Cuddalore,2026-03-29 06:31:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00273,7,Erode,2025-11-06 16:25:52,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Erode.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00274,19,Cuddalore,2025-05-29 20:22:20,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00275,38,Tiruvannamalai,2024-10-03 11:45:35,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00276,1,Chennai,2025-11-02 08:44:18,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chennai.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00277,21,Kallakurichi,2025-02-23 22:15:03,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00278,20,Viluppuram,2025-09-14 16:38:37,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00279,18,Tiruvallur,2025-12-03 14:18:33,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00280,22,Dharmapuri,2025-12-15 11:54:13,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00281,3,Madurai,2025-08-06 22:09:17,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Madurai.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00282,22,Dharmapuri,2025-02-20 08:30:05,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00283,15,Tenkasi,2025-07-14 08:50:06,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00284,1,Chennai,2024-10-20 08:35:50,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chennai.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00285,8,Tiruppur,2024-11-05 17:14:00,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00286,17,Chengalpattu,2026-06-13 03:53:59,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00287,3,Madurai,2026-04-21 00:44:25,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Madurai.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00288,21,Kallakurichi,2025-09-23 03:40:43,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00289,31,Virudhunagar,2025-06-10 18:51:57,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00290,27,Perambalur,2026-03-10 07:53:37,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00291,8,Tiruppur,2025-05-28 02:49:16,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00292,37,Tirupathur,2026-03-27 22:59:34,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00293,15,Tenkasi,2026-07-31 04:30:42,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00294,26,Ariyalur,2026-04-01 16:00:18,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00295,5,Tiruchirappalli,2024-10-11 03:59:18,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00296,21,Kallakurichi,2026-04-15 01:37:40,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00297,23,Namakkal,2025-10-10 01:27:52,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00298,13,Thoothukudi,2026-02-08 07:46:49,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00299,5,Tiruchirappalli,2026-04-23 22:22:05,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00300,8,Tiruppur,2025-09-29 18:41:29,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00301,22,Dharmapuri,2026-04-24 10:15:27,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00302,1,Chennai,2025-02-20 02:20:44,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chennai.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00303,4,Salem,2025-06-25 03:13:15,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00304,18,Tiruvallur,2025-03-22 15:45:41,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00305,9,Vellore,2025-05-23 16:30:24,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Vellore.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00306,12,Thanjavur,2024-10-09 11:25:16,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00307,4,Salem,2026-05-13 13:57:47,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Salem.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00308,29,Sivaganga,2025-10-07 23:49:02,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00309,22,Dharmapuri,2026-02-19 19:40:56,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00310,11,Dindigul,2026-02-15 00:27:27,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00311,12,Thanjavur,2026-04-20 16:18:23,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00312,27,Perambalur,2026-01-22 04:52:57,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00313,30,Ramanathapuram,2026-03-17 16:09:18,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00314,31,Virudhunagar,2024-12-31 07:05:05,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00315,1,Chennai,2025-03-19 03:07:53,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chennai.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00316,2,Coimbatore,2025-04-13 16:10:12,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00317,36,Ranipet,2026-06-28 00:31:54,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00318,4,Salem,2024-09-25 07:01:07,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00319,29,Sivaganga,2026-05-18 18:15:20,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00320,15,Tenkasi,2026-03-26 18:05:48,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00321,15,Tenkasi,2026-02-20 05:06:44,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00322,30,Ramanathapuram,2025-07-28 21:00:10,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00323,22,Dharmapuri,2025-09-08 05:57:42,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00324,16,Kancheepuram,2025-08-25 12:37:07,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00325,14,Kanniyakumari,2025-06-17 02:54:27,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00326,5,Tiruchirappalli,2025-03-28 07:36:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00327,15,Tenkasi,2024-11-13 01:26:13,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00328,2,Coimbatore,2026-07-16 01:38:42,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00329,30,Ramanathapuram,2025-08-01 15:50:42,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00330,29,Sivaganga,2024-12-14 09:29:47,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00331,24,Nilgiris,2025-12-17 06:41:38,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00332,28,Pudukkottai,2026-03-10 17:09:23,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00333,17,Chengalpattu,2026-02-05 09:03:19,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00334,21,Kallakurichi,2025-12-30 03:31:11,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00335,13,Thoothukudi,2024-12-29 11:59:49,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00336,19,Cuddalore,2025-01-19 07:08:46,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00337,9,Vellore,2025-05-08 03:46:58,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Vellore.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00338,24,Nilgiris,2026-01-25 07:04:12,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00339,35,Mayiladuthurai,2025-09-07 09:51:38,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00340,20,Viluppuram,2026-05-27 20:09:13,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00341,36,Ranipet,2025-10-13 23:40:02,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00342,23,Namakkal,2026-07-26 04:48:09,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00343,21,Kallakurichi,2026-01-31 07:20:00,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00344,8,Tiruppur,2025-11-11 22:14:15,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00345,3,Madurai,2025-12-22 08:13:58,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Madurai.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00346,37,Tirupathur,2025-01-17 23:35:42,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00347,25,Karur,2026-08-10 19:22:32,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Karur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00348,35,Mayiladuthurai,2026-02-23 08:39:05,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00349,33,Thiruvarur,2025-01-16 04:10:34,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00350,1,Chennai,2025-10-07 13:43:12,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chennai.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00351,32,Theni,2026-05-17 08:37:50,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00352,1,Chennai,2024-09-21 12:32:55,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chennai.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00353,31,Virudhunagar,2025-05-08 06:14:59,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00354,25,Karur,2026-04-24 03:43:39,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Karur.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00355,9,Vellore,2025-12-29 15:08:12,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00356,22,Dharmapuri,2025-12-08 19:56:30,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00357,24,Nilgiris,2026-01-28 06:54:53,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00358,10,Krishnagiri,2025-04-19 01:49:51,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00359,22,Dharmapuri,2026-01-11 01:15:28,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00360,13,Thoothukudi,2025-08-18 10:32:33,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00361,12,Thanjavur,2024-10-26 16:21:16,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00362,12,Thanjavur,2025-07-26 02:17:09,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00363,25,Karur,2025-04-03 17:31:02,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Karur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00364,15,Tenkasi,2025-09-06 07:12:30,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00365,34,Nagapattinam,2025-10-31 22:39:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00366,18,Tiruvallur,2025-07-09 18:53:26,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00367,27,Perambalur,2025-05-16 13:26:19,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00368,36,Ranipet,2024-10-28 12:03:11,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00369,32,Theni,2026-03-17 18:05:46,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00370,12,Thanjavur,2025-01-29 22:26:40,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00371,28,Pudukkottai,2025-01-17 05:38:14,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00372,38,Tiruvannamalai,2025-09-20 11:36:24,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00373,33,Thiruvarur,2024-10-30 00:02:58,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00374,37,Tirupathur,2025-08-29 13:34:40,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00375,25,Karur,2025-08-26 18:20:42,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Karur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00376,28,Pudukkottai,2024-10-23 21:02:25,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00377,24,Nilgiris,2025-02-07 16:45:53,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00378,4,Salem,2025-09-12 10:11:14,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Salem.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00379,13,Thoothukudi,2026-01-02 16:15:59,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00380,7,Erode,2026-07-07 16:44:49,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Erode.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00381,22,Dharmapuri,2026-04-11 23:57:35,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00382,5,Tiruchirappalli,2024-11-07 01:39:56,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00383,11,Dindigul,2026-06-01 20:18:19,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00384,32,Theni,2026-03-08 12:22:17,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00385,15,Tenkasi,2026-03-12 06:30:26,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00386,11,Dindigul,2026-02-22 06:27:35,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00387,28,Pudukkottai,2025-03-24 09:10:32,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00388,27,Perambalur,2025-07-03 08:22:18,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00389,9,Vellore,2026-01-18 03:50:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Vellore.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00390,26,Ariyalur,2026-07-21 08:44:25,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00391,31,Virudhunagar,2025-06-06 23:01:07,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00392,30,Ramanathapuram,2024-12-08 06:20:37,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00393,4,Salem,2025-11-20 20:06:45,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00394,30,Ramanathapuram,2025-10-02 22:23:47,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00395,18,Tiruvallur,2026-07-08 21:07:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00396,6,Tirunelveli,2026-04-20 03:15:50,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00397,26,Ariyalur,2026-02-22 12:42:27,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00398,24,Nilgiris,2025-08-11 19:05:41,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00399,19,Cuddalore,2026-03-25 07:00:52,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00400,12,Thanjavur,2024-12-22 19:21:05,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00401,3,Madurai,2025-01-28 21:14:32,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Madurai.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00402,11,Dindigul,2025-08-02 09:55:24,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00403,28,Pudukkottai,2025-02-09 15:06:01,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00404,30,Ramanathapuram,2026-07-28 07:19:25,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00405,38,Tiruvannamalai,2025-05-28 23:23:08,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00406,18,Tiruvallur,2026-07-28 12:24:59,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00407,24,Nilgiris,2026-04-19 17:29:02,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00408,27,Perambalur,2024-11-29 05:28:58,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00409,17,Chengalpattu,2026-03-03 13:18:19,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00410,38,Tiruvannamalai,2025-01-02 12:34:00,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00411,18,Tiruvallur,2026-06-13 12:56:55,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00412,23,Namakkal,2026-02-25 10:11:16,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00413,23,Namakkal,2025-07-04 14:25:02,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00414,36,Ranipet,2024-10-16 14:10:20,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00415,8,Tiruppur,2024-09-21 21:04:32,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00416,11,Dindigul,2025-02-28 07:42:44,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00417,11,Dindigul,2025-05-30 10:07:53,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00418,4,Salem,2025-01-14 18:43:40,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00419,16,Kancheepuram,2025-12-18 18:40:59,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00420,37,Tirupathur,2024-10-21 02:59:36,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00421,28,Pudukkottai,2026-04-09 16:02:54,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00422,16,Kancheepuram,2025-04-02 21:47:42,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00423,14,Kanniyakumari,2025-05-28 10:14:10,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00424,21,Kallakurichi,2025-01-29 22:41:29,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00425,13,Thoothukudi,2025-05-09 02:16:31,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00426,3,Madurai,2025-12-23 12:05:02,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Madurai.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00427,21,Kallakurichi,2026-05-12 12:25:13,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00428,20,Viluppuram,2025-02-22 06:15:20,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00429,33,Thiruvarur,2025-04-23 11:27:54,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00430,7,Erode,2024-11-03 09:16:58,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00431,16,Kancheepuram,2024-12-22 01:58:31,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00432,21,Kallakurichi,2025-04-11 01:48:14,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00433,10,Krishnagiri,2025-02-26 19:40:55,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00434,8,Tiruppur,2025-05-26 08:07:03,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00435,12,Thanjavur,2025-10-26 17:14:29,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00436,17,Chengalpattu,2025-09-03 02:22:59,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00437,13,Thoothukudi,2026-05-12 11:34:23,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00438,17,Chengalpattu,2025-02-01 00:43:16,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00439,38,Tiruvannamalai,2024-12-15 11:02:14,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00440,14,Kanniyakumari,2025-11-29 15:05:23,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00441,15,Tenkasi,2026-01-06 02:44:26,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00442,13,Thoothukudi,2026-01-04 10:41:26,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00443,4,Salem,2025-10-25 20:57:45,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00444,18,Tiruvallur,2025-12-17 04:32:21,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00445,26,Ariyalur,2025-02-25 22:41:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00446,32,Theni,2025-07-31 20:09:12,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00447,29,Sivaganga,2025-12-18 03:36:34,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00448,27,Perambalur,2025-12-07 07:35:20,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00449,37,Tirupathur,2026-03-29 13:38:22,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00450,13,Thoothukudi,2026-02-26 07:54:38,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00451,20,Viluppuram,2025-01-04 10:32:11,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00452,7,Erode,2025-02-04 01:38:57,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00453,3,Madurai,2025-10-08 02:58:38,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Madurai.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00454,22,Dharmapuri,2025-10-20 07:11:01,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00455,23,Namakkal,2024-09-22 07:24:12,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00456,4,Salem,2026-03-06 16:17:22,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Salem.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00457,4,Salem,2025-10-26 19:46:49,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00458,3,Madurai,2024-10-18 19:32:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Madurai.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00459,30,Ramanathapuram,2026-01-03 23:00:09,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00460,8,Tiruppur,2026-08-18 04:34:00,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00461,14,Kanniyakumari,2026-08-12 14:18:25,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00462,17,Chengalpattu,2025-02-28 04:05:34,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00463,2,Coimbatore,2025-02-23 13:32:22,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00464,12,Thanjavur,2025-01-08 22:29:57,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00465,14,Kanniyakumari,2025-04-23 03:18:04,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00466,19,Cuddalore,2026-05-26 05:56:12,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00467,16,Kancheepuram,2026-03-22 03:36:47,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00468,36,Ranipet,2025-09-02 21:25:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00469,7,Erode,2025-11-12 06:40:39,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00470,12,Thanjavur,2025-06-24 17:39:12,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00471,9,Vellore,2025-11-19 01:36:24,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Vellore.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00472,5,Tiruchirappalli,2026-04-13 07:41:17,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00473,2,Coimbatore,2025-05-20 05:43:41,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00474,8,Tiruppur,2024-12-24 14:20:00,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00475,32,Theni,2025-03-02 01:34:41,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Theni.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00476,14,Kanniyakumari,2026-03-21 13:12:45,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00477,17,Chengalpattu,2025-12-05 19:32:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00478,34,Nagapattinam,2024-09-26 22:39:01,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00479,7,Erode,2025-01-19 10:28:10,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Erode.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00480,23,Namakkal,2025-03-11 10:58:23,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00481,38,Tiruvannamalai,2026-07-22 18:05:17,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00482,26,Ariyalur,2025-02-05 12:02:04,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00483,4,Salem,2025-12-29 15:52:02,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Salem.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00484,36,Ranipet,2026-08-02 03:41:11,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00485,35,Mayiladuthurai,2025-11-27 18:29:13,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00486,16,Kancheepuram,2025-02-24 18:21:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00487,8,Tiruppur,2025-01-12 10:16:48,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00488,19,Cuddalore,2025-09-22 13:43:05,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00489,34,Nagapattinam,2026-07-18 20:46:30,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00490,22,Dharmapuri,2025-10-10 15:49:10,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00491,28,Pudukkottai,2025-11-05 20:23:17,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00492,16,Kancheepuram,2025-07-24 03:16:18,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00493,10,Krishnagiri,2026-03-04 23:00:20,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00494,5,Tiruchirappalli,2026-02-08 08:10:35,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00495,32,Theni,2026-07-08 06:00:32,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Theni.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00496,30,Ramanathapuram,2025-11-08 00:46:30,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00497,7,Erode,2025-09-05 01:23:52,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00498,8,Tiruppur,2026-04-26 14:42:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00499,34,Nagapattinam,2025-11-03 19:49:41,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00500,13,Thoothukudi,2025-02-11 10:38:31,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00501,35,Mayiladuthurai,2025-01-20 12:40:03,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00502,36,Ranipet,2026-02-01 06:16:41,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00503,18,Tiruvallur,2025-02-18 09:50:22,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00504,36,Ranipet,2025-05-07 02:16:01,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00505,2,Coimbatore,2026-04-27 06:05:58,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00506,19,Cuddalore,2026-03-13 14:25:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00507,21,Kallakurichi,2024-12-13 07:42:23,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00508,9,Vellore,2025-09-23 14:47:06,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Vellore.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00509,13,Thoothukudi,2025-02-16 03:45:00,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00510,14,Kanniyakumari,2024-11-13 10:29:51,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00511,13,Thoothukudi,2025-11-13 04:55:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00512,14,Kanniyakumari,2026-03-19 01:09:35,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00513,18,Tiruvallur,2024-09-24 08:01:33,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00514,19,Cuddalore,2025-03-14 07:44:11,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00515,34,Nagapattinam,2026-02-05 07:28:30,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00516,19,Cuddalore,2026-04-15 10:18:58,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00517,11,Dindigul,2024-10-12 12:30:55,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00518,14,Kanniyakumari,2025-05-13 18:27:52,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00519,22,Dharmapuri,2026-02-18 09:34:42,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00520,18,Tiruvallur,2026-01-13 21:58:42,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00521,38,Tiruvannamalai,2025-07-11 13:02:38,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00522,9,Vellore,2025-09-20 01:32:42,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Vellore.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00523,26,Ariyalur,2025-07-22 21:14:09,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00524,4,Salem,2024-11-09 17:40:56,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Salem.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00525,28,Pudukkottai,2026-07-27 12:18:31,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00526,8,Tiruppur,2026-06-14 10:19:25,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00527,4,Salem,2024-12-22 08:39:59,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00528,27,Perambalur,2025-09-01 22:35:08,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00529,15,Tenkasi,2026-06-23 05:19:28,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00530,9,Vellore,2025-12-08 09:36:15,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00531,13,Thoothukudi,2025-07-29 00:55:14,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00532,36,Ranipet,2026-07-15 22:48:46,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00533,35,Mayiladuthurai,2025-09-14 20:56:16,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00534,34,Nagapattinam,2025-04-19 00:20:45,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00535,15,Tenkasi,2025-02-09 13:38:35,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00536,36,Ranipet,2025-04-23 14:03:52,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00537,35,Mayiladuthurai,2026-08-05 09:41:53,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00538,13,Thoothukudi,2025-08-17 21:42:44,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00539,29,Sivaganga,2026-03-22 14:10:08,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00540,17,Chengalpattu,2025-02-21 00:01:51,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00541,21,Kallakurichi,2025-07-03 18:17:10,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00542,20,Viluppuram,2025-06-19 14:10:19,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00543,38,Tiruvannamalai,2026-03-08 18:10:44,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00544,15,Tenkasi,2025-01-31 21:44:24,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00545,38,Tiruvannamalai,2026-05-18 08:45:30,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00546,5,Tiruchirappalli,2026-08-13 08:53:02,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00547,18,Tiruvallur,2026-02-15 14:55:49,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00548,27,Perambalur,2025-07-23 05:24:00,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00549,4,Salem,2025-01-18 01:00:46,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Salem.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00550,10,Krishnagiri,2026-07-28 05:45:55,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00551,1,Chennai,2024-12-19 11:58:38,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chennai.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00552,36,Ranipet,2024-10-23 02:11:50,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00553,33,Thiruvarur,2026-03-16 02:51:14,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00554,4,Salem,2025-08-12 05:45:33,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Salem.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00555,30,Ramanathapuram,2025-07-18 14:09:32,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00556,25,Karur,2025-01-25 08:22:28,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Karur.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00557,15,Tenkasi,2025-09-03 01:58:46,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00558,4,Salem,2024-11-12 18:55:55,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Salem.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00559,3,Madurai,2024-10-07 18:55:47,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Madurai.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00560,28,Pudukkottai,2024-11-26 15:22:24,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00561,20,Viluppuram,2025-06-25 04:49:16,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00562,18,Tiruvallur,2024-12-31 01:09:52,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00563,20,Viluppuram,2024-10-29 06:36:18,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00564,29,Sivaganga,2024-11-09 08:56:35,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00565,1,Chennai,2025-05-02 13:58:36,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chennai.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00566,28,Pudukkottai,2025-09-22 18:46:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00567,14,Kanniyakumari,2025-07-13 01:15:41,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00568,6,Tirunelveli,2025-01-14 06:17:59,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00569,14,Kanniyakumari,2024-11-06 04:15:35,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00570,29,Sivaganga,2025-07-20 09:30:00,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00571,4,Salem,2025-09-26 04:20:37,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Salem.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00572,32,Theni,2026-07-19 12:57:04,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00573,37,Tirupathur,2026-04-16 22:25:55,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00574,34,Nagapattinam,2025-01-29 17:25:29,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00575,18,Tiruvallur,2024-10-11 22:43:29,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00576,21,Kallakurichi,2026-06-03 19:17:03,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00577,37,Tirupathur,2024-09-22 15:57:38,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00578,1,Chennai,2025-07-16 13:55:54,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chennai.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00579,11,Dindigul,2025-01-12 12:05:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00580,8,Tiruppur,2024-09-20 11:18:54,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00581,37,Tirupathur,2025-05-30 08:10:17,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00582,24,Nilgiris,2024-12-10 07:03:32,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00583,33,Thiruvarur,2024-12-16 22:05:00,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00584,34,Nagapattinam,2024-11-19 13:29:09,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00585,2,Coimbatore,2025-04-11 10:52:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00586,25,Karur,2026-07-08 08:17:19,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Karur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00587,15,Tenkasi,2026-05-25 00:48:11,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00588,11,Dindigul,2026-06-12 14:07:26,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00589,16,Kancheepuram,2024-12-23 07:16:10,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00590,16,Kancheepuram,2025-05-21 16:30:42,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00591,9,Vellore,2025-09-26 08:54:23,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Vellore.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00592,28,Pudukkottai,2025-06-22 00:22:00,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00593,3,Madurai,2026-03-12 06:54:08,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Madurai.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00594,10,Krishnagiri,2025-01-29 06:46:10,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00595,31,Virudhunagar,2026-08-14 22:11:56,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00596,20,Viluppuram,2025-07-02 13:01:31,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00597,27,Perambalur,2026-07-31 21:50:11,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00598,1,Chennai,2025-06-21 00:10:20,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chennai.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00599,17,Chengalpattu,2026-04-15 16:39:59,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00600,13,Thoothukudi,2026-08-11 23:42:46,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00601,31,Virudhunagar,2025-07-22 00:53:52,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00602,15,Tenkasi,2025-09-05 00:01:56,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00603,8,Tiruppur,2025-08-22 07:11:11,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00604,38,Tiruvannamalai,2026-08-11 11:25:20,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00605,1,Chennai,2025-03-19 16:00:21,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chennai.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00606,5,Tiruchirappalli,2024-11-08 14:28:54,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00607,24,Nilgiris,2026-03-30 23:34:23,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00608,25,Karur,2025-03-30 12:39:56,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Karur.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00609,15,Tenkasi,2025-04-11 10:47:39,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00610,2,Coimbatore,2026-03-12 12:34:49,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00611,33,Thiruvarur,2024-11-18 16:04:27,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00612,7,Erode,2025-05-05 13:44:03,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00613,37,Tirupathur,2026-02-04 23:28:04,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00614,6,Tirunelveli,2026-04-18 06:28:13,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00615,6,Tirunelveli,2025-07-13 08:21:31,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00616,9,Vellore,2025-05-27 19:49:32,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Vellore.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00617,6,Tirunelveli,2025-10-31 11:00:49,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00618,15,Tenkasi,2026-08-12 06:27:41,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00619,5,Tiruchirappalli,2025-03-26 17:22:14,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00620,9,Vellore,2024-11-09 17:45:53,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00621,7,Erode,2025-06-15 09:53:43,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Erode.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00622,35,Mayiladuthurai,2026-02-20 17:36:07,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00623,24,Nilgiris,2025-09-05 00:43:01,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00624,29,Sivaganga,2026-07-31 18:22:58,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00625,11,Dindigul,2026-05-25 07:33:22,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00626,26,Ariyalur,2025-01-19 21:08:29,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00627,6,Tirunelveli,2024-12-17 03:45:55,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00628,21,Kallakurichi,2025-01-26 14:38:14,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00629,27,Perambalur,2025-05-07 08:44:48,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00630,8,Tiruppur,2025-07-26 07:23:27,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00631,13,Thoothukudi,2025-09-11 18:15:51,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00632,5,Tiruchirappalli,2025-12-25 04:09:02,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00633,19,Cuddalore,2025-07-11 17:04:33,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00634,33,Thiruvarur,2026-07-07 21:08:32,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00635,18,Tiruvallur,2025-03-13 03:16:16,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00636,19,Cuddalore,2025-03-01 09:51:08,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00637,18,Tiruvallur,2024-10-04 17:06:33,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00638,26,Ariyalur,2024-12-06 00:56:32,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00639,24,Nilgiris,2025-08-21 05:03:15,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00640,38,Tiruvannamalai,2024-12-26 13:06:49,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00641,9,Vellore,2025-09-21 01:50:15,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Vellore.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00642,30,Ramanathapuram,2026-07-15 05:25:54,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00643,38,Tiruvannamalai,2024-12-25 16:25:17,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00644,35,Mayiladuthurai,2025-09-13 02:50:17,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00645,13,Thoothukudi,2025-08-29 15:06:53,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00646,13,Thoothukudi,2026-03-16 10:03:56,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00647,23,Namakkal,2024-10-09 11:59:10,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00648,21,Kallakurichi,2025-01-13 09:14:12,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00649,16,Kancheepuram,2024-11-25 06:32:41,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00650,21,Kallakurichi,2025-10-20 05:54:23,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00651,30,Ramanathapuram,2026-01-28 10:12:57,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00652,31,Virudhunagar,2026-05-31 17:21:05,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00653,24,Nilgiris,2025-10-12 14:20:50,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00654,25,Karur,2025-01-17 10:25:21,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Karur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00655,4,Salem,2025-05-28 16:04:55,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Salem.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00656,35,Mayiladuthurai,2024-11-08 21:53:32,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00657,32,Theni,2026-03-18 01:44:40,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Theni.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00658,16,Kancheepuram,2025-01-02 16:37:44,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00659,10,Krishnagiri,2024-11-08 00:18:01,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00660,18,Tiruvallur,2024-11-07 23:07:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00661,33,Thiruvarur,2025-09-19 17:45:04,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00662,32,Theni,2024-09-24 11:43:49,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00663,21,Kallakurichi,2025-03-19 10:10:49,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00664,12,Thanjavur,2026-07-21 23:48:51,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00665,30,Ramanathapuram,2025-07-24 15:36:27,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00666,18,Tiruvallur,2024-10-21 23:16:51,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00667,16,Kancheepuram,2025-09-01 13:04:16,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00668,1,Chennai,2025-03-09 04:34:28,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chennai.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00669,20,Viluppuram,2025-06-30 12:02:50,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00670,10,Krishnagiri,2025-07-31 02:45:29,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00671,33,Thiruvarur,2025-10-17 08:46:28,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00672,16,Kancheepuram,2025-06-29 03:39:33,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00673,14,Kanniyakumari,2026-04-19 16:30:59,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00674,36,Ranipet,2024-12-06 14:05:36,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00675,25,Karur,2025-09-22 05:52:29,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Karur.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00676,33,Thiruvarur,2026-08-10 07:18:56,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00677,22,Dharmapuri,2025-01-25 00:26:43,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00678,31,Virudhunagar,2026-01-04 11:41:25,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00679,6,Tirunelveli,2026-08-15 18:12:55,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00680,22,Dharmapuri,2024-12-08 06:56:58,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00681,32,Theni,2024-11-14 02:22:10,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00682,21,Kallakurichi,2026-04-19 13:03:47,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00683,21,Kallakurichi,2025-08-30 19:02:23,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00684,19,Cuddalore,2026-01-02 09:01:36,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00685,22,Dharmapuri,2026-06-25 22:29:08,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00686,15,Tenkasi,2026-07-23 23:49:57,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00687,11,Dindigul,2025-10-23 00:28:39,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00688,26,Ariyalur,2024-10-09 03:53:46,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00689,14,Kanniyakumari,2025-09-29 21:42:13,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00690,26,Ariyalur,2025-12-28 06:14:29,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00691,12,Thanjavur,2025-08-08 14:33:41,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00692,21,Kallakurichi,2025-09-20 12:03:29,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00693,19,Cuddalore,2026-07-14 11:55:06,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00694,17,Chengalpattu,2026-07-06 14:15:56,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00695,32,Theni,2025-11-30 14:46:23,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00696,5,Tiruchirappalli,2026-02-02 11:20:13,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00697,32,Theni,2025-11-16 10:28:55,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00698,37,Tirupathur,2026-05-15 12:10:27,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00699,36,Ranipet,2025-03-09 20:56:10,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00700,8,Tiruppur,2026-02-25 00:44:51,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00701,23,Namakkal,2025-11-30 11:58:29,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00702,30,Ramanathapuram,2026-01-10 04:13:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00703,21,Kallakurichi,2025-10-08 23:54:56,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00704,36,Ranipet,2026-07-08 10:00:35,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00705,18,Tiruvallur,2024-12-25 16:54:15,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00706,21,Kallakurichi,2025-01-04 11:18:52,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00707,31,Virudhunagar,2026-06-01 14:13:40,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00708,22,Dharmapuri,2026-02-16 21:27:28,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00709,10,Krishnagiri,2026-02-12 12:28:14,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00710,20,Viluppuram,2024-11-03 06:32:46,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00711,18,Tiruvallur,2025-10-31 05:40:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00712,2,Coimbatore,2025-04-07 05:06:46,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00713,7,Erode,2025-11-30 20:49:20,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Erode.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00714,38,Tiruvannamalai,2026-05-31 07:50:13,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00715,12,Thanjavur,2026-01-20 14:59:54,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00716,34,Nagapattinam,2025-07-24 00:28:04,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00717,25,Karur,2024-12-12 17:35:50,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Karur.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00718,32,Theni,2025-05-26 12:58:56,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00719,24,Nilgiris,2024-10-23 23:57:47,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00720,10,Krishnagiri,2025-12-07 23:09:23,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00721,6,Tirunelveli,2026-08-03 06:15:34,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00722,29,Sivaganga,2025-05-27 12:59:16,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00723,18,Tiruvallur,2025-07-30 10:25:18,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00724,33,Thiruvarur,2025-07-22 23:23:01,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00725,32,Theni,2026-08-08 20:41:16,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00726,28,Pudukkottai,2026-07-21 17:48:38,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00727,15,Tenkasi,2025-01-07 21:02:43,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00728,20,Viluppuram,2025-07-05 23:02:58,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00729,29,Sivaganga,2025-08-06 09:59:00,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00730,17,Chengalpattu,2026-08-11 12:13:27,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00731,15,Tenkasi,2024-10-20 11:55:05,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00732,37,Tirupathur,2026-01-16 09:11:30,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00733,3,Madurai,2025-09-29 13:22:35,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Madurai.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00734,32,Theni,2025-04-24 13:49:45,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00735,7,Erode,2025-04-16 06:50:53,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00736,4,Salem,2024-10-07 18:09:51,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Salem.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00737,6,Tirunelveli,2025-03-31 18:02:30,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00738,36,Ranipet,2025-02-28 12:42:50,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00739,8,Tiruppur,2025-06-11 15:08:09,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00740,23,Namakkal,2026-03-08 05:42:09,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00741,19,Cuddalore,2025-02-05 07:53:56,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00742,3,Madurai,2025-02-22 02:53:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Madurai.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00743,12,Thanjavur,2026-05-24 06:07:13,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00744,8,Tiruppur,2025-12-03 10:22:48,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00745,4,Salem,2025-04-08 23:07:05,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Salem.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00746,29,Sivaganga,2026-08-14 18:05:44,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00747,9,Vellore,2026-06-06 22:30:04,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Vellore.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00748,1,Chennai,2025-07-03 01:55:40,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chennai.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00749,4,Salem,2025-02-17 08:30:18,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Salem.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00750,3,Madurai,2025-05-27 00:09:04,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Madurai.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00751,36,Ranipet,2026-05-21 20:31:14,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00752,19,Cuddalore,2025-05-12 09:27:09,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00753,12,Thanjavur,2025-10-13 16:16:04,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00754,35,Mayiladuthurai,2025-06-06 00:34:21,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00755,14,Kanniyakumari,2025-03-07 14:08:53,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00756,26,Ariyalur,2026-06-05 10:40:22,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00757,15,Tenkasi,2026-05-11 00:51:18,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00758,12,Thanjavur,2025-07-20 09:40:39,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00759,34,Nagapattinam,2025-01-12 00:38:34,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00760,27,Perambalur,2025-12-30 06:36:57,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00761,33,Thiruvarur,2025-09-18 20:24:27,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00762,33,Thiruvarur,2026-02-18 20:11:27,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00763,34,Nagapattinam,2025-08-10 17:35:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00764,28,Pudukkottai,2025-11-27 02:20:47,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00765,21,Kallakurichi,2025-09-18 22:46:26,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00766,14,Kanniyakumari,2026-03-01 06:15:26,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00767,36,Ranipet,2024-09-27 01:35:40,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00768,18,Tiruvallur,2026-08-10 18:33:07,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00769,11,Dindigul,2026-04-01 11:52:25,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00770,2,Coimbatore,2026-04-09 07:14:40,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00771,21,Kallakurichi,2026-07-09 11:04:42,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00772,32,Theni,2026-04-26 21:58:15,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Theni.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00773,33,Thiruvarur,2025-04-10 07:10:50,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00774,9,Vellore,2025-05-09 14:09:01,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Vellore.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00775,26,Ariyalur,2025-03-01 02:04:17,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00776,8,Tiruppur,2025-08-25 06:26:58,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00777,21,Kallakurichi,2025-08-15 02:26:41,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00778,3,Madurai,2024-12-19 04:56:44,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Madurai.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00779,29,Sivaganga,2025-12-10 18:08:30,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00780,2,Coimbatore,2025-11-01 09:09:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00781,11,Dindigul,2026-05-06 19:50:28,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00782,13,Thoothukudi,2024-12-21 18:42:57,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00783,38,Tiruvannamalai,2026-02-05 16:04:29,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00784,4,Salem,2025-01-01 21:10:44,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00785,14,Kanniyakumari,2025-05-14 14:20:37,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00786,26,Ariyalur,2026-06-11 17:00:42,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00787,1,Chennai,2025-10-21 06:58:49,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chennai.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00788,4,Salem,2026-08-16 07:30:59,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Salem.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00789,18,Tiruvallur,2025-10-08 12:45:05,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00790,3,Madurai,2024-11-28 03:50:35,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Madurai.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00791,27,Perambalur,2025-03-01 18:11:20,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00792,3,Madurai,2025-12-29 12:27:20,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Madurai.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00793,23,Namakkal,2026-07-02 12:19:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00794,20,Viluppuram,2025-12-20 09:44:51,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00795,3,Madurai,2026-04-15 17:26:32,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Madurai.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00796,7,Erode,2025-07-28 12:31:31,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00797,3,Madurai,2026-07-20 02:44:32,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Madurai.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00798,24,Nilgiris,2025-05-18 23:27:40,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00799,26,Ariyalur,2026-06-30 09:15:57,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00800,18,Tiruvallur,2024-11-09 08:50:04,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00801,5,Tiruchirappalli,2026-07-17 21:33:49,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00802,21,Kallakurichi,2026-06-30 09:41:05,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00803,1,Chennai,2026-04-20 19:30:28,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chennai.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00804,31,Virudhunagar,2024-10-20 04:44:10,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00805,32,Theni,2025-02-04 18:47:37,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00806,30,Ramanathapuram,2026-06-26 10:19:04,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00807,14,Kanniyakumari,2025-06-15 10:09:49,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00808,12,Thanjavur,2025-02-20 07:11:59,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00809,1,Chennai,2026-02-23 18:19:17,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chennai.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00810,14,Kanniyakumari,2026-01-10 01:35:27,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00811,10,Krishnagiri,2026-05-29 01:41:45,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00812,29,Sivaganga,2024-10-21 12:36:27,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00813,9,Vellore,2026-02-25 19:11:08,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00814,17,Chengalpattu,2025-08-22 00:51:01,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00815,12,Thanjavur,2026-03-04 14:00:54,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00816,31,Virudhunagar,2025-10-19 23:24:35,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00817,6,Tirunelveli,2025-09-03 11:33:27,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00818,32,Theni,2024-11-14 01:04:08,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Theni.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00819,3,Madurai,2025-09-28 18:04:47,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Madurai.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00820,36,Ranipet,2025-01-20 04:39:03,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00821,30,Ramanathapuram,2025-03-09 20:50:07,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00822,11,Dindigul,2026-01-25 11:54:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00823,13,Thoothukudi,2024-10-28 03:46:58,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00824,2,Coimbatore,2026-06-16 21:32:42,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00825,27,Perambalur,2025-11-08 23:26:48,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00826,6,Tirunelveli,2026-04-28 12:30:06,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00827,27,Perambalur,2025-02-17 21:18:14,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00828,14,Kanniyakumari,2024-10-22 06:03:00,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00829,16,Kancheepuram,2025-03-06 16:55:15,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00830,2,Coimbatore,2026-04-10 10:40:34,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00831,29,Sivaganga,2026-05-20 21:49:12,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00832,6,Tirunelveli,2025-02-19 12:05:10,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00833,38,Tiruvannamalai,2024-10-26 07:52:46,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00834,28,Pudukkottai,2025-11-04 11:50:12,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00835,25,Karur,2026-06-25 09:34:26,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Karur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00836,22,Dharmapuri,2026-03-03 07:17:05,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00837,27,Perambalur,2026-08-05 07:47:14,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00838,19,Cuddalore,2025-04-09 08:33:18,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00839,24,Nilgiris,2025-04-22 04:08:42,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00840,28,Pudukkottai,2025-10-15 15:07:22,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00841,8,Tiruppur,2026-01-18 23:32:23,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00842,32,Theni,2024-12-17 16:42:11,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00843,32,Theni,2026-08-08 20:39:38,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00844,32,Theni,2026-07-18 06:21:18,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00845,2,Coimbatore,2025-01-14 23:27:45,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00846,27,Perambalur,2026-07-06 04:08:04,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00847,34,Nagapattinam,2025-12-16 16:23:56,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00848,10,Krishnagiri,2026-07-30 17:43:16,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00849,29,Sivaganga,2024-11-16 04:25:12,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00850,7,Erode,2025-10-25 20:35:30,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Erode.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00851,38,Tiruvannamalai,2025-11-21 16:03:53,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00852,15,Tenkasi,2026-08-10 11:30:48,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00853,21,Kallakurichi,2026-04-18 16:50:24,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00854,20,Viluppuram,2024-11-16 07:00:21,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00855,14,Kanniyakumari,2025-01-15 18:23:55,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00856,15,Tenkasi,2025-09-24 03:38:19,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00857,35,Mayiladuthurai,2025-05-20 20:35:40,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00858,36,Ranipet,2024-09-20 21:08:37,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00859,34,Nagapattinam,2024-12-13 19:52:31,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00860,15,Tenkasi,2025-09-02 01:26:40,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00861,5,Tiruchirappalli,2025-01-14 16:36:10,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00862,12,Thanjavur,2024-12-26 16:51:33,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00863,1,Chennai,2024-11-20 07:13:52,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Chennai.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00864,38,Tiruvannamalai,2025-03-28 16:55:13,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00865,29,Sivaganga,2025-12-04 11:02:46,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00866,14,Kanniyakumari,2026-01-07 15:12:30,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00867,36,Ranipet,2025-08-08 03:34:36,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00868,21,Kallakurichi,2025-06-22 14:59:57,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00869,2,Coimbatore,2025-08-16 17:09:42,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00870,37,Tirupathur,2026-06-25 22:49:32,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00871,8,Tiruppur,2024-12-25 19:05:37,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00872,26,Ariyalur,2025-11-18 10:09:07,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00873,23,Namakkal,2025-04-02 20:58:29,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00874,30,Ramanathapuram,2024-12-20 21:14:56,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00875,30,Ramanathapuram,2025-10-30 18:13:47,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00876,22,Dharmapuri,2026-04-18 19:28:25,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00877,6,Tirunelveli,2025-06-27 10:19:45,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00878,3,Madurai,2026-02-07 09:48:48,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Madurai.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00879,37,Tirupathur,2025-12-27 18:19:13,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00880,5,Tiruchirappalli,2026-02-15 09:05:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00881,3,Madurai,2026-01-28 12:40:08,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Madurai.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00882,14,Kanniyakumari,2026-04-23 23:50:19,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00883,11,Dindigul,2026-07-17 08:12:50,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00884,6,Tirunelveli,2024-09-29 02:34:45,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirunelveli.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00885,2,Coimbatore,2025-04-08 10:35:54,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00886,2,Coimbatore,2025-11-13 17:57:30,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00887,16,Kancheepuram,2025-11-08 14:08:52,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00888,2,Coimbatore,2026-01-08 03:28:55,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00889,22,Dharmapuri,2024-10-24 11:59:42,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00890,22,Dharmapuri,2025-12-10 00:13:48,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00891,23,Namakkal,2025-10-11 08:01:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00892,4,Salem,2025-01-17 11:02:50,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Salem.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00893,4,Salem,2026-03-06 02:43:18,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Salem.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00894,7,Erode,2025-04-18 14:32:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Erode.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00895,26,Ariyalur,2024-11-18 16:02:17,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00896,28,Pudukkottai,2026-02-01 12:22:39,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00897,30,Ramanathapuram,2025-01-29 09:42:03,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00898,19,Cuddalore,2024-11-09 00:53:33,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00899,9,Vellore,2026-08-10 13:58:26,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00900,11,Dindigul,2024-11-15 06:03:58,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00901,35,Mayiladuthurai,2025-09-26 16:31:00,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00902,29,Sivaganga,2025-08-20 09:25:09,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00903,18,Tiruvallur,2025-03-11 02:55:57,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00904,12,Thanjavur,2026-06-11 03:30:07,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00905,30,Ramanathapuram,2025-08-19 01:47:26,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ramanathapuram.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00906,29,Sivaganga,2025-04-18 17:13:54,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00907,29,Sivaganga,2026-03-25 04:44:28,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00908,23,Namakkal,2024-10-06 16:20:05,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00909,24,Nilgiris,2025-02-11 04:37:18,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00910,37,Tirupathur,2026-01-09 08:32:04,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00911,15,Tenkasi,2024-09-20 16:30:28,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00912,25,Karur,2026-08-07 18:23:29,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Karur.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00913,33,Thiruvarur,2025-05-20 08:40:29,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00914,13,Thoothukudi,2025-02-18 19:57:11,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00915,21,Kallakurichi,2025-05-26 01:52:50,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00916,1,Chennai,2026-05-16 06:18:52,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chennai.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00917,28,Pudukkottai,2026-07-08 12:33:43,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00918,28,Pudukkottai,2025-03-29 16:13:39,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Pudukkottai.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00919,1,Chennai,2026-03-15 13:26:24,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Chennai.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00920,19,Cuddalore,2025-09-28 06:28:25,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00921,20,Viluppuram,2025-03-01 04:55:04,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00922,21,Kallakurichi,2025-10-21 21:42:52,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00923,32,Theni,2025-12-22 19:53:00,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Theni.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00924,22,Dharmapuri,2026-03-22 09:46:08,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dharmapuri.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00925,17,Chengalpattu,2025-03-07 12:28:50,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00926,9,Vellore,2025-04-07 08:11:11,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00927,13,Thoothukudi,2025-09-15 19:42:55,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00928,26,Ariyalur,2024-11-04 04:02:26,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00929,26,Ariyalur,2024-09-30 10:19:08,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00930,9,Vellore,2025-06-09 20:41:58,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Vellore.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00931,5,Tiruchirappalli,2026-02-08 13:55:38,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00932,9,Vellore,2025-05-17 09:38:47,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Vellore.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00933,33,Thiruvarur,2025-05-04 02:25:38,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00934,25,Karur,2026-01-24 10:09:32,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Karur.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00935,2,Coimbatore,2025-04-17 06:53:53,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00936,13,Thoothukudi,2025-10-13 22:36:45,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00937,20,Viluppuram,2025-05-23 09:39:59,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00938,16,Kancheepuram,2025-10-03 01:34:46,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Kancheepuram.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00939,8,Tiruppur,2026-04-09 05:37:51,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00940,10,Krishnagiri,2025-07-12 01:17:41,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00941,34,Nagapattinam,2025-10-07 11:57:09,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00942,31,Virudhunagar,2026-08-15 17:05:17,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00943,38,Tiruvannamalai,2025-09-17 08:47:09,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00944,20,Viluppuram,2025-02-08 20:44:12,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Viluppuram.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00945,38,Tiruvannamalai,2026-03-20 13:29:21,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00946,13,Thoothukudi,2025-02-17 16:04:23,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00947,13,Thoothukudi,2025-02-02 19:06:30,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00948,5,Tiruchirappalli,2025-10-05 00:54:48,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,2,Synthetic Stimulants / MDMA / Meth,HIGH
+NWS-2026-00949,26,Ariyalur,2026-03-30 22:12:55,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM
+NWS-2026-00950,19,Cuddalore,2025-04-19 17:07:56,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00951,12,Thanjavur,2025-05-01 04:58:12,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Thanjavur.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00952,19,Cuddalore,2025-07-03 11:51:55,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Cuddalore.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00953,25,Karur,2025-05-03 22:19:32,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Karur.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00954,29,Sivaganga,2025-03-10 16:56:46,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00955,10,Krishnagiri,2026-07-22 20:54:59,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00956,10,Krishnagiri,2024-10-13 01:51:02,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Krishnagiri.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00957,13,Thoothukudi,2026-04-27 10:04:20,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thoothukudi.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00958,25,Karur,2026-01-12 00:36:51,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Karur.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00959,37,Tirupathur,2025-02-08 17:50:21,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00960,24,Nilgiris,2025-12-04 00:41:01,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Nilgiris.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00961,18,Tiruvallur,2026-02-10 00:02:04,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00962,32,Theni,2026-05-03 12:05:32,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Theni.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00963,33,Thiruvarur,2026-03-26 10:09:57,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Thiruvarur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00964,29,Sivaganga,2025-04-25 21:24:24,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,6,Unclassified / Suspicious Substance,HIGH
+NWS-2026-00965,26,Ariyalur,2025-04-14 10:36:22,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00966,35,Mayiladuthurai,2024-11-09 20:01:50,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00967,26,Ariyalur,2026-01-21 22:14:04,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00968,37,Tirupathur,2025-06-03 00:28:51,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00969,25,Karur,2025-11-22 03:34:48,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Karur.,6,Unclassified / Suspicious Substance,MEDIUM
+NWS-2026-00970,5,Tiruchirappalli,2025-02-17 04:21:54,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruchirappalli.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00971,23,Namakkal,2024-09-23 15:42:19,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Namakkal.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00972,31,Virudhunagar,2026-07-22 05:01:25,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00973,7,Erode,2026-08-07 02:09:59,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Erode.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00974,35,Mayiladuthurai,2026-04-03 02:34:12,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00975,34,Nagapattinam,2024-11-27 22:36:50,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Nagapattinam.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00976,21,Kallakurichi,2026-06-14 19:46:20,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Kallakurichi.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00977,35,Mayiladuthurai,2026-03-30 00:10:53,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00978,7,Erode,2025-01-08 23:00:55,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Erode.,2,Synthetic Stimulants / MDMA / Meth,LOW
+NWS-2026-00979,31,Virudhunagar,2025-05-19 01:49:43,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,5,Opioid Analogues / Brown Sugar / Heroin,LOW
+NWS-2026-00980,31,Virudhunagar,2024-11-23 17:07:36,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Virudhunagar.,5,Opioid Analogues / Brown Sugar / Heroin,HIGH
+NWS-2026-00981,29,Sivaganga,2025-06-10 19:56:44,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00982,32,Theni,2025-08-05 22:53:12,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Theni.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00983,36,Ranipet,2026-03-18 09:23:25,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Ranipet.,3,Prescription Narcotics / Codeine / Alprazolam,LOW
+NWS-2026-00984,35,Mayiladuthurai,2025-04-14 16:36:34,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00985,15,Tenkasi,2026-05-18 21:48:40,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,4,Chemical Precursors / Ephedrine,LOW
+NWS-2026-00986,26,Ariyalur,2025-07-20 22:17:40,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Ariyalur.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00987,27,Perambalur,2024-11-23 04:42:32,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Perambalur.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-00988,17,Chengalpattu,2025-05-07 12:44:47,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00989,11,Dindigul,2025-03-10 00:10:16,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Dindigul.,3,Prescription Narcotics / Codeine / Alprazolam,HIGH
+NWS-2026-00990,15,Tenkasi,2026-05-10 16:05:50,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tenkasi.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00991,35,Mayiladuthurai,2024-09-24 20:28:20,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Mayiladuthurai.,4,Chemical Precursors / Ephedrine,MEDIUM
+NWS-2026-00992,14,Kanniyakumari,2026-04-19 02:11:21,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Kanniyakumari.,1,Commercial Ganja / Cannabis,MEDIUM
+NWS-2026-00993,37,Tirupathur,2026-03-31 19:02:02,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,2,Synthetic Stimulants / MDMA / Meth,MEDIUM
+NWS-2026-00994,8,Tiruppur,2026-06-23 04:50:59,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Tiruppur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00995,29,Sivaganga,2025-02-14 13:25:13,REGIONAL_PRESS_DAILY,Media bulletin report regarding enforcement and contraband intercept in Sivaganga.,5,Opioid Analogues / Brown Sugar / Heroin,MEDIUM
+NWS-2026-00996,2,Coimbatore,2024-12-31 04:56:16,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Coimbatore.,4,Chemical Precursors / Ephedrine,HIGH
+NWS-2026-00997,18,Tiruvallur,2024-11-08 15:36:37,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvallur.,6,Unclassified / Suspicious Substance,LOW
+NWS-2026-00998,17,Chengalpattu,2026-02-28 10:32:20,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Chengalpattu.,1,Commercial Ganja / Cannabis,HIGH
+NWS-2026-00999,38,Tiruvannamalai,2025-12-16 15:38:38,LOCAL_GAZETTE_FEED,Media bulletin report regarding enforcement and contraband intercept in Tiruvannamalai.,1,Commercial Ganja / Cannabis,LOW
+NWS-2026-01000,37,Tirupathur,2025-02-19 02:14:38,ONLINE_NEWS_PORTAL,Media bulletin report regarding enforcement and contraband intercept in Tirupathur.,3,Prescription Narcotics / Codeine / Alprazolam,MEDIUM

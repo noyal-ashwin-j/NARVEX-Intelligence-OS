@@ -1,0 +1,1051 @@
+seizure_id,district_id,district_name,locality_name,seizure_timestamp,category_id,category_name,seized_quantity,unit_of_measure,seizure_context
+SEZ-2026-00001,8,Tiruppur,Tiruppur Central Campus Zone,2025-03-20 15:14:26,4,Chemical Precursors / Ephedrine,11.84,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00002,26,Ariyalur,Ariyalur Central Industrial Bypass,2026-05-20 02:16:07,5,Opioid Analogues / Brown Sugar / Heroin,34.59,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00003,37,Tirupathur,Tirupathur West Campus Zone,2025-06-07 00:38:23,1,Commercial Ganja / Cannabis,14.51,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00004,13,Thoothukudi,Thoothukudi West Market,2025-07-23 19:36:24,1,Commercial Ganja / Cannabis,19.93,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00005,2,Coimbatore,Coimbatore West Industrial Bypass,2024-11-30 09:04:04,2,Synthetic Stimulants / MDMA / Meth,31.92,VIALS,WAREHOUSE_RAID
+SEZ-2026-00006,30,Ramanathapuram,Ramanathapuram North Campus Zone,2025-05-25 14:43:38,3,Prescription Narcotics / Codeine / Alprazolam,32.20,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00007,8,Tiruppur,Tiruppur South Industrial Bypass,2025-01-22 07:01:01,1,Commercial Ganja / Cannabis,37.69,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00008,30,Ramanathapuram,Ramanathapuram South Market,2025-06-22 22:17:35,3,Prescription Narcotics / Codeine / Alprazolam,30.83,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00009,20,Viluppuram,Viluppuram South Market,2025-09-26 03:40:57,1,Commercial Ganja / Cannabis,35.30,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00010,27,Perambalur,Perambalur Central Campus Zone,2025-04-29 05:37:18,3,Prescription Narcotics / Codeine / Alprazolam,16.51,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00011,25,Karur,Karur East Industrial Bypass,2025-06-11 14:20:51,4,Chemical Precursors / Ephedrine,20.47,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00012,5,Tiruchirappalli,Tiruchirappalli West Industrial Bypass,2026-06-25 09:34:28,6,Unclassified / Suspicious Substance,2.36,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00013,24,Nilgiris,Nilgiris North Market,2025-03-23 15:59:01,1,Commercial Ganja / Cannabis,8.39,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00014,24,Nilgiris,Nilgiris North Campus Zone,2024-11-13 09:32:44,6,Unclassified / Suspicious Substance,4.29,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00015,1,Chennai,Chennai West Market,2026-02-10 15:41:23,3,Prescription Narcotics / Codeine / Alprazolam,2.95,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00016,34,Nagapattinam,Nagapattinam South Market,2026-04-22 04:42:04,3,Prescription Narcotics / Codeine / Alprazolam,4.06,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00017,31,Virudhunagar,Virudhunagar West Industrial Bypass,2024-10-21 18:04:34,2,Synthetic Stimulants / MDMA / Meth,29.94,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00018,24,Nilgiris,Nilgiris East Campus Zone,2026-03-10 07:39:13,6,Unclassified / Suspicious Substance,1.65,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00019,7,Erode,Erode Central Market,2025-03-07 07:03:49,2,Synthetic Stimulants / MDMA / Meth,35.10,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00020,33,Thiruvarur,Thiruvarur South Market,2025-07-19 02:01:33,5,Opioid Analogues / Brown Sugar / Heroin,9.43,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00021,15,Tenkasi,Tenkasi South Industrial Bypass,2025-08-29 15:04:56,1,Commercial Ganja / Cannabis,12.12,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00022,6,Tirunelveli,Tirunelveli North Campus Zone,2025-12-10 23:55:08,4,Chemical Precursors / Ephedrine,39.02,LITRES,WAREHOUSE_RAID
+SEZ-2026-00023,1,Chennai,Chennai West Campus Zone,2025-11-16 00:18:45,4,Chemical Precursors / Ephedrine,17.27,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00024,1,Chennai,Chennai North Industrial Bypass,2025-01-21 10:27:00,6,Unclassified / Suspicious Substance,12.82,VIALS,WAREHOUSE_RAID
+SEZ-2026-00025,3,Madurai,Madurai West Industrial Bypass,2025-08-24 08:56:56,3,Prescription Narcotics / Codeine / Alprazolam,8.27,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00026,13,Thoothukudi,Thoothukudi South Campus Zone,2025-08-16 18:43:29,6,Unclassified / Suspicious Substance,21.40,KG,WAREHOUSE_RAID
+SEZ-2026-00027,22,Dharmapuri,Dharmapuri West Industrial Bypass,2026-08-08 05:17:56,4,Chemical Precursors / Ephedrine,6.56,LITRES,WAREHOUSE_RAID
+SEZ-2026-00028,10,Krishnagiri,Krishnagiri East Campus Zone,2025-09-17 00:53:17,3,Prescription Narcotics / Codeine / Alprazolam,28.42,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00029,17,Chengalpattu,Chengalpattu East Market,2026-07-18 08:28:00,1,Commercial Ganja / Cannabis,1.79,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00030,2,Coimbatore,Coimbatore North Industrial Bypass,2025-12-25 01:31:34,2,Synthetic Stimulants / MDMA / Meth,38.47,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00031,26,Ariyalur,Ariyalur Central Industrial Bypass,2024-12-27 05:50:11,1,Commercial Ganja / Cannabis,25.10,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00032,32,Theni,Theni South Market,2026-03-14 18:45:23,3,Prescription Narcotics / Codeine / Alprazolam,42.11,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00033,24,Nilgiris,Nilgiris Central Industrial Bypass,2026-04-20 10:48:43,1,Commercial Ganja / Cannabis,24.02,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00034,36,Ranipet,Ranipet West Market,2025-09-15 04:29:55,5,Opioid Analogues / Brown Sugar / Heroin,17.83,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00035,11,Dindigul,Dindigul East Campus Zone,2026-08-05 13:03:34,5,Opioid Analogues / Brown Sugar / Heroin,23.91,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00036,3,Madurai,Madurai South Industrial Bypass,2024-10-20 02:28:25,3,Prescription Narcotics / Codeine / Alprazolam,13.32,VIALS,WAREHOUSE_RAID
+SEZ-2026-00037,7,Erode,Erode West Industrial Bypass,2026-01-09 00:41:52,1,Commercial Ganja / Cannabis,28.56,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00038,9,Vellore,Vellore West Market,2025-01-21 01:15:47,6,Unclassified / Suspicious Substance,1.08,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00039,13,Thoothukudi,Thoothukudi West Industrial Bypass,2026-05-29 19:27:59,2,Synthetic Stimulants / MDMA / Meth,6.84,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00040,12,Thanjavur,Thanjavur West Industrial Bypass,2025-06-20 11:12:50,1,Commercial Ganja / Cannabis,40.87,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00041,4,Salem,Salem West Campus Zone,2025-07-08 00:04:16,4,Chemical Precursors / Ephedrine,0.59,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00042,32,Theni,Theni East Industrial Bypass,2025-07-04 11:23:37,3,Prescription Narcotics / Codeine / Alprazolam,35.28,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00043,4,Salem,Salem East Campus Zone,2025-09-16 09:45:09,1,Commercial Ganja / Cannabis,39.81,KG,WAREHOUSE_RAID
+SEZ-2026-00044,10,Krishnagiri,Krishnagiri Central Industrial Bypass,2024-11-15 15:00:35,3,Prescription Narcotics / Codeine / Alprazolam,36.36,LITRES,WAREHOUSE_RAID
+SEZ-2026-00045,7,Erode,Erode Central Industrial Bypass,2026-05-12 17:08:02,5,Opioid Analogues / Brown Sugar / Heroin,29.35,LITRES,WAREHOUSE_RAID
+SEZ-2026-00046,7,Erode,Erode West Market,2024-11-01 01:55:25,1,Commercial Ganja / Cannabis,17.56,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00047,23,Namakkal,Namakkal Central Industrial Bypass,2026-07-04 07:35:24,1,Commercial Ganja / Cannabis,24.14,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00048,18,Tiruvallur,Tiruvallur North Campus Zone,2026-01-27 20:17:02,1,Commercial Ganja / Cannabis,44.93,LITRES,WAREHOUSE_RAID
+SEZ-2026-00049,18,Tiruvallur,Tiruvallur South Campus Zone,2025-10-30 10:43:53,2,Synthetic Stimulants / MDMA / Meth,21.59,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00050,6,Tirunelveli,Tirunelveli South Industrial Bypass,2026-01-14 13:40:24,1,Commercial Ganja / Cannabis,34.11,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00051,19,Cuddalore,Cuddalore North Industrial Bypass,2025-01-01 23:00:43,1,Commercial Ganja / Cannabis,43.31,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00052,12,Thanjavur,Thanjavur Central Campus Zone,2024-09-21 15:32:07,6,Unclassified / Suspicious Substance,41.37,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00053,4,Salem,Salem Central Campus Zone,2026-01-09 05:56:56,1,Commercial Ganja / Cannabis,24.50,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00054,26,Ariyalur,Ariyalur West Market,2025-07-28 16:58:59,1,Commercial Ganja / Cannabis,7.70,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00055,26,Ariyalur,Ariyalur North Campus Zone,2026-01-29 13:54:35,1,Commercial Ganja / Cannabis,40.08,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00056,6,Tirunelveli,Tirunelveli North Campus Zone,2026-08-07 21:44:48,6,Unclassified / Suspicious Substance,30.91,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00057,7,Erode,Erode Central Campus Zone,2026-05-11 04:00:42,6,Unclassified / Suspicious Substance,39.97,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00058,34,Nagapattinam,Nagapattinam West Campus Zone,2026-03-11 04:40:03,6,Unclassified / Suspicious Substance,2.53,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00059,5,Tiruchirappalli,Tiruchirappalli Central Campus Zone,2025-07-21 05:46:28,2,Synthetic Stimulants / MDMA / Meth,45.33,LITRES,WAREHOUSE_RAID
+SEZ-2026-00060,17,Chengalpattu,Chengalpattu North Market,2025-08-15 23:57:58,2,Synthetic Stimulants / MDMA / Meth,39.01,VIALS,WAREHOUSE_RAID
+SEZ-2026-00061,16,Kancheepuram,Kancheepuram Central Campus Zone,2024-12-25 05:44:12,2,Synthetic Stimulants / MDMA / Meth,42.54,KG,WAREHOUSE_RAID
+SEZ-2026-00062,25,Karur,Karur East Market,2025-07-08 17:41:45,2,Synthetic Stimulants / MDMA / Meth,40.95,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00063,9,Vellore,Vellore South Market,2025-02-19 22:45:59,5,Opioid Analogues / Brown Sugar / Heroin,23.83,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00064,18,Tiruvallur,Tiruvallur North Market,2025-08-13 00:59:04,4,Chemical Precursors / Ephedrine,10.67,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00065,3,Madurai,Madurai South Market,2025-05-21 14:03:36,1,Commercial Ganja / Cannabis,43.49,LITRES,WAREHOUSE_RAID
+SEZ-2026-00066,20,Viluppuram,Viluppuram East Industrial Bypass,2025-01-08 14:26:29,2,Synthetic Stimulants / MDMA / Meth,10.20,LITRES,WAREHOUSE_RAID
+SEZ-2026-00067,21,Kallakurichi,Kallakurichi North Campus Zone,2026-07-31 21:40:55,2,Synthetic Stimulants / MDMA / Meth,40.09,KG,WAREHOUSE_RAID
+SEZ-2026-00068,31,Virudhunagar,Virudhunagar West Market,2025-06-18 17:06:54,2,Synthetic Stimulants / MDMA / Meth,41.26,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00069,27,Perambalur,Perambalur West Industrial Bypass,2026-02-12 12:54:58,2,Synthetic Stimulants / MDMA / Meth,38.82,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00070,15,Tenkasi,Tenkasi West Industrial Bypass,2025-11-06 06:59:04,5,Opioid Analogues / Brown Sugar / Heroin,22.40,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00071,28,Pudukkottai,Pudukkottai South Market,2025-02-22 13:52:49,4,Chemical Precursors / Ephedrine,30.32,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00072,30,Ramanathapuram,Ramanathapuram East Market,2025-08-17 02:57:29,2,Synthetic Stimulants / MDMA / Meth,9.16,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00073,30,Ramanathapuram,Ramanathapuram West Market,2025-01-06 16:26:08,1,Commercial Ganja / Cannabis,26.15,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00074,21,Kallakurichi,Kallakurichi South Campus Zone,2025-11-20 09:17:12,6,Unclassified / Suspicious Substance,3.63,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00075,36,Ranipet,Ranipet East Market,2025-05-08 16:53:02,6,Unclassified / Suspicious Substance,29.03,KG,WAREHOUSE_RAID
+SEZ-2026-00076,8,Tiruppur,Tiruppur North Market,2024-10-03 17:25:50,4,Chemical Precursors / Ephedrine,38.48,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00077,11,Dindigul,Dindigul North Industrial Bypass,2025-01-22 14:21:15,3,Prescription Narcotics / Codeine / Alprazolam,17.16,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00078,37,Tirupathur,Tirupathur Central Campus Zone,2026-05-10 16:40:04,3,Prescription Narcotics / Codeine / Alprazolam,16.41,LITRES,WAREHOUSE_RAID
+SEZ-2026-00079,27,Perambalur,Perambalur Central Campus Zone,2025-08-24 21:40:12,6,Unclassified / Suspicious Substance,45.09,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00080,10,Krishnagiri,Krishnagiri East Industrial Bypass,2024-11-30 18:07:37,2,Synthetic Stimulants / MDMA / Meth,41.16,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00081,35,Mayiladuthurai,Mayiladuthurai Central Industrial Bypass,2024-11-22 19:51:27,2,Synthetic Stimulants / MDMA / Meth,32.48,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00082,9,Vellore,Vellore Central Campus Zone,2026-05-04 13:04:21,4,Chemical Precursors / Ephedrine,13.01,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00083,25,Karur,Karur Central Campus Zone,2024-12-17 03:39:16,4,Chemical Precursors / Ephedrine,42.49,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00084,22,Dharmapuri,Dharmapuri North Campus Zone,2025-09-24 15:47:18,3,Prescription Narcotics / Codeine / Alprazolam,15.14,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00085,9,Vellore,Vellore East Industrial Bypass,2025-01-31 04:51:45,5,Opioid Analogues / Brown Sugar / Heroin,20.64,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00086,31,Virudhunagar,Virudhunagar Central Campus Zone,2025-02-21 16:12:37,3,Prescription Narcotics / Codeine / Alprazolam,10.52,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00087,4,Salem,Salem North Campus Zone,2024-10-09 14:17:05,2,Synthetic Stimulants / MDMA / Meth,5.37,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00088,35,Mayiladuthurai,Mayiladuthurai East Market,2025-09-28 22:18:48,1,Commercial Ganja / Cannabis,22.20,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00089,19,Cuddalore,Cuddalore North Industrial Bypass,2024-12-22 18:26:09,1,Commercial Ganja / Cannabis,36.21,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00090,5,Tiruchirappalli,Tiruchirappalli South Market,2025-07-06 07:59:10,2,Synthetic Stimulants / MDMA / Meth,5.11,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00091,17,Chengalpattu,Chengalpattu East Industrial Bypass,2025-01-27 21:46:58,4,Chemical Precursors / Ephedrine,14.71,KG,WAREHOUSE_RAID
+SEZ-2026-00092,10,Krishnagiri,Krishnagiri West Campus Zone,2025-01-12 04:00:53,1,Commercial Ganja / Cannabis,36.56,LITRES,WAREHOUSE_RAID
+SEZ-2026-00093,5,Tiruchirappalli,Tiruchirappalli West Campus Zone,2026-02-10 21:30:29,6,Unclassified / Suspicious Substance,16.92,VIALS,WAREHOUSE_RAID
+SEZ-2026-00094,10,Krishnagiri,Krishnagiri South Campus Zone,2025-12-14 12:31:53,1,Commercial Ganja / Cannabis,31.88,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00095,37,Tirupathur,Tirupathur East Market,2025-08-31 12:54:54,6,Unclassified / Suspicious Substance,10.01,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00096,36,Ranipet,Ranipet Central Industrial Bypass,2025-07-06 21:10:48,6,Unclassified / Suspicious Substance,13.96,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00097,13,Thoothukudi,Thoothukudi North Market,2025-05-15 15:04:28,6,Unclassified / Suspicious Substance,12.99,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00098,9,Vellore,Vellore West Industrial Bypass,2026-01-16 07:04:28,5,Opioid Analogues / Brown Sugar / Heroin,22.76,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00099,35,Mayiladuthurai,Mayiladuthurai South Market,2025-04-01 15:56:33,5,Opioid Analogues / Brown Sugar / Heroin,25.69,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00100,22,Dharmapuri,Dharmapuri Central Market,2026-02-18 22:14:17,3,Prescription Narcotics / Codeine / Alprazolam,38.40,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00101,19,Cuddalore,Cuddalore East Campus Zone,2026-05-17 19:17:30,3,Prescription Narcotics / Codeine / Alprazolam,23.15,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00102,33,Thiruvarur,Thiruvarur South Campus Zone,2026-05-12 07:11:57,5,Opioid Analogues / Brown Sugar / Heroin,44.47,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00103,29,Sivaganga,Sivaganga West Campus Zone,2025-12-17 22:53:07,5,Opioid Analogues / Brown Sugar / Heroin,35.38,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00104,24,Nilgiris,Nilgiris North Campus Zone,2025-03-03 20:03:38,3,Prescription Narcotics / Codeine / Alprazolam,34.38,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00105,23,Namakkal,Namakkal North Campus Zone,2026-07-31 01:22:52,1,Commercial Ganja / Cannabis,22.89,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00106,38,Tiruvannamalai,Tiruvannamalai West Market,2026-06-04 22:20:15,6,Unclassified / Suspicious Substance,29.38,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00107,11,Dindigul,Dindigul South Market,2026-05-30 01:14:41,1,Commercial Ganja / Cannabis,9.22,VIALS,WAREHOUSE_RAID
+SEZ-2026-00108,1,Chennai,Chennai South Campus Zone,2025-01-20 12:51:48,3,Prescription Narcotics / Codeine / Alprazolam,14.81,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00109,28,Pudukkottai,Pudukkottai North Campus Zone,2025-04-10 00:22:05,6,Unclassified / Suspicious Substance,45.24,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00110,8,Tiruppur,Tiruppur East Industrial Bypass,2024-11-03 20:04:19,1,Commercial Ganja / Cannabis,34.00,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00111,7,Erode,Erode East Campus Zone,2026-02-02 05:22:01,6,Unclassified / Suspicious Substance,32.64,LITRES,WAREHOUSE_RAID
+SEZ-2026-00112,36,Ranipet,Ranipet North Campus Zone,2025-12-20 14:27:09,3,Prescription Narcotics / Codeine / Alprazolam,23.52,KG,WAREHOUSE_RAID
+SEZ-2026-00113,15,Tenkasi,Tenkasi Central Industrial Bypass,2025-11-23 18:01:58,5,Opioid Analogues / Brown Sugar / Heroin,21.63,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00114,16,Kancheepuram,Kancheepuram North Campus Zone,2025-06-06 03:38:09,2,Synthetic Stimulants / MDMA / Meth,22.59,LITRES,WAREHOUSE_RAID
+SEZ-2026-00115,30,Ramanathapuram,Ramanathapuram North Market,2025-04-09 03:05:10,3,Prescription Narcotics / Codeine / Alprazolam,22.23,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00116,24,Nilgiris,Nilgiris South Industrial Bypass,2025-02-03 02:45:55,4,Chemical Precursors / Ephedrine,14.37,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00117,11,Dindigul,Dindigul North Campus Zone,2025-09-15 04:28:42,6,Unclassified / Suspicious Substance,34.84,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00118,33,Thiruvarur,Thiruvarur Central Industrial Bypass,2024-11-22 03:34:07,5,Opioid Analogues / Brown Sugar / Heroin,38.40,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00119,5,Tiruchirappalli,Tiruchirappalli West Campus Zone,2026-06-29 08:56:07,5,Opioid Analogues / Brown Sugar / Heroin,20.33,LITRES,WAREHOUSE_RAID
+SEZ-2026-00120,17,Chengalpattu,Chengalpattu West Market,2025-12-30 23:59:24,1,Commercial Ganja / Cannabis,23.57,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00121,16,Kancheepuram,Kancheepuram West Campus Zone,2025-01-31 01:31:24,4,Chemical Precursors / Ephedrine,29.51,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00122,10,Krishnagiri,Krishnagiri East Market,2025-06-26 00:59:43,6,Unclassified / Suspicious Substance,24.00,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00123,27,Perambalur,Perambalur South Market,2024-11-21 20:38:33,6,Unclassified / Suspicious Substance,1.29,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00124,18,Tiruvallur,Tiruvallur East Market,2026-01-08 11:58:16,4,Chemical Precursors / Ephedrine,5.58,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00125,33,Thiruvarur,Thiruvarur South Market,2025-05-12 21:53:07,6,Unclassified / Suspicious Substance,40.20,LITRES,WAREHOUSE_RAID
+SEZ-2026-00126,15,Tenkasi,Tenkasi West Industrial Bypass,2026-06-29 07:09:00,3,Prescription Narcotics / Codeine / Alprazolam,34.61,KG,WAREHOUSE_RAID
+SEZ-2026-00127,34,Nagapattinam,Nagapattinam North Market,2024-10-01 10:26:20,1,Commercial Ganja / Cannabis,22.44,VIALS,WAREHOUSE_RAID
+SEZ-2026-00128,34,Nagapattinam,Nagapattinam Central Industrial Bypass,2025-05-15 01:43:28,5,Opioid Analogues / Brown Sugar / Heroin,2.60,KG,WAREHOUSE_RAID
+SEZ-2026-00129,22,Dharmapuri,Dharmapuri Central Campus Zone,2024-12-20 23:25:51,2,Synthetic Stimulants / MDMA / Meth,27.36,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00130,14,Kanniyakumari,Kanniyakumari South Campus Zone,2026-01-14 10:04:01,6,Unclassified / Suspicious Substance,39.01,LITRES,WAREHOUSE_RAID
+SEZ-2026-00131,7,Erode,Erode Central Market,2025-12-30 22:19:21,1,Commercial Ganja / Cannabis,34.71,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00132,13,Thoothukudi,Thoothukudi Central Industrial Bypass,2025-12-24 07:56:29,1,Commercial Ganja / Cannabis,20.77,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00133,6,Tirunelveli,Tirunelveli East Industrial Bypass,2025-07-20 00:23:57,6,Unclassified / Suspicious Substance,5.49,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00134,13,Thoothukudi,Thoothukudi East Industrial Bypass,2025-02-20 09:53:09,3,Prescription Narcotics / Codeine / Alprazolam,9.02,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00135,21,Kallakurichi,Kallakurichi South Industrial Bypass,2025-11-14 00:27:51,3,Prescription Narcotics / Codeine / Alprazolam,8.75,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00136,38,Tiruvannamalai,Tiruvannamalai Central Industrial Bypass,2025-10-28 06:23:35,6,Unclassified / Suspicious Substance,12.82,LITRES,WAREHOUSE_RAID
+SEZ-2026-00137,36,Ranipet,Ranipet North Industrial Bypass,2024-12-27 09:57:04,3,Prescription Narcotics / Codeine / Alprazolam,38.30,VIALS,WAREHOUSE_RAID
+SEZ-2026-00138,30,Ramanathapuram,Ramanathapuram South Industrial Bypass,2026-05-11 08:30:48,6,Unclassified / Suspicious Substance,9.82,VIALS,WAREHOUSE_RAID
+SEZ-2026-00139,17,Chengalpattu,Chengalpattu Central Industrial Bypass,2025-01-25 07:11:51,6,Unclassified / Suspicious Substance,26.64,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00140,10,Krishnagiri,Krishnagiri Central Market,2025-11-09 08:32:13,4,Chemical Precursors / Ephedrine,32.47,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00141,27,Perambalur,Perambalur North Industrial Bypass,2024-11-28 07:59:28,1,Commercial Ganja / Cannabis,21.18,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00142,19,Cuddalore,Cuddalore North Campus Zone,2025-09-12 20:38:16,1,Commercial Ganja / Cannabis,14.90,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00143,13,Thoothukudi,Thoothukudi East Market,2024-11-27 19:49:24,2,Synthetic Stimulants / MDMA / Meth,25.55,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00144,27,Perambalur,Perambalur North Market,2025-11-25 16:43:17,5,Opioid Analogues / Brown Sugar / Heroin,30.83,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00145,16,Kancheepuram,Kancheepuram West Industrial Bypass,2026-03-18 22:21:38,4,Chemical Precursors / Ephedrine,3.78,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00146,8,Tiruppur,Tiruppur South Industrial Bypass,2024-11-16 02:02:38,2,Synthetic Stimulants / MDMA / Meth,6.22,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00147,8,Tiruppur,Tiruppur South Market,2024-10-05 00:23:37,4,Chemical Precursors / Ephedrine,6.26,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00148,12,Thanjavur,Thanjavur East Campus Zone,2026-08-12 08:04:33,1,Commercial Ganja / Cannabis,27.64,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00149,33,Thiruvarur,Thiruvarur West Campus Zone,2025-05-12 13:40:10,2,Synthetic Stimulants / MDMA / Meth,19.98,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00150,22,Dharmapuri,Dharmapuri West Market,2025-11-18 15:57:18,5,Opioid Analogues / Brown Sugar / Heroin,31.82,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00151,1,Chennai,Chennai East Market,2024-11-10 01:48:17,4,Chemical Precursors / Ephedrine,0.72,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00152,38,Tiruvannamalai,Tiruvannamalai South Industrial Bypass,2026-04-05 10:46:54,5,Opioid Analogues / Brown Sugar / Heroin,19.04,LITRES,WAREHOUSE_RAID
+SEZ-2026-00153,30,Ramanathapuram,Ramanathapuram North Campus Zone,2025-02-05 05:18:52,6,Unclassified / Suspicious Substance,24.43,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00154,15,Tenkasi,Tenkasi Central Market,2026-04-07 17:18:38,4,Chemical Precursors / Ephedrine,28.23,LITRES,WAREHOUSE_RAID
+SEZ-2026-00155,36,Ranipet,Ranipet West Campus Zone,2025-10-30 23:22:12,5,Opioid Analogues / Brown Sugar / Heroin,15.50,LITRES,WAREHOUSE_RAID
+SEZ-2026-00156,30,Ramanathapuram,Ramanathapuram West Campus Zone,2025-02-10 01:29:03,6,Unclassified / Suspicious Substance,0.73,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00157,35,Mayiladuthurai,Mayiladuthurai South Industrial Bypass,2025-06-07 05:30:18,5,Opioid Analogues / Brown Sugar / Heroin,20.28,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00158,4,Salem,Salem East Market,2024-11-13 21:37:11,1,Commercial Ganja / Cannabis,13.09,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00159,19,Cuddalore,Cuddalore North Campus Zone,2025-07-07 11:20:45,3,Prescription Narcotics / Codeine / Alprazolam,24.47,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00160,21,Kallakurichi,Kallakurichi South Industrial Bypass,2025-03-16 15:41:14,2,Synthetic Stimulants / MDMA / Meth,9.31,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00161,6,Tirunelveli,Tirunelveli North Industrial Bypass,2024-10-17 06:10:05,6,Unclassified / Suspicious Substance,25.39,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00162,22,Dharmapuri,Dharmapuri Central Campus Zone,2026-06-09 23:17:38,3,Prescription Narcotics / Codeine / Alprazolam,36.00,LITRES,WAREHOUSE_RAID
+SEZ-2026-00163,15,Tenkasi,Tenkasi North Industrial Bypass,2025-08-31 04:19:15,4,Chemical Precursors / Ephedrine,37.70,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00164,13,Thoothukudi,Thoothukudi East Industrial Bypass,2025-03-18 16:49:18,5,Opioid Analogues / Brown Sugar / Heroin,43.31,LITRES,WAREHOUSE_RAID
+SEZ-2026-00165,9,Vellore,Vellore East Industrial Bypass,2025-01-29 19:17:37,5,Opioid Analogues / Brown Sugar / Heroin,20.28,VIALS,WAREHOUSE_RAID
+SEZ-2026-00166,14,Kanniyakumari,Kanniyakumari South Campus Zone,2025-03-06 19:08:46,2,Synthetic Stimulants / MDMA / Meth,24.56,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00167,17,Chengalpattu,Chengalpattu East Industrial Bypass,2025-03-08 16:56:19,5,Opioid Analogues / Brown Sugar / Heroin,26.87,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00168,32,Theni,Theni North Market,2026-06-15 18:50:17,4,Chemical Precursors / Ephedrine,40.86,KG,WAREHOUSE_RAID
+SEZ-2026-00169,12,Thanjavur,Thanjavur East Industrial Bypass,2024-12-15 11:19:10,6,Unclassified / Suspicious Substance,11.15,KG,WAREHOUSE_RAID
+SEZ-2026-00170,36,Ranipet,Ranipet Central Industrial Bypass,2026-02-06 12:15:35,4,Chemical Precursors / Ephedrine,29.00,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00171,19,Cuddalore,Cuddalore East Campus Zone,2025-12-21 01:39:48,6,Unclassified / Suspicious Substance,18.13,VIALS,WAREHOUSE_RAID
+SEZ-2026-00172,35,Mayiladuthurai,Mayiladuthurai North Market,2025-10-28 03:56:49,4,Chemical Precursors / Ephedrine,5.83,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00173,6,Tirunelveli,Tirunelveli South Market,2025-04-01 20:18:04,4,Chemical Precursors / Ephedrine,14.73,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00174,38,Tiruvannamalai,Tiruvannamalai West Market,2026-02-03 09:40:10,3,Prescription Narcotics / Codeine / Alprazolam,39.12,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00175,31,Virudhunagar,Virudhunagar North Campus Zone,2026-06-13 19:03:14,6,Unclassified / Suspicious Substance,13.61,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00176,23,Namakkal,Namakkal Central Industrial Bypass,2026-05-19 04:27:55,5,Opioid Analogues / Brown Sugar / Heroin,15.61,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00177,9,Vellore,Vellore South Industrial Bypass,2026-07-12 03:06:26,2,Synthetic Stimulants / MDMA / Meth,10.80,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00178,8,Tiruppur,Tiruppur South Campus Zone,2026-03-21 04:48:08,3,Prescription Narcotics / Codeine / Alprazolam,25.22,LITRES,WAREHOUSE_RAID
+SEZ-2026-00179,12,Thanjavur,Thanjavur West Industrial Bypass,2025-04-21 00:17:59,4,Chemical Precursors / Ephedrine,38.70,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00180,35,Mayiladuthurai,Mayiladuthurai West Campus Zone,2026-01-17 02:57:22,6,Unclassified / Suspicious Substance,21.73,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00181,15,Tenkasi,Tenkasi West Industrial Bypass,2026-02-18 15:00:06,1,Commercial Ganja / Cannabis,28.73,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00182,17,Chengalpattu,Chengalpattu East Industrial Bypass,2025-08-28 01:46:02,1,Commercial Ganja / Cannabis,9.01,LITRES,WAREHOUSE_RAID
+SEZ-2026-00183,24,Nilgiris,Nilgiris North Campus Zone,2025-01-08 02:47:24,6,Unclassified / Suspicious Substance,7.87,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00184,23,Namakkal,Namakkal East Market,2026-07-09 22:35:47,1,Commercial Ganja / Cannabis,43.56,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00185,20,Viluppuram,Viluppuram South Campus Zone,2025-02-23 23:37:14,1,Commercial Ganja / Cannabis,38.13,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00186,34,Nagapattinam,Nagapattinam South Industrial Bypass,2025-06-30 17:34:35,2,Synthetic Stimulants / MDMA / Meth,27.29,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00187,27,Perambalur,Perambalur Central Campus Zone,2025-10-26 11:09:30,2,Synthetic Stimulants / MDMA / Meth,28.50,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00188,3,Madurai,Madurai South Industrial Bypass,2024-11-07 18:24:10,1,Commercial Ganja / Cannabis,36.80,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00189,24,Nilgiris,Nilgiris North Market,2025-03-15 13:44:42,6,Unclassified / Suspicious Substance,30.53,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00190,34,Nagapattinam,Nagapattinam West Market,2025-07-10 10:38:24,3,Prescription Narcotics / Codeine / Alprazolam,15.54,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00191,16,Kancheepuram,Kancheepuram North Market,2025-07-10 23:54:31,6,Unclassified / Suspicious Substance,6.31,KG,WAREHOUSE_RAID
+SEZ-2026-00192,4,Salem,Salem West Industrial Bypass,2025-01-26 05:15:46,3,Prescription Narcotics / Codeine / Alprazolam,8.23,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00193,27,Perambalur,Perambalur Central Industrial Bypass,2025-02-01 15:35:24,5,Opioid Analogues / Brown Sugar / Heroin,18.76,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00194,16,Kancheepuram,Kancheepuram North Industrial Bypass,2025-12-12 08:28:16,5,Opioid Analogues / Brown Sugar / Heroin,20.29,LITRES,WAREHOUSE_RAID
+SEZ-2026-00195,34,Nagapattinam,Nagapattinam North Campus Zone,2026-06-30 14:22:17,6,Unclassified / Suspicious Substance,44.69,VIALS,WAREHOUSE_RAID
+SEZ-2026-00196,33,Thiruvarur,Thiruvarur Central Market,2025-06-05 08:03:05,1,Commercial Ganja / Cannabis,10.46,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00197,37,Tirupathur,Tirupathur South Campus Zone,2025-05-02 16:13:21,6,Unclassified / Suspicious Substance,25.32,KG,WAREHOUSE_RAID
+SEZ-2026-00198,29,Sivaganga,Sivaganga East Market,2024-12-14 07:57:42,1,Commercial Ganja / Cannabis,21.20,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00199,27,Perambalur,Perambalur West Market,2025-06-27 01:53:56,1,Commercial Ganja / Cannabis,2.89,VIALS,WAREHOUSE_RAID
+SEZ-2026-00200,7,Erode,Erode West Industrial Bypass,2024-12-21 18:30:16,6,Unclassified / Suspicious Substance,29.68,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00201,26,Ariyalur,Ariyalur North Market,2025-07-28 00:00:42,3,Prescription Narcotics / Codeine / Alprazolam,39.03,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00202,12,Thanjavur,Thanjavur West Campus Zone,2026-06-30 05:04:30,5,Opioid Analogues / Brown Sugar / Heroin,38.43,VIALS,WAREHOUSE_RAID
+SEZ-2026-00203,5,Tiruchirappalli,Tiruchirappalli North Market,2025-10-05 08:42:48,6,Unclassified / Suspicious Substance,16.26,LITRES,WAREHOUSE_RAID
+SEZ-2026-00204,16,Kancheepuram,Kancheepuram Central Industrial Bypass,2026-04-08 21:25:45,4,Chemical Precursors / Ephedrine,35.86,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00205,32,Theni,Theni Central Industrial Bypass,2026-06-12 16:25:01,2,Synthetic Stimulants / MDMA / Meth,37.44,LITRES,WAREHOUSE_RAID
+SEZ-2026-00206,16,Kancheepuram,Kancheepuram East Industrial Bypass,2025-08-25 11:14:20,3,Prescription Narcotics / Codeine / Alprazolam,32.97,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00207,35,Mayiladuthurai,Mayiladuthurai West Campus Zone,2026-07-16 06:46:53,5,Opioid Analogues / Brown Sugar / Heroin,22.38,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00208,4,Salem,Salem Central Industrial Bypass,2025-02-08 02:32:46,5,Opioid Analogues / Brown Sugar / Heroin,11.98,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00209,37,Tirupathur,Tirupathur West Industrial Bypass,2026-08-05 00:59:13,3,Prescription Narcotics / Codeine / Alprazolam,6.85,KG,WAREHOUSE_RAID
+SEZ-2026-00210,20,Viluppuram,Viluppuram East Industrial Bypass,2025-04-26 20:07:21,6,Unclassified / Suspicious Substance,19.30,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00211,20,Viluppuram,Viluppuram West Market,2025-01-14 02:19:30,5,Opioid Analogues / Brown Sugar / Heroin,21.86,VIALS,WAREHOUSE_RAID
+SEZ-2026-00212,13,Thoothukudi,Thoothukudi West Industrial Bypass,2026-02-11 04:25:39,6,Unclassified / Suspicious Substance,24.95,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00213,4,Salem,Salem North Industrial Bypass,2024-11-15 13:15:29,2,Synthetic Stimulants / MDMA / Meth,24.04,VIALS,WAREHOUSE_RAID
+SEZ-2026-00214,19,Cuddalore,Cuddalore North Campus Zone,2024-11-23 03:30:21,4,Chemical Precursors / Ephedrine,11.21,VIALS,WAREHOUSE_RAID
+SEZ-2026-00215,2,Coimbatore,Coimbatore Central Market,2024-10-30 07:30:09,6,Unclassified / Suspicious Substance,36.43,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00216,34,Nagapattinam,Nagapattinam Central Market,2025-05-12 09:48:49,1,Commercial Ganja / Cannabis,36.01,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00217,38,Tiruvannamalai,Tiruvannamalai Central Industrial Bypass,2025-03-27 19:18:58,1,Commercial Ganja / Cannabis,32.11,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00218,7,Erode,Erode West Industrial Bypass,2025-04-10 18:53:31,1,Commercial Ganja / Cannabis,26.99,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00219,2,Coimbatore,Coimbatore Central Industrial Bypass,2026-02-02 05:40:34,3,Prescription Narcotics / Codeine / Alprazolam,9.83,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00220,16,Kancheepuram,Kancheepuram East Campus Zone,2025-03-19 06:37:37,6,Unclassified / Suspicious Substance,8.40,KG,WAREHOUSE_RAID
+SEZ-2026-00221,1,Chennai,Chennai North Industrial Bypass,2026-05-05 01:46:48,3,Prescription Narcotics / Codeine / Alprazolam,38.23,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00222,31,Virudhunagar,Virudhunagar South Campus Zone,2026-01-17 02:35:12,2,Synthetic Stimulants / MDMA / Meth,34.58,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00223,20,Viluppuram,Viluppuram South Industrial Bypass,2025-05-27 08:05:07,3,Prescription Narcotics / Codeine / Alprazolam,21.03,KG,WAREHOUSE_RAID
+SEZ-2026-00224,2,Coimbatore,Coimbatore South Campus Zone,2025-06-09 10:16:49,3,Prescription Narcotics / Codeine / Alprazolam,19.45,KG,WAREHOUSE_RAID
+SEZ-2026-00225,16,Kancheepuram,Kancheepuram Central Market,2026-01-28 17:30:05,5,Opioid Analogues / Brown Sugar / Heroin,44.28,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00226,27,Perambalur,Perambalur East Market,2024-09-23 17:37:11,5,Opioid Analogues / Brown Sugar / Heroin,40.08,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00227,33,Thiruvarur,Thiruvarur East Market,2024-10-27 22:23:17,5,Opioid Analogues / Brown Sugar / Heroin,2.97,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00228,5,Tiruchirappalli,Tiruchirappalli Central Industrial Bypass,2024-11-21 20:37:29,5,Opioid Analogues / Brown Sugar / Heroin,24.39,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00229,4,Salem,Salem North Market,2025-11-28 11:31:19,3,Prescription Narcotics / Codeine / Alprazolam,9.29,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00230,22,Dharmapuri,Dharmapuri East Campus Zone,2024-11-25 10:50:37,1,Commercial Ganja / Cannabis,6.86,LITRES,WAREHOUSE_RAID
+SEZ-2026-00231,30,Ramanathapuram,Ramanathapuram Central Industrial Bypass,2026-03-13 07:08:33,5,Opioid Analogues / Brown Sugar / Heroin,11.87,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00232,24,Nilgiris,Nilgiris West Campus Zone,2026-04-24 15:36:44,6,Unclassified / Suspicious Substance,28.09,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00233,9,Vellore,Vellore South Industrial Bypass,2025-02-04 09:16:00,2,Synthetic Stimulants / MDMA / Meth,32.91,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00234,33,Thiruvarur,Thiruvarur Central Industrial Bypass,2026-07-31 15:03:31,3,Prescription Narcotics / Codeine / Alprazolam,10.89,LITRES,WAREHOUSE_RAID
+SEZ-2026-00235,30,Ramanathapuram,Ramanathapuram South Campus Zone,2025-12-24 12:02:15,5,Opioid Analogues / Brown Sugar / Heroin,9.71,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00236,10,Krishnagiri,Krishnagiri Central Campus Zone,2025-10-29 02:07:07,2,Synthetic Stimulants / MDMA / Meth,44.46,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00237,24,Nilgiris,Nilgiris Central Industrial Bypass,2025-09-07 03:11:42,4,Chemical Precursors / Ephedrine,17.25,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00238,34,Nagapattinam,Nagapattinam South Campus Zone,2026-02-21 00:21:45,5,Opioid Analogues / Brown Sugar / Heroin,42.71,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00239,12,Thanjavur,Thanjavur East Market,2024-11-13 11:11:00,5,Opioid Analogues / Brown Sugar / Heroin,40.23,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00240,12,Thanjavur,Thanjavur East Market,2026-07-21 08:39:19,3,Prescription Narcotics / Codeine / Alprazolam,16.16,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00241,10,Krishnagiri,Krishnagiri Central Market,2025-09-03 08:38:56,4,Chemical Precursors / Ephedrine,6.12,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00242,6,Tirunelveli,Tirunelveli North Market,2024-11-19 14:38:25,2,Synthetic Stimulants / MDMA / Meth,29.35,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00243,35,Mayiladuthurai,Mayiladuthurai East Industrial Bypass,2026-07-12 12:55:48,3,Prescription Narcotics / Codeine / Alprazolam,10.09,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00244,3,Madurai,Madurai West Market,2024-11-30 17:05:30,2,Synthetic Stimulants / MDMA / Meth,1.29,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00245,28,Pudukkottai,Pudukkottai West Market,2025-02-14 14:44:44,5,Opioid Analogues / Brown Sugar / Heroin,13.09,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00246,7,Erode,Erode Central Industrial Bypass,2026-07-08 21:48:09,4,Chemical Precursors / Ephedrine,3.50,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00247,26,Ariyalur,Ariyalur East Market,2025-06-16 08:02:47,3,Prescription Narcotics / Codeine / Alprazolam,38.82,KG,WAREHOUSE_RAID
+SEZ-2026-00248,20,Viluppuram,Viluppuram West Market,2026-04-30 20:33:25,5,Opioid Analogues / Brown Sugar / Heroin,30.55,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00249,5,Tiruchirappalli,Tiruchirappalli East Industrial Bypass,2026-02-13 21:00:36,6,Unclassified / Suspicious Substance,24.75,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00250,8,Tiruppur,Tiruppur West Market,2025-01-18 19:41:03,6,Unclassified / Suspicious Substance,41.67,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00251,32,Theni,Theni West Campus Zone,2025-10-14 17:36:19,4,Chemical Precursors / Ephedrine,10.15,LITRES,WAREHOUSE_RAID
+SEZ-2026-00252,8,Tiruppur,Tiruppur East Market,2025-11-12 02:42:25,3,Prescription Narcotics / Codeine / Alprazolam,32.63,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00253,33,Thiruvarur,Thiruvarur South Campus Zone,2025-10-06 05:09:08,1,Commercial Ganja / Cannabis,16.04,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00254,26,Ariyalur,Ariyalur West Industrial Bypass,2025-01-08 06:02:55,1,Commercial Ganja / Cannabis,15.55,LITRES,WAREHOUSE_RAID
+SEZ-2026-00255,4,Salem,Salem South Campus Zone,2026-03-29 03:07:49,6,Unclassified / Suspicious Substance,44.00,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00256,8,Tiruppur,Tiruppur North Industrial Bypass,2024-10-07 03:40:15,4,Chemical Precursors / Ephedrine,21.00,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00257,25,Karur,Karur South Industrial Bypass,2024-10-03 19:24:24,1,Commercial Ganja / Cannabis,7.05,LITRES,WAREHOUSE_RAID
+SEZ-2026-00258,35,Mayiladuthurai,Mayiladuthurai North Market,2026-02-13 18:01:10,2,Synthetic Stimulants / MDMA / Meth,11.92,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00259,37,Tirupathur,Tirupathur West Industrial Bypass,2025-05-06 06:26:14,6,Unclassified / Suspicious Substance,32.67,KG,WAREHOUSE_RAID
+SEZ-2026-00260,26,Ariyalur,Ariyalur West Industrial Bypass,2024-09-21 19:25:46,4,Chemical Precursors / Ephedrine,33.77,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00261,4,Salem,Salem West Market,2024-12-24 19:51:55,3,Prescription Narcotics / Codeine / Alprazolam,7.58,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00262,6,Tirunelveli,Tirunelveli South Campus Zone,2025-01-30 05:18:14,4,Chemical Precursors / Ephedrine,20.72,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00263,35,Mayiladuthurai,Mayiladuthurai South Industrial Bypass,2025-06-21 21:45:09,5,Opioid Analogues / Brown Sugar / Heroin,36.08,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00264,15,Tenkasi,Tenkasi South Campus Zone,2025-10-31 12:14:19,5,Opioid Analogues / Brown Sugar / Heroin,6.54,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00265,14,Kanniyakumari,Kanniyakumari West Market,2025-08-18 13:35:30,5,Opioid Analogues / Brown Sugar / Heroin,24.66,KG,WAREHOUSE_RAID
+SEZ-2026-00266,7,Erode,Erode South Industrial Bypass,2024-11-26 22:54:02,1,Commercial Ganja / Cannabis,5.21,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00267,9,Vellore,Vellore Central Market,2024-09-21 10:42:05,3,Prescription Narcotics / Codeine / Alprazolam,36.53,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00268,1,Chennai,Chennai South Market,2026-02-07 23:50:59,4,Chemical Precursors / Ephedrine,18.35,VIALS,WAREHOUSE_RAID
+SEZ-2026-00269,38,Tiruvannamalai,Tiruvannamalai Central Campus Zone,2025-07-01 19:21:09,3,Prescription Narcotics / Codeine / Alprazolam,38.65,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00270,21,Kallakurichi,Kallakurichi South Industrial Bypass,2026-06-19 10:57:22,3,Prescription Narcotics / Codeine / Alprazolam,39.48,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00271,11,Dindigul,Dindigul West Campus Zone,2026-06-18 14:42:38,5,Opioid Analogues / Brown Sugar / Heroin,8.12,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00272,3,Madurai,Madurai South Industrial Bypass,2026-02-15 20:40:48,3,Prescription Narcotics / Codeine / Alprazolam,14.81,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00273,38,Tiruvannamalai,Tiruvannamalai West Industrial Bypass,2026-05-17 23:01:45,1,Commercial Ganja / Cannabis,4.90,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00274,23,Namakkal,Namakkal West Campus Zone,2026-02-06 14:52:20,5,Opioid Analogues / Brown Sugar / Heroin,24.58,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00275,17,Chengalpattu,Chengalpattu East Industrial Bypass,2026-01-31 18:49:38,4,Chemical Precursors / Ephedrine,35.99,VIALS,WAREHOUSE_RAID
+SEZ-2026-00276,22,Dharmapuri,Dharmapuri South Campus Zone,2025-01-01 16:52:47,4,Chemical Precursors / Ephedrine,21.18,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00277,28,Pudukkottai,Pudukkottai East Market,2026-05-08 08:04:55,3,Prescription Narcotics / Codeine / Alprazolam,14.11,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00278,30,Ramanathapuram,Ramanathapuram East Campus Zone,2026-04-27 05:10:06,3,Prescription Narcotics / Codeine / Alprazolam,19.29,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00279,37,Tirupathur,Tirupathur South Market,2025-02-26 16:43:43,4,Chemical Precursors / Ephedrine,5.50,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00280,27,Perambalur,Perambalur South Industrial Bypass,2026-07-22 17:52:06,6,Unclassified / Suspicious Substance,4.19,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00281,14,Kanniyakumari,Kanniyakumari North Market,2024-11-18 18:46:17,2,Synthetic Stimulants / MDMA / Meth,13.50,KG,WAREHOUSE_RAID
+SEZ-2026-00282,3,Madurai,Madurai West Campus Zone,2025-06-30 03:56:13,1,Commercial Ganja / Cannabis,32.42,LITRES,WAREHOUSE_RAID
+SEZ-2026-00283,2,Coimbatore,Coimbatore East Market,2026-06-10 00:08:22,4,Chemical Precursors / Ephedrine,6.59,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00284,8,Tiruppur,Tiruppur Central Campus Zone,2026-08-18 12:55:47,6,Unclassified / Suspicious Substance,19.65,LITRES,WAREHOUSE_RAID
+SEZ-2026-00285,30,Ramanathapuram,Ramanathapuram West Campus Zone,2025-05-30 23:38:03,6,Unclassified / Suspicious Substance,31.35,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00286,14,Kanniyakumari,Kanniyakumari West Industrial Bypass,2024-12-17 01:25:00,1,Commercial Ganja / Cannabis,24.44,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00287,13,Thoothukudi,Thoothukudi South Market,2026-02-09 19:44:21,3,Prescription Narcotics / Codeine / Alprazolam,14.36,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00288,16,Kancheepuram,Kancheepuram West Industrial Bypass,2024-11-08 14:02:50,4,Chemical Precursors / Ephedrine,42.42,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00289,33,Thiruvarur,Thiruvarur Central Market,2026-02-16 07:13:00,6,Unclassified / Suspicious Substance,22.89,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00290,14,Kanniyakumari,Kanniyakumari South Industrial Bypass,2026-05-27 10:06:00,6,Unclassified / Suspicious Substance,20.44,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00291,10,Krishnagiri,Krishnagiri East Market,2025-10-04 05:21:33,5,Opioid Analogues / Brown Sugar / Heroin,6.47,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00292,26,Ariyalur,Ariyalur South Market,2025-07-11 08:54:18,3,Prescription Narcotics / Codeine / Alprazolam,4.07,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00293,2,Coimbatore,Coimbatore West Industrial Bypass,2026-06-08 04:07:22,3,Prescription Narcotics / Codeine / Alprazolam,43.44,LITRES,WAREHOUSE_RAID
+SEZ-2026-00294,28,Pudukkottai,Pudukkottai South Market,2025-04-16 08:14:31,4,Chemical Precursors / Ephedrine,18.29,KG,WAREHOUSE_RAID
+SEZ-2026-00295,31,Virudhunagar,Virudhunagar East Campus Zone,2026-06-04 22:19:04,2,Synthetic Stimulants / MDMA / Meth,7.42,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00296,38,Tiruvannamalai,Tiruvannamalai East Market,2024-09-22 15:22:23,3,Prescription Narcotics / Codeine / Alprazolam,41.05,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00297,35,Mayiladuthurai,Mayiladuthurai North Industrial Bypass,2026-03-17 22:53:10,2,Synthetic Stimulants / MDMA / Meth,33.90,KG,WAREHOUSE_RAID
+SEZ-2026-00298,21,Kallakurichi,Kallakurichi Central Industrial Bypass,2026-01-15 07:19:49,5,Opioid Analogues / Brown Sugar / Heroin,14.99,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00299,6,Tirunelveli,Tirunelveli North Market,2026-02-01 02:25:58,3,Prescription Narcotics / Codeine / Alprazolam,26.09,VIALS,WAREHOUSE_RAID
+SEZ-2026-00300,1,Chennai,Chennai North Industrial Bypass,2026-03-11 23:00:40,5,Opioid Analogues / Brown Sugar / Heroin,45.21,VIALS,WAREHOUSE_RAID
+SEZ-2026-00301,12,Thanjavur,Thanjavur North Industrial Bypass,2025-02-16 23:42:18,4,Chemical Precursors / Ephedrine,9.58,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00302,18,Tiruvallur,Tiruvallur West Industrial Bypass,2025-07-22 06:44:16,4,Chemical Precursors / Ephedrine,42.33,KG,WAREHOUSE_RAID
+SEZ-2026-00303,13,Thoothukudi,Thoothukudi Central Industrial Bypass,2026-02-25 14:06:00,2,Synthetic Stimulants / MDMA / Meth,13.73,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00304,10,Krishnagiri,Krishnagiri East Market,2025-01-19 19:00:19,4,Chemical Precursors / Ephedrine,14.08,KG,WAREHOUSE_RAID
+SEZ-2026-00305,37,Tirupathur,Tirupathur West Industrial Bypass,2024-10-18 13:11:18,4,Chemical Precursors / Ephedrine,19.79,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00306,31,Virudhunagar,Virudhunagar East Industrial Bypass,2026-01-19 02:59:26,3,Prescription Narcotics / Codeine / Alprazolam,33.21,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00307,9,Vellore,Vellore West Industrial Bypass,2025-05-15 05:21:26,6,Unclassified / Suspicious Substance,37.40,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00308,13,Thoothukudi,Thoothukudi North Industrial Bypass,2025-03-06 20:53:00,5,Opioid Analogues / Brown Sugar / Heroin,11.25,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00309,38,Tiruvannamalai,Tiruvannamalai South Market,2025-09-13 08:07:49,1,Commercial Ganja / Cannabis,32.54,LITRES,WAREHOUSE_RAID
+SEZ-2026-00310,16,Kancheepuram,Kancheepuram South Market,2024-09-26 11:43:53,2,Synthetic Stimulants / MDMA / Meth,31.45,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00311,33,Thiruvarur,Thiruvarur Central Campus Zone,2026-06-28 21:21:29,4,Chemical Precursors / Ephedrine,26.49,KG,WAREHOUSE_RAID
+SEZ-2026-00312,33,Thiruvarur,Thiruvarur West Market,2024-12-28 04:34:45,5,Opioid Analogues / Brown Sugar / Heroin,9.95,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00313,35,Mayiladuthurai,Mayiladuthurai East Market,2025-03-05 18:53:00,4,Chemical Precursors / Ephedrine,6.44,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00314,10,Krishnagiri,Krishnagiri South Campus Zone,2025-08-28 05:52:40,6,Unclassified / Suspicious Substance,4.04,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00315,25,Karur,Karur East Market,2026-06-04 05:22:31,3,Prescription Narcotics / Codeine / Alprazolam,2.49,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00316,28,Pudukkottai,Pudukkottai South Market,2025-08-13 07:58:53,4,Chemical Precursors / Ephedrine,14.36,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00317,16,Kancheepuram,Kancheepuram South Market,2025-03-10 20:28:17,2,Synthetic Stimulants / MDMA / Meth,29.28,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00318,9,Vellore,Vellore South Campus Zone,2024-11-15 15:58:28,3,Prescription Narcotics / Codeine / Alprazolam,2.31,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00319,29,Sivaganga,Sivaganga East Market,2026-01-07 23:25:24,6,Unclassified / Suspicious Substance,25.15,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00320,9,Vellore,Vellore West Market,2026-08-14 17:10:17,2,Synthetic Stimulants / MDMA / Meth,44.38,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00321,24,Nilgiris,Nilgiris East Campus Zone,2026-04-02 09:22:37,1,Commercial Ganja / Cannabis,18.36,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00322,25,Karur,Karur West Market,2026-06-29 16:56:48,6,Unclassified / Suspicious Substance,27.79,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00323,25,Karur,Karur North Market,2024-10-01 13:40:49,1,Commercial Ganja / Cannabis,39.96,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00324,38,Tiruvannamalai,Tiruvannamalai North Market,2026-06-01 22:32:27,6,Unclassified / Suspicious Substance,39.41,KG,WAREHOUSE_RAID
+SEZ-2026-00325,38,Tiruvannamalai,Tiruvannamalai East Industrial Bypass,2025-09-16 05:46:42,4,Chemical Precursors / Ephedrine,37.48,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00326,1,Chennai,Chennai South Campus Zone,2026-07-31 21:59:22,2,Synthetic Stimulants / MDMA / Meth,23.93,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00327,13,Thoothukudi,Thoothukudi South Industrial Bypass,2026-03-01 18:58:22,6,Unclassified / Suspicious Substance,37.18,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00328,32,Theni,Theni South Campus Zone,2025-10-18 03:39:27,4,Chemical Precursors / Ephedrine,13.74,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00329,24,Nilgiris,Nilgiris East Campus Zone,2025-09-14 22:01:04,6,Unclassified / Suspicious Substance,14.69,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00330,36,Ranipet,Ranipet South Campus Zone,2026-08-18 04:02:00,2,Synthetic Stimulants / MDMA / Meth,35.03,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00331,28,Pudukkottai,Pudukkottai East Campus Zone,2026-04-11 10:59:52,5,Opioid Analogues / Brown Sugar / Heroin,4.47,LITRES,WAREHOUSE_RAID
+SEZ-2026-00332,2,Coimbatore,Coimbatore South Market,2026-08-17 03:05:03,5,Opioid Analogues / Brown Sugar / Heroin,16.17,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00333,22,Dharmapuri,Dharmapuri South Campus Zone,2025-09-30 06:32:22,4,Chemical Precursors / Ephedrine,12.44,VIALS,WAREHOUSE_RAID
+SEZ-2026-00334,8,Tiruppur,Tiruppur North Market,2025-01-14 15:42:49,2,Synthetic Stimulants / MDMA / Meth,35.95,VIALS,WAREHOUSE_RAID
+SEZ-2026-00335,11,Dindigul,Dindigul East Campus Zone,2025-12-16 08:27:06,4,Chemical Precursors / Ephedrine,13.97,LITRES,WAREHOUSE_RAID
+SEZ-2026-00336,19,Cuddalore,Cuddalore Central Market,2026-08-10 18:31:01,6,Unclassified / Suspicious Substance,42.58,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00337,2,Coimbatore,Coimbatore Central Market,2026-03-08 05:12:14,4,Chemical Precursors / Ephedrine,36.55,VIALS,WAREHOUSE_RAID
+SEZ-2026-00338,19,Cuddalore,Cuddalore North Campus Zone,2025-05-27 07:42:24,2,Synthetic Stimulants / MDMA / Meth,10.84,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00339,30,Ramanathapuram,Ramanathapuram East Market,2026-03-14 04:57:45,6,Unclassified / Suspicious Substance,1.59,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00340,21,Kallakurichi,Kallakurichi South Industrial Bypass,2025-02-12 07:27:32,2,Synthetic Stimulants / MDMA / Meth,33.11,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00341,34,Nagapattinam,Nagapattinam South Market,2025-01-14 04:41:16,1,Commercial Ganja / Cannabis,43.96,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00342,29,Sivaganga,Sivaganga North Market,2024-09-21 20:37:11,1,Commercial Ganja / Cannabis,1.15,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00343,28,Pudukkottai,Pudukkottai South Industrial Bypass,2025-01-10 10:11:50,2,Synthetic Stimulants / MDMA / Meth,33.93,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00344,6,Tirunelveli,Tirunelveli West Campus Zone,2025-02-11 02:29:49,6,Unclassified / Suspicious Substance,16.02,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00345,15,Tenkasi,Tenkasi East Industrial Bypass,2026-01-17 03:35:00,5,Opioid Analogues / Brown Sugar / Heroin,25.68,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00346,30,Ramanathapuram,Ramanathapuram North Industrial Bypass,2025-05-22 01:52:44,5,Opioid Analogues / Brown Sugar / Heroin,15.07,KG,WAREHOUSE_RAID
+SEZ-2026-00347,28,Pudukkottai,Pudukkottai West Industrial Bypass,2026-06-10 13:49:15,3,Prescription Narcotics / Codeine / Alprazolam,6.03,KG,WAREHOUSE_RAID
+SEZ-2026-00348,19,Cuddalore,Cuddalore East Industrial Bypass,2025-10-04 08:38:47,6,Unclassified / Suspicious Substance,30.02,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00349,21,Kallakurichi,Kallakurichi North Industrial Bypass,2024-10-04 18:11:03,3,Prescription Narcotics / Codeine / Alprazolam,28.11,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00350,29,Sivaganga,Sivaganga Central Campus Zone,2025-04-29 07:55:05,1,Commercial Ganja / Cannabis,18.67,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00351,1,Chennai,Chennai North Market,2026-06-19 19:32:00,1,Commercial Ganja / Cannabis,13.15,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00352,20,Viluppuram,Viluppuram West Campus Zone,2025-05-09 13:20:43,2,Synthetic Stimulants / MDMA / Meth,6.54,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00353,26,Ariyalur,Ariyalur North Industrial Bypass,2025-02-10 03:21:06,2,Synthetic Stimulants / MDMA / Meth,21.17,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00354,30,Ramanathapuram,Ramanathapuram Central Market,2025-10-30 10:44:17,6,Unclassified / Suspicious Substance,24.30,KG,WAREHOUSE_RAID
+SEZ-2026-00355,1,Chennai,Chennai South Market,2025-08-04 23:52:52,6,Unclassified / Suspicious Substance,29.62,KG,WAREHOUSE_RAID
+SEZ-2026-00356,29,Sivaganga,Sivaganga East Industrial Bypass,2025-06-09 14:41:08,6,Unclassified / Suspicious Substance,22.43,KG,WAREHOUSE_RAID
+SEZ-2026-00357,17,Chengalpattu,Chengalpattu South Market,2025-08-29 11:32:53,1,Commercial Ganja / Cannabis,35.11,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00358,9,Vellore,Vellore East Campus Zone,2025-09-16 11:54:31,1,Commercial Ganja / Cannabis,33.94,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00359,13,Thoothukudi,Thoothukudi Central Market,2024-10-01 17:42:11,6,Unclassified / Suspicious Substance,28.22,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00360,30,Ramanathapuram,Ramanathapuram South Industrial Bypass,2026-01-08 21:23:36,5,Opioid Analogues / Brown Sugar / Heroin,14.17,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00361,12,Thanjavur,Thanjavur West Campus Zone,2026-05-15 10:50:35,3,Prescription Narcotics / Codeine / Alprazolam,11.07,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00362,5,Tiruchirappalli,Tiruchirappalli South Campus Zone,2026-05-21 01:53:50,2,Synthetic Stimulants / MDMA / Meth,26.27,LITRES,WAREHOUSE_RAID
+SEZ-2026-00363,5,Tiruchirappalli,Tiruchirappalli Central Market,2025-08-19 15:35:59,5,Opioid Analogues / Brown Sugar / Heroin,44.97,LITRES,WAREHOUSE_RAID
+SEZ-2026-00364,2,Coimbatore,Coimbatore South Market,2025-03-07 22:57:28,5,Opioid Analogues / Brown Sugar / Heroin,15.52,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00365,8,Tiruppur,Tiruppur South Market,2026-08-03 22:50:51,3,Prescription Narcotics / Codeine / Alprazolam,7.67,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00366,25,Karur,Karur East Industrial Bypass,2026-03-19 13:53:34,4,Chemical Precursors / Ephedrine,33.51,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00367,16,Kancheepuram,Kancheepuram South Campus Zone,2024-09-27 23:57:23,4,Chemical Precursors / Ephedrine,32.49,LITRES,WAREHOUSE_RAID
+SEZ-2026-00368,15,Tenkasi,Tenkasi West Industrial Bypass,2025-08-05 07:58:17,1,Commercial Ganja / Cannabis,34.98,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00369,14,Kanniyakumari,Kanniyakumari Central Market,2024-10-31 02:26:54,5,Opioid Analogues / Brown Sugar / Heroin,3.18,KG,WAREHOUSE_RAID
+SEZ-2026-00370,37,Tirupathur,Tirupathur East Industrial Bypass,2026-03-05 06:01:52,1,Commercial Ganja / Cannabis,9.74,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00371,6,Tirunelveli,Tirunelveli South Market,2025-03-31 04:27:53,4,Chemical Precursors / Ephedrine,30.24,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00372,28,Pudukkottai,Pudukkottai Central Industrial Bypass,2025-12-09 07:09:43,5,Opioid Analogues / Brown Sugar / Heroin,9.59,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00373,27,Perambalur,Perambalur North Market,2025-12-30 22:55:52,1,Commercial Ganja / Cannabis,1.99,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00374,28,Pudukkottai,Pudukkottai South Market,2026-02-11 19:25:41,5,Opioid Analogues / Brown Sugar / Heroin,22.05,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00375,26,Ariyalur,Ariyalur West Campus Zone,2025-10-31 00:57:24,5,Opioid Analogues / Brown Sugar / Heroin,28.60,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00376,20,Viluppuram,Viluppuram North Market,2025-10-02 11:14:13,5,Opioid Analogues / Brown Sugar / Heroin,10.71,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00377,7,Erode,Erode North Market,2025-06-12 15:43:07,3,Prescription Narcotics / Codeine / Alprazolam,2.16,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00378,2,Coimbatore,Coimbatore Central Industrial Bypass,2026-05-31 21:41:17,6,Unclassified / Suspicious Substance,43.93,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00379,32,Theni,Theni South Industrial Bypass,2025-10-01 20:33:55,2,Synthetic Stimulants / MDMA / Meth,15.22,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00380,24,Nilgiris,Nilgiris South Campus Zone,2025-11-23 10:11:40,2,Synthetic Stimulants / MDMA / Meth,40.44,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00381,34,Nagapattinam,Nagapattinam West Market,2026-08-01 11:30:51,1,Commercial Ganja / Cannabis,24.51,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00382,21,Kallakurichi,Kallakurichi West Campus Zone,2024-11-27 15:45:17,4,Chemical Precursors / Ephedrine,37.29,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00383,27,Perambalur,Perambalur West Industrial Bypass,2025-01-08 08:09:14,6,Unclassified / Suspicious Substance,15.13,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00384,14,Kanniyakumari,Kanniyakumari Central Campus Zone,2026-07-28 23:20:18,5,Opioid Analogues / Brown Sugar / Heroin,20.52,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00385,8,Tiruppur,Tiruppur West Campus Zone,2025-09-24 13:31:33,4,Chemical Precursors / Ephedrine,19.26,LITRES,WAREHOUSE_RAID
+SEZ-2026-00386,34,Nagapattinam,Nagapattinam North Market,2025-02-10 08:35:40,1,Commercial Ganja / Cannabis,16.57,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00387,11,Dindigul,Dindigul Central Industrial Bypass,2024-10-25 19:35:04,5,Opioid Analogues / Brown Sugar / Heroin,29.94,KG,WAREHOUSE_RAID
+SEZ-2026-00388,38,Tiruvannamalai,Tiruvannamalai Central Campus Zone,2024-11-08 06:03:58,4,Chemical Precursors / Ephedrine,19.88,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00389,16,Kancheepuram,Kancheepuram East Market,2025-09-18 12:46:35,5,Opioid Analogues / Brown Sugar / Heroin,43.95,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00390,24,Nilgiris,Nilgiris South Industrial Bypass,2025-01-31 08:04:14,2,Synthetic Stimulants / MDMA / Meth,25.85,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00391,36,Ranipet,Ranipet North Market,2026-01-11 18:22:34,1,Commercial Ganja / Cannabis,23.26,KG,WAREHOUSE_RAID
+SEZ-2026-00392,34,Nagapattinam,Nagapattinam Central Campus Zone,2026-02-18 18:41:37,4,Chemical Precursors / Ephedrine,45.18,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00393,34,Nagapattinam,Nagapattinam South Campus Zone,2026-01-30 12:38:04,2,Synthetic Stimulants / MDMA / Meth,6.17,VIALS,WAREHOUSE_RAID
+SEZ-2026-00394,10,Krishnagiri,Krishnagiri South Campus Zone,2025-09-13 02:06:56,5,Opioid Analogues / Brown Sugar / Heroin,43.00,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00395,18,Tiruvallur,Tiruvallur East Campus Zone,2025-04-17 22:07:45,6,Unclassified / Suspicious Substance,3.96,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00396,38,Tiruvannamalai,Tiruvannamalai West Campus Zone,2026-02-06 21:23:52,2,Synthetic Stimulants / MDMA / Meth,39.11,LITRES,WAREHOUSE_RAID
+SEZ-2026-00397,21,Kallakurichi,Kallakurichi Central Market,2025-11-22 02:20:24,1,Commercial Ganja / Cannabis,24.53,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00398,35,Mayiladuthurai,Mayiladuthurai North Industrial Bypass,2025-06-23 00:19:24,1,Commercial Ganja / Cannabis,33.32,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00399,14,Kanniyakumari,Kanniyakumari North Campus Zone,2026-03-17 18:29:20,3,Prescription Narcotics / Codeine / Alprazolam,14.59,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00400,28,Pudukkottai,Pudukkottai East Campus Zone,2025-09-21 12:43:55,6,Unclassified / Suspicious Substance,42.68,KG,WAREHOUSE_RAID
+SEZ-2026-00401,3,Madurai,Madurai East Campus Zone,2024-12-31 09:10:36,6,Unclassified / Suspicious Substance,40.59,VIALS,WAREHOUSE_RAID
+SEZ-2026-00402,32,Theni,Theni West Market,2026-08-08 05:04:10,3,Prescription Narcotics / Codeine / Alprazolam,14.15,KG,WAREHOUSE_RAID
+SEZ-2026-00403,18,Tiruvallur,Tiruvallur East Industrial Bypass,2026-07-09 23:16:50,1,Commercial Ganja / Cannabis,44.44,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00404,19,Cuddalore,Cuddalore South Industrial Bypass,2025-08-10 17:57:41,4,Chemical Precursors / Ephedrine,28.96,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00405,33,Thiruvarur,Thiruvarur Central Industrial Bypass,2026-02-13 01:15:15,3,Prescription Narcotics / Codeine / Alprazolam,19.68,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00406,24,Nilgiris,Nilgiris South Campus Zone,2026-07-13 10:24:30,6,Unclassified / Suspicious Substance,32.03,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00407,13,Thoothukudi,Thoothukudi South Industrial Bypass,2026-02-15 15:45:23,1,Commercial Ganja / Cannabis,41.08,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00408,10,Krishnagiri,Krishnagiri Central Market,2026-05-02 16:37:35,6,Unclassified / Suspicious Substance,24.97,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00409,9,Vellore,Vellore South Market,2025-11-18 03:21:58,6,Unclassified / Suspicious Substance,7.78,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00410,31,Virudhunagar,Virudhunagar South Industrial Bypass,2025-05-12 22:41:04,2,Synthetic Stimulants / MDMA / Meth,2.14,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00411,25,Karur,Karur West Campus Zone,2024-10-01 17:30:54,5,Opioid Analogues / Brown Sugar / Heroin,39.91,LITRES,WAREHOUSE_RAID
+SEZ-2026-00412,2,Coimbatore,Coimbatore South Industrial Bypass,2024-11-16 05:13:18,2,Synthetic Stimulants / MDMA / Meth,1.53,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00413,7,Erode,Erode South Market,2025-12-03 20:03:25,4,Chemical Precursors / Ephedrine,11.16,VIALS,WAREHOUSE_RAID
+SEZ-2026-00414,29,Sivaganga,Sivaganga South Campus Zone,2025-02-23 23:45:54,6,Unclassified / Suspicious Substance,23.61,KG,WAREHOUSE_RAID
+SEZ-2026-00415,14,Kanniyakumari,Kanniyakumari East Market,2025-12-06 18:55:21,4,Chemical Precursors / Ephedrine,6.03,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00416,34,Nagapattinam,Nagapattinam South Campus Zone,2025-06-08 14:31:50,5,Opioid Analogues / Brown Sugar / Heroin,1.93,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00417,20,Viluppuram,Viluppuram West Campus Zone,2026-03-04 09:22:53,6,Unclassified / Suspicious Substance,4.41,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00418,28,Pudukkottai,Pudukkottai South Campus Zone,2025-09-27 05:30:16,4,Chemical Precursors / Ephedrine,23.43,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00419,11,Dindigul,Dindigul East Market,2025-08-15 03:20:33,1,Commercial Ganja / Cannabis,15.72,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00420,4,Salem,Salem North Market,2026-03-28 14:57:17,5,Opioid Analogues / Brown Sugar / Heroin,16.69,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00421,37,Tirupathur,Tirupathur Central Industrial Bypass,2024-11-27 06:20:19,6,Unclassified / Suspicious Substance,31.08,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00422,22,Dharmapuri,Dharmapuri Central Campus Zone,2026-03-10 00:39:28,1,Commercial Ganja / Cannabis,28.92,LITRES,WAREHOUSE_RAID
+SEZ-2026-00423,34,Nagapattinam,Nagapattinam South Industrial Bypass,2025-08-12 06:02:52,4,Chemical Precursors / Ephedrine,43.44,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00424,28,Pudukkottai,Pudukkottai West Industrial Bypass,2025-05-06 00:13:00,2,Synthetic Stimulants / MDMA / Meth,19.67,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00425,23,Namakkal,Namakkal North Industrial Bypass,2025-12-23 04:36:47,1,Commercial Ganja / Cannabis,26.60,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00426,12,Thanjavur,Thanjavur South Campus Zone,2025-11-12 06:51:09,5,Opioid Analogues / Brown Sugar / Heroin,8.40,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00427,10,Krishnagiri,Krishnagiri Central Campus Zone,2024-09-26 01:57:52,3,Prescription Narcotics / Codeine / Alprazolam,23.57,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00428,10,Krishnagiri,Krishnagiri North Industrial Bypass,2026-02-15 20:11:32,6,Unclassified / Suspicious Substance,29.97,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00429,37,Tirupathur,Tirupathur South Campus Zone,2026-02-10 01:13:25,1,Commercial Ganja / Cannabis,3.06,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00430,30,Ramanathapuram,Ramanathapuram Central Market,2025-03-27 05:21:20,1,Commercial Ganja / Cannabis,14.71,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00431,35,Mayiladuthurai,Mayiladuthurai West Industrial Bypass,2024-10-16 10:22:48,3,Prescription Narcotics / Codeine / Alprazolam,42.73,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00432,7,Erode,Erode Central Campus Zone,2026-04-15 09:33:22,1,Commercial Ganja / Cannabis,38.48,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00433,5,Tiruchirappalli,Tiruchirappalli South Market,2024-11-24 22:39:52,6,Unclassified / Suspicious Substance,8.92,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00434,37,Tirupathur,Tirupathur Central Campus Zone,2025-08-06 14:26:52,1,Commercial Ganja / Cannabis,5.80,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00435,26,Ariyalur,Ariyalur East Campus Zone,2025-06-04 09:28:57,3,Prescription Narcotics / Codeine / Alprazolam,33.59,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00436,11,Dindigul,Dindigul South Campus Zone,2025-01-14 09:01:19,5,Opioid Analogues / Brown Sugar / Heroin,29.83,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00437,5,Tiruchirappalli,Tiruchirappalli South Campus Zone,2024-10-28 23:12:24,5,Opioid Analogues / Brown Sugar / Heroin,28.82,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00438,7,Erode,Erode East Campus Zone,2025-07-31 07:52:17,4,Chemical Precursors / Ephedrine,3.07,VIALS,WAREHOUSE_RAID
+SEZ-2026-00439,14,Kanniyakumari,Kanniyakumari North Market,2025-07-12 03:59:11,3,Prescription Narcotics / Codeine / Alprazolam,33.67,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00440,31,Virudhunagar,Virudhunagar Central Market,2025-01-08 04:28:52,6,Unclassified / Suspicious Substance,29.32,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00441,14,Kanniyakumari,Kanniyakumari West Market,2026-05-14 20:31:52,5,Opioid Analogues / Brown Sugar / Heroin,15.80,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00442,25,Karur,Karur West Market,2026-03-05 13:54:45,5,Opioid Analogues / Brown Sugar / Heroin,29.85,LITRES,WAREHOUSE_RAID
+SEZ-2026-00443,20,Viluppuram,Viluppuram East Industrial Bypass,2024-11-14 23:01:04,6,Unclassified / Suspicious Substance,27.92,LITRES,WAREHOUSE_RAID
+SEZ-2026-00444,16,Kancheepuram,Kancheepuram West Market,2024-09-21 02:55:56,6,Unclassified / Suspicious Substance,27.49,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00445,11,Dindigul,Dindigul Central Market,2026-01-01 06:26:24,1,Commercial Ganja / Cannabis,41.31,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00446,10,Krishnagiri,Krishnagiri West Industrial Bypass,2026-03-24 00:05:33,6,Unclassified / Suspicious Substance,14.22,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00447,34,Nagapattinam,Nagapattinam West Market,2026-01-18 09:36:43,1,Commercial Ganja / Cannabis,5.43,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00448,35,Mayiladuthurai,Mayiladuthurai South Campus Zone,2025-10-28 16:44:17,5,Opioid Analogues / Brown Sugar / Heroin,39.41,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00449,26,Ariyalur,Ariyalur East Market,2026-07-21 08:49:40,2,Synthetic Stimulants / MDMA / Meth,32.99,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00450,35,Mayiladuthurai,Mayiladuthurai South Campus Zone,2025-11-23 08:26:18,6,Unclassified / Suspicious Substance,31.27,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00451,17,Chengalpattu,Chengalpattu West Market,2025-01-10 11:21:29,6,Unclassified / Suspicious Substance,28.90,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00452,34,Nagapattinam,Nagapattinam Central Campus Zone,2026-07-01 12:16:55,2,Synthetic Stimulants / MDMA / Meth,33.70,KG,WAREHOUSE_RAID
+SEZ-2026-00453,27,Perambalur,Perambalur North Market,2024-12-23 09:31:15,3,Prescription Narcotics / Codeine / Alprazolam,28.12,LITRES,WAREHOUSE_RAID
+SEZ-2026-00454,29,Sivaganga,Sivaganga East Market,2026-01-12 04:36:59,5,Opioid Analogues / Brown Sugar / Heroin,4.83,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00455,18,Tiruvallur,Tiruvallur Central Industrial Bypass,2025-05-29 09:44:10,3,Prescription Narcotics / Codeine / Alprazolam,24.38,VIALS,WAREHOUSE_RAID
+SEZ-2026-00456,36,Ranipet,Ranipet East Campus Zone,2025-04-22 08:05:59,4,Chemical Precursors / Ephedrine,17.93,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00457,10,Krishnagiri,Krishnagiri South Industrial Bypass,2026-03-28 22:43:22,4,Chemical Precursors / Ephedrine,21.63,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00458,38,Tiruvannamalai,Tiruvannamalai East Market,2025-01-08 17:29:11,2,Synthetic Stimulants / MDMA / Meth,45.14,VIALS,WAREHOUSE_RAID
+SEZ-2026-00459,35,Mayiladuthurai,Mayiladuthurai Central Industrial Bypass,2026-04-29 17:15:25,1,Commercial Ganja / Cannabis,20.72,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00460,18,Tiruvallur,Tiruvallur Central Industrial Bypass,2025-05-22 07:43:12,5,Opioid Analogues / Brown Sugar / Heroin,25.16,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00461,3,Madurai,Madurai South Market,2024-10-06 04:11:14,2,Synthetic Stimulants / MDMA / Meth,11.32,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00462,28,Pudukkottai,Pudukkottai Central Market,2025-12-30 15:04:55,3,Prescription Narcotics / Codeine / Alprazolam,27.44,VIALS,WAREHOUSE_RAID
+SEZ-2026-00463,36,Ranipet,Ranipet East Market,2026-02-06 19:47:02,4,Chemical Precursors / Ephedrine,45.25,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00464,27,Perambalur,Perambalur North Campus Zone,2026-08-14 05:40:22,6,Unclassified / Suspicious Substance,8.45,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00465,18,Tiruvallur,Tiruvallur East Industrial Bypass,2025-07-26 04:06:15,6,Unclassified / Suspicious Substance,8.84,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00466,36,Ranipet,Ranipet East Industrial Bypass,2025-03-21 17:50:43,2,Synthetic Stimulants / MDMA / Meth,45.20,KG,WAREHOUSE_RAID
+SEZ-2026-00467,23,Namakkal,Namakkal East Campus Zone,2025-04-26 01:54:42,2,Synthetic Stimulants / MDMA / Meth,27.94,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00468,30,Ramanathapuram,Ramanathapuram West Industrial Bypass,2025-06-05 10:23:54,4,Chemical Precursors / Ephedrine,0.77,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00469,14,Kanniyakumari,Kanniyakumari East Market,2025-12-22 04:05:14,5,Opioid Analogues / Brown Sugar / Heroin,28.07,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00470,7,Erode,Erode West Industrial Bypass,2025-03-30 15:39:41,1,Commercial Ganja / Cannabis,10.09,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00471,21,Kallakurichi,Kallakurichi North Campus Zone,2024-12-11 05:08:08,2,Synthetic Stimulants / MDMA / Meth,7.05,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00472,38,Tiruvannamalai,Tiruvannamalai West Industrial Bypass,2025-06-11 04:20:06,2,Synthetic Stimulants / MDMA / Meth,10.63,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00473,34,Nagapattinam,Nagapattinam North Industrial Bypass,2025-07-08 22:35:12,2,Synthetic Stimulants / MDMA / Meth,8.54,VIALS,WAREHOUSE_RAID
+SEZ-2026-00474,28,Pudukkottai,Pudukkottai Central Market,2026-07-05 03:22:24,1,Commercial Ganja / Cannabis,26.90,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00475,24,Nilgiris,Nilgiris West Market,2025-11-19 07:17:28,5,Opioid Analogues / Brown Sugar / Heroin,22.65,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00476,32,Theni,Theni West Industrial Bypass,2026-05-24 18:01:18,5,Opioid Analogues / Brown Sugar / Heroin,37.74,VIALS,WAREHOUSE_RAID
+SEZ-2026-00477,22,Dharmapuri,Dharmapuri Central Market,2025-07-22 13:16:31,2,Synthetic Stimulants / MDMA / Meth,8.82,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00478,31,Virudhunagar,Virudhunagar North Industrial Bypass,2025-11-22 03:15:18,1,Commercial Ganja / Cannabis,4.29,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00479,17,Chengalpattu,Chengalpattu East Campus Zone,2025-10-04 14:48:25,1,Commercial Ganja / Cannabis,16.21,VIALS,WAREHOUSE_RAID
+SEZ-2026-00480,19,Cuddalore,Cuddalore West Market,2026-03-25 09:22:09,2,Synthetic Stimulants / MDMA / Meth,10.42,VIALS,WAREHOUSE_RAID
+SEZ-2026-00481,9,Vellore,Vellore North Campus Zone,2024-10-04 15:56:03,1,Commercial Ganja / Cannabis,42.56,VIALS,WAREHOUSE_RAID
+SEZ-2026-00482,8,Tiruppur,Tiruppur South Market,2026-03-07 20:59:53,6,Unclassified / Suspicious Substance,20.24,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00483,4,Salem,Salem Central Industrial Bypass,2026-05-24 15:51:56,6,Unclassified / Suspicious Substance,6.52,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00484,15,Tenkasi,Tenkasi South Market,2025-07-01 08:59:03,1,Commercial Ganja / Cannabis,33.50,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00485,23,Namakkal,Namakkal West Market,2025-07-09 16:22:17,6,Unclassified / Suspicious Substance,43.43,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00486,12,Thanjavur,Thanjavur North Industrial Bypass,2026-07-29 18:38:24,6,Unclassified / Suspicious Substance,6.37,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00487,35,Mayiladuthurai,Mayiladuthurai Central Industrial Bypass,2026-01-24 10:53:55,6,Unclassified / Suspicious Substance,27.08,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00488,29,Sivaganga,Sivaganga Central Market,2025-08-15 19:06:22,1,Commercial Ganja / Cannabis,3.91,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00489,10,Krishnagiri,Krishnagiri East Market,2026-03-11 21:52:44,2,Synthetic Stimulants / MDMA / Meth,25.66,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00490,16,Kancheepuram,Kancheepuram Central Market,2025-08-07 00:52:04,2,Synthetic Stimulants / MDMA / Meth,11.77,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00491,14,Kanniyakumari,Kanniyakumari South Industrial Bypass,2025-09-11 06:43:13,1,Commercial Ganja / Cannabis,28.24,LITRES,WAREHOUSE_RAID
+SEZ-2026-00492,7,Erode,Erode North Market,2025-07-10 06:01:59,1,Commercial Ganja / Cannabis,25.02,LITRES,WAREHOUSE_RAID
+SEZ-2026-00493,1,Chennai,Chennai West Market,2026-06-13 13:30:31,1,Commercial Ganja / Cannabis,21.54,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00494,7,Erode,Erode East Market,2026-06-16 10:01:14,5,Opioid Analogues / Brown Sugar / Heroin,24.96,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00495,34,Nagapattinam,Nagapattinam East Market,2026-04-01 02:40:08,3,Prescription Narcotics / Codeine / Alprazolam,14.47,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00496,16,Kancheepuram,Kancheepuram North Campus Zone,2026-06-16 03:10:18,1,Commercial Ganja / Cannabis,21.34,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00497,19,Cuddalore,Cuddalore Central Campus Zone,2024-12-03 06:47:04,3,Prescription Narcotics / Codeine / Alprazolam,25.61,VIALS,WAREHOUSE_RAID
+SEZ-2026-00498,21,Kallakurichi,Kallakurichi South Market,2026-04-09 05:54:21,4,Chemical Precursors / Ephedrine,38.51,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00499,24,Nilgiris,Nilgiris West Market,2025-11-20 17:17:29,1,Commercial Ganja / Cannabis,25.04,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00500,8,Tiruppur,Tiruppur North Campus Zone,2025-12-09 19:47:33,3,Prescription Narcotics / Codeine / Alprazolam,38.34,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00501,35,Mayiladuthurai,Mayiladuthurai Central Market,2026-04-10 08:18:51,6,Unclassified / Suspicious Substance,23.36,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00502,15,Tenkasi,Tenkasi West Industrial Bypass,2026-06-15 15:44:51,1,Commercial Ganja / Cannabis,41.01,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00503,37,Tirupathur,Tirupathur West Industrial Bypass,2024-10-06 16:11:29,2,Synthetic Stimulants / MDMA / Meth,36.69,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00504,37,Tirupathur,Tirupathur Central Market,2026-03-13 03:55:51,4,Chemical Precursors / Ephedrine,30.24,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00505,15,Tenkasi,Tenkasi Central Industrial Bypass,2024-10-22 08:20:22,5,Opioid Analogues / Brown Sugar / Heroin,2.93,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00506,4,Salem,Salem East Market,2025-04-15 16:34:10,1,Commercial Ganja / Cannabis,24.79,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00507,8,Tiruppur,Tiruppur South Market,2024-11-17 15:46:10,4,Chemical Precursors / Ephedrine,30.16,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00508,34,Nagapattinam,Nagapattinam West Campus Zone,2025-03-11 12:21:48,1,Commercial Ganja / Cannabis,24.04,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00509,16,Kancheepuram,Kancheepuram Central Campus Zone,2026-07-21 16:02:55,3,Prescription Narcotics / Codeine / Alprazolam,17.59,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00510,6,Tirunelveli,Tirunelveli South Market,2025-11-27 11:46:00,1,Commercial Ganja / Cannabis,27.06,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00511,21,Kallakurichi,Kallakurichi East Campus Zone,2026-04-30 04:53:46,3,Prescription Narcotics / Codeine / Alprazolam,17.41,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00512,1,Chennai,Chennai East Campus Zone,2025-09-10 06:26:18,3,Prescription Narcotics / Codeine / Alprazolam,10.00,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00513,18,Tiruvallur,Tiruvallur East Industrial Bypass,2026-01-30 05:44:23,5,Opioid Analogues / Brown Sugar / Heroin,37.78,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00514,17,Chengalpattu,Chengalpattu North Market,2026-06-07 22:24:18,2,Synthetic Stimulants / MDMA / Meth,45.28,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00515,29,Sivaganga,Sivaganga South Industrial Bypass,2026-06-21 22:02:40,6,Unclassified / Suspicious Substance,45.50,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00516,15,Tenkasi,Tenkasi North Industrial Bypass,2026-06-03 13:31:01,4,Chemical Precursors / Ephedrine,10.14,VIALS,WAREHOUSE_RAID
+SEZ-2026-00517,16,Kancheepuram,Kancheepuram South Campus Zone,2026-04-07 17:55:06,5,Opioid Analogues / Brown Sugar / Heroin,7.55,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00518,23,Namakkal,Namakkal East Industrial Bypass,2025-12-01 09:28:45,1,Commercial Ganja / Cannabis,14.38,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00519,25,Karur,Karur Central Market,2025-02-17 23:55:45,5,Opioid Analogues / Brown Sugar / Heroin,13.60,VIALS,WAREHOUSE_RAID
+SEZ-2026-00520,31,Virudhunagar,Virudhunagar East Campus Zone,2026-06-19 14:53:15,2,Synthetic Stimulants / MDMA / Meth,13.25,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00521,9,Vellore,Vellore North Campus Zone,2025-08-04 00:24:20,5,Opioid Analogues / Brown Sugar / Heroin,14.57,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00522,34,Nagapattinam,Nagapattinam South Industrial Bypass,2025-02-13 05:33:18,2,Synthetic Stimulants / MDMA / Meth,21.95,KG,WAREHOUSE_RAID
+SEZ-2026-00523,3,Madurai,Madurai Central Industrial Bypass,2024-11-14 15:34:30,3,Prescription Narcotics / Codeine / Alprazolam,16.96,KG,WAREHOUSE_RAID
+SEZ-2026-00524,8,Tiruppur,Tiruppur Central Market,2026-06-08 01:45:30,3,Prescription Narcotics / Codeine / Alprazolam,27.71,KG,WAREHOUSE_RAID
+SEZ-2026-00525,35,Mayiladuthurai,Mayiladuthurai West Industrial Bypass,2025-04-19 22:06:33,1,Commercial Ganja / Cannabis,39.41,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00526,31,Virudhunagar,Virudhunagar North Market,2025-05-22 03:04:48,2,Synthetic Stimulants / MDMA / Meth,23.10,VIALS,WAREHOUSE_RAID
+SEZ-2026-00527,7,Erode,Erode East Campus Zone,2026-06-07 03:30:59,6,Unclassified / Suspicious Substance,9.86,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00528,27,Perambalur,Perambalur West Market,2025-07-15 21:26:31,4,Chemical Precursors / Ephedrine,12.49,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00529,28,Pudukkottai,Pudukkottai North Campus Zone,2025-06-14 14:41:16,2,Synthetic Stimulants / MDMA / Meth,8.87,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00530,17,Chengalpattu,Chengalpattu East Campus Zone,2025-10-14 20:30:23,1,Commercial Ganja / Cannabis,32.03,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00531,20,Viluppuram,Viluppuram Central Market,2025-03-02 15:06:53,3,Prescription Narcotics / Codeine / Alprazolam,28.55,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00532,28,Pudukkottai,Pudukkottai West Industrial Bypass,2026-02-24 08:49:37,1,Commercial Ganja / Cannabis,33.49,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00533,23,Namakkal,Namakkal East Market,2024-12-27 10:42:34,3,Prescription Narcotics / Codeine / Alprazolam,42.89,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00534,35,Mayiladuthurai,Mayiladuthurai East Market,2026-05-23 23:51:22,2,Synthetic Stimulants / MDMA / Meth,19.50,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00535,24,Nilgiris,Nilgiris Central Market,2025-12-09 04:10:59,2,Synthetic Stimulants / MDMA / Meth,19.85,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00536,28,Pudukkottai,Pudukkottai South Industrial Bypass,2024-11-07 00:59:36,1,Commercial Ganja / Cannabis,42.70,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00537,8,Tiruppur,Tiruppur West Industrial Bypass,2025-06-25 22:38:57,5,Opioid Analogues / Brown Sugar / Heroin,34.06,LITRES,WAREHOUSE_RAID
+SEZ-2026-00538,29,Sivaganga,Sivaganga West Campus Zone,2026-05-28 23:04:22,3,Prescription Narcotics / Codeine / Alprazolam,8.27,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00539,13,Thoothukudi,Thoothukudi North Market,2025-03-09 16:30:24,5,Opioid Analogues / Brown Sugar / Heroin,6.05,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00540,19,Cuddalore,Cuddalore South Industrial Bypass,2025-09-19 17:36:49,2,Synthetic Stimulants / MDMA / Meth,43.89,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00541,7,Erode,Erode Central Industrial Bypass,2024-10-07 16:49:32,3,Prescription Narcotics / Codeine / Alprazolam,2.24,LITRES,WAREHOUSE_RAID
+SEZ-2026-00542,15,Tenkasi,Tenkasi East Market,2025-04-27 06:29:11,6,Unclassified / Suspicious Substance,24.51,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00543,20,Viluppuram,Viluppuram North Market,2025-04-26 17:49:06,6,Unclassified / Suspicious Substance,13.39,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00544,6,Tirunelveli,Tirunelveli Central Campus Zone,2025-07-11 00:14:18,6,Unclassified / Suspicious Substance,14.07,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00545,8,Tiruppur,Tiruppur Central Market,2026-01-24 12:45:03,4,Chemical Precursors / Ephedrine,23.46,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00546,38,Tiruvannamalai,Tiruvannamalai Central Campus Zone,2025-11-11 22:01:20,4,Chemical Precursors / Ephedrine,7.68,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00547,35,Mayiladuthurai,Mayiladuthurai East Industrial Bypass,2026-02-17 14:30:09,5,Opioid Analogues / Brown Sugar / Heroin,19.36,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00548,35,Mayiladuthurai,Mayiladuthurai West Market,2026-01-10 13:15:26,1,Commercial Ganja / Cannabis,32.20,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00549,20,Viluppuram,Viluppuram East Campus Zone,2026-03-04 06:56:20,6,Unclassified / Suspicious Substance,7.29,LITRES,WAREHOUSE_RAID
+SEZ-2026-00550,14,Kanniyakumari,Kanniyakumari West Market,2025-04-10 18:01:11,1,Commercial Ganja / Cannabis,14.29,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00551,22,Dharmapuri,Dharmapuri North Industrial Bypass,2025-10-04 04:17:22,2,Synthetic Stimulants / MDMA / Meth,28.52,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00552,36,Ranipet,Ranipet West Campus Zone,2025-04-26 05:11:46,2,Synthetic Stimulants / MDMA / Meth,19.27,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00553,7,Erode,Erode Central Industrial Bypass,2026-06-13 21:58:23,5,Opioid Analogues / Brown Sugar / Heroin,28.99,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00554,12,Thanjavur,Thanjavur Central Campus Zone,2024-09-22 22:36:39,3,Prescription Narcotics / Codeine / Alprazolam,5.13,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00555,36,Ranipet,Ranipet South Industrial Bypass,2026-07-23 02:15:00,1,Commercial Ganja / Cannabis,44.87,VIALS,WAREHOUSE_RAID
+SEZ-2026-00556,38,Tiruvannamalai,Tiruvannamalai Central Campus Zone,2025-04-19 14:24:44,5,Opioid Analogues / Brown Sugar / Heroin,42.99,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00557,3,Madurai,Madurai East Campus Zone,2025-11-25 06:13:54,2,Synthetic Stimulants / MDMA / Meth,11.18,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00558,30,Ramanathapuram,Ramanathapuram Central Market,2025-09-22 01:56:49,6,Unclassified / Suspicious Substance,44.88,KG,WAREHOUSE_RAID
+SEZ-2026-00559,1,Chennai,Chennai Central Industrial Bypass,2025-03-09 14:04:23,5,Opioid Analogues / Brown Sugar / Heroin,7.19,LITRES,WAREHOUSE_RAID
+SEZ-2026-00560,36,Ranipet,Ranipet North Industrial Bypass,2024-11-23 19:49:26,3,Prescription Narcotics / Codeine / Alprazolam,33.98,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00561,31,Virudhunagar,Virudhunagar North Campus Zone,2025-07-21 17:46:55,5,Opioid Analogues / Brown Sugar / Heroin,8.61,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00562,6,Tirunelveli,Tirunelveli North Market,2025-07-17 00:33:06,6,Unclassified / Suspicious Substance,35.82,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00563,30,Ramanathapuram,Ramanathapuram East Industrial Bypass,2025-07-29 02:44:07,3,Prescription Narcotics / Codeine / Alprazolam,11.15,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00564,32,Theni,Theni South Industrial Bypass,2024-12-18 09:24:22,3,Prescription Narcotics / Codeine / Alprazolam,37.46,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00565,31,Virudhunagar,Virudhunagar South Campus Zone,2025-02-14 23:46:47,6,Unclassified / Suspicious Substance,24.87,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00566,25,Karur,Karur Central Market,2024-10-07 22:22:58,3,Prescription Narcotics / Codeine / Alprazolam,23.77,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00567,23,Namakkal,Namakkal East Industrial Bypass,2024-10-15 11:04:17,2,Synthetic Stimulants / MDMA / Meth,23.04,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00568,24,Nilgiris,Nilgiris West Campus Zone,2026-05-16 12:14:26,3,Prescription Narcotics / Codeine / Alprazolam,3.17,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00569,25,Karur,Karur East Campus Zone,2024-10-17 22:34:41,2,Synthetic Stimulants / MDMA / Meth,4.47,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00570,17,Chengalpattu,Chengalpattu South Market,2025-01-24 10:33:47,2,Synthetic Stimulants / MDMA / Meth,4.80,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00571,9,Vellore,Vellore North Campus Zone,2025-06-16 09:06:57,2,Synthetic Stimulants / MDMA / Meth,32.41,VIALS,WAREHOUSE_RAID
+SEZ-2026-00572,27,Perambalur,Perambalur East Campus Zone,2025-10-26 23:10:18,6,Unclassified / Suspicious Substance,6.76,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00573,11,Dindigul,Dindigul East Market,2026-03-12 13:28:43,3,Prescription Narcotics / Codeine / Alprazolam,30.84,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00574,36,Ranipet,Ranipet East Industrial Bypass,2025-10-06 15:58:37,4,Chemical Precursors / Ephedrine,39.00,KG,WAREHOUSE_RAID
+SEZ-2026-00575,24,Nilgiris,Nilgiris South Campus Zone,2025-10-31 11:54:13,3,Prescription Narcotics / Codeine / Alprazolam,30.72,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00576,1,Chennai,Chennai Central Campus Zone,2025-12-18 04:12:05,1,Commercial Ganja / Cannabis,40.29,KG,WAREHOUSE_RAID
+SEZ-2026-00577,8,Tiruppur,Tiruppur Central Campus Zone,2025-02-07 03:31:32,6,Unclassified / Suspicious Substance,22.32,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00578,37,Tirupathur,Tirupathur East Industrial Bypass,2026-07-29 03:43:45,4,Chemical Precursors / Ephedrine,31.04,KG,WAREHOUSE_RAID
+SEZ-2026-00579,26,Ariyalur,Ariyalur East Industrial Bypass,2025-02-10 18:56:35,4,Chemical Precursors / Ephedrine,24.10,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00580,27,Perambalur,Perambalur North Market,2025-05-11 05:06:00,2,Synthetic Stimulants / MDMA / Meth,36.25,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00581,30,Ramanathapuram,Ramanathapuram North Industrial Bypass,2026-08-10 01:23:32,6,Unclassified / Suspicious Substance,14.74,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00582,10,Krishnagiri,Krishnagiri East Campus Zone,2026-06-13 14:01:06,3,Prescription Narcotics / Codeine / Alprazolam,21.79,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00583,22,Dharmapuri,Dharmapuri South Campus Zone,2026-05-21 04:54:59,2,Synthetic Stimulants / MDMA / Meth,26.47,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00584,33,Thiruvarur,Thiruvarur North Industrial Bypass,2026-05-20 05:18:48,2,Synthetic Stimulants / MDMA / Meth,20.98,KG,WAREHOUSE_RAID
+SEZ-2026-00585,24,Nilgiris,Nilgiris South Campus Zone,2025-01-19 02:48:09,6,Unclassified / Suspicious Substance,11.26,KG,WAREHOUSE_RAID
+SEZ-2026-00586,21,Kallakurichi,Kallakurichi East Industrial Bypass,2024-12-18 18:26:26,4,Chemical Precursors / Ephedrine,30.67,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00587,8,Tiruppur,Tiruppur North Market,2026-02-14 06:49:56,2,Synthetic Stimulants / MDMA / Meth,17.73,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00588,26,Ariyalur,Ariyalur East Campus Zone,2026-02-16 11:47:36,4,Chemical Precursors / Ephedrine,15.57,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00589,7,Erode,Erode West Market,2025-05-31 18:52:13,1,Commercial Ganja / Cannabis,38.32,VIALS,WAREHOUSE_RAID
+SEZ-2026-00590,16,Kancheepuram,Kancheepuram West Industrial Bypass,2025-07-09 22:25:39,3,Prescription Narcotics / Codeine / Alprazolam,15.81,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00591,19,Cuddalore,Cuddalore East Campus Zone,2025-02-20 21:41:13,6,Unclassified / Suspicious Substance,35.29,KG,WAREHOUSE_RAID
+SEZ-2026-00592,31,Virudhunagar,Virudhunagar East Campus Zone,2024-12-18 03:06:04,2,Synthetic Stimulants / MDMA / Meth,32.97,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00593,1,Chennai,Chennai East Campus Zone,2025-07-04 17:09:47,1,Commercial Ganja / Cannabis,21.61,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00594,4,Salem,Salem North Industrial Bypass,2024-09-28 14:43:51,3,Prescription Narcotics / Codeine / Alprazolam,7.03,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00595,15,Tenkasi,Tenkasi South Market,2024-09-26 23:19:17,1,Commercial Ganja / Cannabis,13.40,LITRES,WAREHOUSE_RAID
+SEZ-2026-00596,33,Thiruvarur,Thiruvarur Central Market,2025-05-18 07:58:16,3,Prescription Narcotics / Codeine / Alprazolam,36.00,VIALS,WAREHOUSE_RAID
+SEZ-2026-00597,34,Nagapattinam,Nagapattinam West Industrial Bypass,2025-02-06 03:57:25,3,Prescription Narcotics / Codeine / Alprazolam,26.52,KG,WAREHOUSE_RAID
+SEZ-2026-00598,1,Chennai,Chennai East Campus Zone,2025-12-14 21:33:43,6,Unclassified / Suspicious Substance,8.98,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00599,31,Virudhunagar,Virudhunagar West Industrial Bypass,2024-09-23 06:01:33,4,Chemical Precursors / Ephedrine,39.23,VIALS,WAREHOUSE_RAID
+SEZ-2026-00600,26,Ariyalur,Ariyalur East Industrial Bypass,2025-06-10 07:19:12,2,Synthetic Stimulants / MDMA / Meth,29.43,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00601,2,Coimbatore,Coimbatore South Industrial Bypass,2025-05-20 01:41:04,4,Chemical Precursors / Ephedrine,43.43,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00602,10,Krishnagiri,Krishnagiri South Campus Zone,2025-08-05 03:37:22,5,Opioid Analogues / Brown Sugar / Heroin,12.77,VIALS,WAREHOUSE_RAID
+SEZ-2026-00603,5,Tiruchirappalli,Tiruchirappalli East Campus Zone,2024-12-16 10:30:11,5,Opioid Analogues / Brown Sugar / Heroin,0.80,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00604,35,Mayiladuthurai,Mayiladuthurai East Campus Zone,2025-05-29 20:17:12,6,Unclassified / Suspicious Substance,38.57,LITRES,WAREHOUSE_RAID
+SEZ-2026-00605,8,Tiruppur,Tiruppur Central Market,2026-08-07 10:08:17,2,Synthetic Stimulants / MDMA / Meth,44.39,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00606,10,Krishnagiri,Krishnagiri Central Market,2024-11-11 04:24:43,5,Opioid Analogues / Brown Sugar / Heroin,10.39,KG,WAREHOUSE_RAID
+SEZ-2026-00607,22,Dharmapuri,Dharmapuri North Market,2025-02-06 21:04:03,4,Chemical Precursors / Ephedrine,2.06,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00608,27,Perambalur,Perambalur East Market,2025-09-27 13:55:14,3,Prescription Narcotics / Codeine / Alprazolam,38.37,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00609,15,Tenkasi,Tenkasi Central Industrial Bypass,2025-01-21 04:42:07,6,Unclassified / Suspicious Substance,32.30,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00610,37,Tirupathur,Tirupathur West Industrial Bypass,2024-12-24 21:59:58,2,Synthetic Stimulants / MDMA / Meth,42.07,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00611,31,Virudhunagar,Virudhunagar West Campus Zone,2025-09-30 23:20:17,6,Unclassified / Suspicious Substance,16.43,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00612,11,Dindigul,Dindigul West Industrial Bypass,2026-05-27 20:25:40,6,Unclassified / Suspicious Substance,8.80,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00613,19,Cuddalore,Cuddalore East Market,2025-09-30 00:21:47,5,Opioid Analogues / Brown Sugar / Heroin,42.20,VIALS,WAREHOUSE_RAID
+SEZ-2026-00614,26,Ariyalur,Ariyalur Central Industrial Bypass,2025-01-12 03:39:46,1,Commercial Ganja / Cannabis,10.01,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00615,17,Chengalpattu,Chengalpattu South Industrial Bypass,2026-07-21 15:58:07,4,Chemical Precursors / Ephedrine,43.41,LITRES,WAREHOUSE_RAID
+SEZ-2026-00616,17,Chengalpattu,Chengalpattu East Market,2026-04-17 02:42:03,1,Commercial Ganja / Cannabis,43.05,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00617,3,Madurai,Madurai North Campus Zone,2026-04-03 07:21:26,5,Opioid Analogues / Brown Sugar / Heroin,1.08,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00618,33,Thiruvarur,Thiruvarur West Industrial Bypass,2025-12-17 16:55:33,1,Commercial Ganja / Cannabis,14.50,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00619,22,Dharmapuri,Dharmapuri West Market,2026-08-19 22:49:40,5,Opioid Analogues / Brown Sugar / Heroin,26.27,LITRES,WAREHOUSE_RAID
+SEZ-2026-00620,30,Ramanathapuram,Ramanathapuram East Campus Zone,2026-05-06 14:12:23,1,Commercial Ganja / Cannabis,42.58,LITRES,WAREHOUSE_RAID
+SEZ-2026-00621,3,Madurai,Madurai Central Market,2026-03-29 12:54:24,2,Synthetic Stimulants / MDMA / Meth,41.00,LITRES,WAREHOUSE_RAID
+SEZ-2026-00622,19,Cuddalore,Cuddalore West Market,2025-08-31 11:53:02,5,Opioid Analogues / Brown Sugar / Heroin,10.69,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00623,32,Theni,Theni Central Industrial Bypass,2024-12-09 14:23:43,2,Synthetic Stimulants / MDMA / Meth,28.58,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00624,3,Madurai,Madurai East Campus Zone,2026-05-10 03:59:04,2,Synthetic Stimulants / MDMA / Meth,6.83,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00625,28,Pudukkottai,Pudukkottai West Market,2025-01-01 16:48:01,5,Opioid Analogues / Brown Sugar / Heroin,26.95,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00626,22,Dharmapuri,Dharmapuri South Market,2026-07-05 07:19:27,3,Prescription Narcotics / Codeine / Alprazolam,24.21,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00627,17,Chengalpattu,Chengalpattu East Industrial Bypass,2026-08-11 07:50:13,3,Prescription Narcotics / Codeine / Alprazolam,35.84,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00628,35,Mayiladuthurai,Mayiladuthurai South Market,2025-06-09 05:11:46,4,Chemical Precursors / Ephedrine,17.49,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00629,28,Pudukkottai,Pudukkottai West Industrial Bypass,2025-07-04 16:11:37,4,Chemical Precursors / Ephedrine,26.87,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00630,6,Tirunelveli,Tirunelveli East Industrial Bypass,2025-02-27 03:38:57,6,Unclassified / Suspicious Substance,41.83,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00631,19,Cuddalore,Cuddalore East Market,2025-11-26 01:16:04,3,Prescription Narcotics / Codeine / Alprazolam,21.66,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00632,11,Dindigul,Dindigul South Market,2025-05-17 12:12:15,2,Synthetic Stimulants / MDMA / Meth,39.59,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00633,7,Erode,Erode Central Industrial Bypass,2026-01-16 06:10:01,6,Unclassified / Suspicious Substance,40.78,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00634,1,Chennai,Chennai South Campus Zone,2026-05-26 21:43:50,3,Prescription Narcotics / Codeine / Alprazolam,31.17,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00635,31,Virudhunagar,Virudhunagar South Campus Zone,2026-01-15 02:06:43,1,Commercial Ganja / Cannabis,36.52,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00636,36,Ranipet,Ranipet South Campus Zone,2025-04-12 18:05:46,5,Opioid Analogues / Brown Sugar / Heroin,34.55,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00637,32,Theni,Theni East Industrial Bypass,2025-09-15 17:58:50,6,Unclassified / Suspicious Substance,22.67,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00638,21,Kallakurichi,Kallakurichi North Market,2024-11-25 07:17:41,6,Unclassified / Suspicious Substance,28.92,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00639,28,Pudukkottai,Pudukkottai West Market,2024-10-28 10:14:28,5,Opioid Analogues / Brown Sugar / Heroin,1.44,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00640,22,Dharmapuri,Dharmapuri North Campus Zone,2026-01-27 21:36:52,1,Commercial Ganja / Cannabis,9.73,LITRES,WAREHOUSE_RAID
+SEZ-2026-00641,28,Pudukkottai,Pudukkottai South Campus Zone,2025-07-08 02:44:50,3,Prescription Narcotics / Codeine / Alprazolam,38.35,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00642,19,Cuddalore,Cuddalore North Industrial Bypass,2024-10-04 22:04:37,4,Chemical Precursors / Ephedrine,16.17,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00643,9,Vellore,Vellore South Industrial Bypass,2024-10-03 19:20:18,1,Commercial Ganja / Cannabis,8.47,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00644,12,Thanjavur,Thanjavur North Campus Zone,2025-12-31 20:45:35,6,Unclassified / Suspicious Substance,23.81,KG,WAREHOUSE_RAID
+SEZ-2026-00645,29,Sivaganga,Sivaganga North Industrial Bypass,2024-12-31 23:52:05,2,Synthetic Stimulants / MDMA / Meth,22.41,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00646,28,Pudukkottai,Pudukkottai East Market,2024-11-21 17:55:31,4,Chemical Precursors / Ephedrine,34.79,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00647,7,Erode,Erode Central Market,2025-08-28 13:39:13,3,Prescription Narcotics / Codeine / Alprazolam,15.79,VIALS,WAREHOUSE_RAID
+SEZ-2026-00648,10,Krishnagiri,Krishnagiri South Market,2025-05-03 05:37:18,3,Prescription Narcotics / Codeine / Alprazolam,12.87,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00649,34,Nagapattinam,Nagapattinam North Industrial Bypass,2024-11-29 23:21:56,3,Prescription Narcotics / Codeine / Alprazolam,23.71,KG,WAREHOUSE_RAID
+SEZ-2026-00650,12,Thanjavur,Thanjavur West Campus Zone,2026-08-09 18:09:37,6,Unclassified / Suspicious Substance,21.52,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00651,24,Nilgiris,Nilgiris North Market,2026-06-22 18:17:38,2,Synthetic Stimulants / MDMA / Meth,5.38,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00652,15,Tenkasi,Tenkasi West Industrial Bypass,2025-03-07 20:33:45,1,Commercial Ganja / Cannabis,29.81,KG,WAREHOUSE_RAID
+SEZ-2026-00653,12,Thanjavur,Thanjavur North Campus Zone,2025-07-19 10:13:42,2,Synthetic Stimulants / MDMA / Meth,35.13,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00654,32,Theni,Theni West Industrial Bypass,2026-07-22 16:40:38,6,Unclassified / Suspicious Substance,9.12,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00655,4,Salem,Salem South Industrial Bypass,2025-11-23 02:01:24,6,Unclassified / Suspicious Substance,26.10,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00656,33,Thiruvarur,Thiruvarur West Industrial Bypass,2026-01-03 19:34:14,4,Chemical Precursors / Ephedrine,40.37,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00657,7,Erode,Erode South Industrial Bypass,2026-08-16 17:18:37,3,Prescription Narcotics / Codeine / Alprazolam,6.47,KG,WAREHOUSE_RAID
+SEZ-2026-00658,18,Tiruvallur,Tiruvallur East Market,2026-08-18 22:27:14,5,Opioid Analogues / Brown Sugar / Heroin,31.84,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00659,32,Theni,Theni West Market,2024-09-27 00:08:35,1,Commercial Ganja / Cannabis,27.76,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00660,14,Kanniyakumari,Kanniyakumari Central Industrial Bypass,2026-08-18 12:01:02,5,Opioid Analogues / Brown Sugar / Heroin,42.52,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00661,5,Tiruchirappalli,Tiruchirappalli Central Industrial Bypass,2025-02-01 04:34:33,5,Opioid Analogues / Brown Sugar / Heroin,41.55,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00662,13,Thoothukudi,Thoothukudi West Campus Zone,2025-08-13 21:42:08,6,Unclassified / Suspicious Substance,13.50,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00663,23,Namakkal,Namakkal North Campus Zone,2024-11-19 19:02:18,6,Unclassified / Suspicious Substance,14.08,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00664,12,Thanjavur,Thanjavur North Market,2025-12-29 17:27:19,1,Commercial Ganja / Cannabis,23.09,KG,WAREHOUSE_RAID
+SEZ-2026-00665,4,Salem,Salem East Campus Zone,2026-06-21 20:46:43,1,Commercial Ganja / Cannabis,4.75,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00666,4,Salem,Salem West Market,2026-03-09 14:46:34,3,Prescription Narcotics / Codeine / Alprazolam,17.25,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00667,4,Salem,Salem Central Market,2026-07-23 10:52:00,6,Unclassified / Suspicious Substance,41.74,VIALS,WAREHOUSE_RAID
+SEZ-2026-00668,4,Salem,Salem South Campus Zone,2025-02-21 14:59:30,6,Unclassified / Suspicious Substance,4.70,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00669,31,Virudhunagar,Virudhunagar South Industrial Bypass,2025-11-21 02:36:15,2,Synthetic Stimulants / MDMA / Meth,28.70,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00670,36,Ranipet,Ranipet West Campus Zone,2026-04-13 06:18:13,4,Chemical Precursors / Ephedrine,36.24,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00671,24,Nilgiris,Nilgiris North Industrial Bypass,2024-09-20 05:50:18,3,Prescription Narcotics / Codeine / Alprazolam,34.63,KG,WAREHOUSE_RAID
+SEZ-2026-00672,19,Cuddalore,Cuddalore West Industrial Bypass,2026-03-02 23:10:17,5,Opioid Analogues / Brown Sugar / Heroin,29.20,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00673,11,Dindigul,Dindigul West Market,2026-07-12 09:45:16,6,Unclassified / Suspicious Substance,37.38,VIALS,WAREHOUSE_RAID
+SEZ-2026-00674,4,Salem,Salem East Industrial Bypass,2025-05-15 21:32:26,6,Unclassified / Suspicious Substance,43.85,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00675,2,Coimbatore,Coimbatore South Industrial Bypass,2026-08-17 01:57:33,5,Opioid Analogues / Brown Sugar / Heroin,41.91,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00676,17,Chengalpattu,Chengalpattu Central Campus Zone,2025-12-20 06:56:14,3,Prescription Narcotics / Codeine / Alprazolam,41.83,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00677,8,Tiruppur,Tiruppur East Industrial Bypass,2026-03-11 09:19:11,1,Commercial Ganja / Cannabis,43.62,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00678,4,Salem,Salem East Market,2024-11-17 13:10:43,4,Chemical Precursors / Ephedrine,7.31,LITRES,WAREHOUSE_RAID
+SEZ-2026-00679,11,Dindigul,Dindigul North Industrial Bypass,2025-11-05 00:27:22,6,Unclassified / Suspicious Substance,5.95,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00680,6,Tirunelveli,Tirunelveli East Industrial Bypass,2025-11-15 12:11:56,4,Chemical Precursors / Ephedrine,6.99,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00681,36,Ranipet,Ranipet West Market,2026-02-14 18:31:33,6,Unclassified / Suspicious Substance,21.10,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00682,17,Chengalpattu,Chengalpattu Central Market,2025-01-19 06:55:23,6,Unclassified / Suspicious Substance,31.74,LITRES,WAREHOUSE_RAID
+SEZ-2026-00683,15,Tenkasi,Tenkasi North Industrial Bypass,2025-11-18 07:56:53,2,Synthetic Stimulants / MDMA / Meth,44.95,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00684,35,Mayiladuthurai,Mayiladuthurai East Industrial Bypass,2026-03-31 02:41:26,1,Commercial Ganja / Cannabis,26.81,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00685,7,Erode,Erode Central Market,2026-03-29 12:34:05,6,Unclassified / Suspicious Substance,35.80,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00686,36,Ranipet,Ranipet South Market,2024-11-06 18:30:56,1,Commercial Ganja / Cannabis,37.77,LITRES,WAREHOUSE_RAID
+SEZ-2026-00687,14,Kanniyakumari,Kanniyakumari South Market,2024-10-23 04:44:02,5,Opioid Analogues / Brown Sugar / Heroin,44.32,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00688,14,Kanniyakumari,Kanniyakumari West Industrial Bypass,2025-12-28 01:00:28,3,Prescription Narcotics / Codeine / Alprazolam,37.03,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00689,31,Virudhunagar,Virudhunagar West Industrial Bypass,2025-11-11 22:14:00,1,Commercial Ganja / Cannabis,1.50,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00690,30,Ramanathapuram,Ramanathapuram West Market,2026-03-31 18:59:05,1,Commercial Ganja / Cannabis,16.36,LITRES,WAREHOUSE_RAID
+SEZ-2026-00691,22,Dharmapuri,Dharmapuri Central Market,2026-06-13 05:35:53,1,Commercial Ganja / Cannabis,11.20,VIALS,WAREHOUSE_RAID
+SEZ-2026-00692,19,Cuddalore,Cuddalore Central Market,2025-11-18 23:44:19,3,Prescription Narcotics / Codeine / Alprazolam,14.00,LITRES,WAREHOUSE_RAID
+SEZ-2026-00693,11,Dindigul,Dindigul South Industrial Bypass,2025-04-16 11:20:00,4,Chemical Precursors / Ephedrine,33.54,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00694,13,Thoothukudi,Thoothukudi North Industrial Bypass,2025-05-11 18:53:48,1,Commercial Ganja / Cannabis,36.71,VIALS,WAREHOUSE_RAID
+SEZ-2026-00695,34,Nagapattinam,Nagapattinam North Campus Zone,2026-04-05 20:03:41,2,Synthetic Stimulants / MDMA / Meth,25.05,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00696,6,Tirunelveli,Tirunelveli Central Market,2026-03-06 22:17:14,1,Commercial Ganja / Cannabis,28.08,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00697,35,Mayiladuthurai,Mayiladuthurai North Campus Zone,2026-06-04 02:26:45,6,Unclassified / Suspicious Substance,4.80,VIALS,WAREHOUSE_RAID
+SEZ-2026-00698,8,Tiruppur,Tiruppur South Campus Zone,2025-03-17 15:31:59,3,Prescription Narcotics / Codeine / Alprazolam,39.20,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00699,3,Madurai,Madurai West Market,2024-10-04 05:29:04,1,Commercial Ganja / Cannabis,43.78,VIALS,WAREHOUSE_RAID
+SEZ-2026-00700,1,Chennai,Chennai West Campus Zone,2025-02-18 11:07:52,5,Opioid Analogues / Brown Sugar / Heroin,14.00,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00701,5,Tiruchirappalli,Tiruchirappalli South Market,2025-03-26 23:09:12,3,Prescription Narcotics / Codeine / Alprazolam,29.75,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00702,8,Tiruppur,Tiruppur South Campus Zone,2024-12-04 17:18:57,3,Prescription Narcotics / Codeine / Alprazolam,43.81,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00703,21,Kallakurichi,Kallakurichi North Industrial Bypass,2026-05-06 23:37:39,5,Opioid Analogues / Brown Sugar / Heroin,22.25,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00704,23,Namakkal,Namakkal East Industrial Bypass,2024-11-05 11:12:04,5,Opioid Analogues / Brown Sugar / Heroin,0.64,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00705,35,Mayiladuthurai,Mayiladuthurai West Campus Zone,2025-07-25 11:22:54,6,Unclassified / Suspicious Substance,17.92,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00706,15,Tenkasi,Tenkasi West Market,2025-12-17 03:48:17,5,Opioid Analogues / Brown Sugar / Heroin,36.60,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00707,15,Tenkasi,Tenkasi North Industrial Bypass,2026-03-01 12:49:42,4,Chemical Precursors / Ephedrine,10.23,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00708,30,Ramanathapuram,Ramanathapuram South Industrial Bypass,2026-05-11 09:34:13,1,Commercial Ganja / Cannabis,22.72,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00709,37,Tirupathur,Tirupathur East Industrial Bypass,2025-07-02 01:04:00,4,Chemical Precursors / Ephedrine,2.74,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00710,7,Erode,Erode Central Campus Zone,2025-07-31 02:18:47,1,Commercial Ganja / Cannabis,12.05,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00711,12,Thanjavur,Thanjavur North Market,2026-08-09 22:45:42,4,Chemical Precursors / Ephedrine,35.30,VIALS,WAREHOUSE_RAID
+SEZ-2026-00712,18,Tiruvallur,Tiruvallur West Market,2024-12-30 15:20:37,2,Synthetic Stimulants / MDMA / Meth,32.21,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00713,23,Namakkal,Namakkal South Market,2025-11-05 11:16:05,5,Opioid Analogues / Brown Sugar / Heroin,9.62,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00714,38,Tiruvannamalai,Tiruvannamalai West Industrial Bypass,2025-09-18 23:51:55,6,Unclassified / Suspicious Substance,15.63,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00715,16,Kancheepuram,Kancheepuram East Market,2025-09-27 00:41:50,3,Prescription Narcotics / Codeine / Alprazolam,31.73,VIALS,WAREHOUSE_RAID
+SEZ-2026-00716,24,Nilgiris,Nilgiris East Campus Zone,2026-06-25 17:28:41,6,Unclassified / Suspicious Substance,37.63,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00717,23,Namakkal,Namakkal North Market,2024-11-12 23:25:31,3,Prescription Narcotics / Codeine / Alprazolam,1.76,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00718,38,Tiruvannamalai,Tiruvannamalai North Market,2025-12-17 09:57:33,1,Commercial Ganja / Cannabis,16.23,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00719,17,Chengalpattu,Chengalpattu South Industrial Bypass,2026-08-07 17:22:05,2,Synthetic Stimulants / MDMA / Meth,25.66,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00720,35,Mayiladuthurai,Mayiladuthurai West Market,2026-02-09 15:44:08,6,Unclassified / Suspicious Substance,15.17,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00721,3,Madurai,Madurai South Campus Zone,2024-10-28 21:32:03,2,Synthetic Stimulants / MDMA / Meth,4.53,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00722,3,Madurai,Madurai West Market,2024-10-26 00:59:24,6,Unclassified / Suspicious Substance,24.67,VIALS,WAREHOUSE_RAID
+SEZ-2026-00723,24,Nilgiris,Nilgiris South Industrial Bypass,2026-04-15 22:06:38,6,Unclassified / Suspicious Substance,13.67,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00724,26,Ariyalur,Ariyalur North Industrial Bypass,2026-04-01 14:05:18,4,Chemical Precursors / Ephedrine,36.35,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00725,3,Madurai,Madurai South Market,2026-02-26 02:57:00,4,Chemical Precursors / Ephedrine,24.55,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00726,33,Thiruvarur,Thiruvarur South Industrial Bypass,2025-11-26 21:51:01,3,Prescription Narcotics / Codeine / Alprazolam,27.43,LITRES,WAREHOUSE_RAID
+SEZ-2026-00727,28,Pudukkottai,Pudukkottai South Campus Zone,2026-01-06 08:06:52,2,Synthetic Stimulants / MDMA / Meth,42.87,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00728,1,Chennai,Chennai East Market,2026-06-08 13:48:40,5,Opioid Analogues / Brown Sugar / Heroin,41.37,VIALS,WAREHOUSE_RAID
+SEZ-2026-00729,15,Tenkasi,Tenkasi West Campus Zone,2025-04-15 20:36:49,2,Synthetic Stimulants / MDMA / Meth,12.81,VIALS,WAREHOUSE_RAID
+SEZ-2026-00730,31,Virudhunagar,Virudhunagar South Industrial Bypass,2025-06-29 10:35:07,6,Unclassified / Suspicious Substance,25.39,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00731,24,Nilgiris,Nilgiris East Industrial Bypass,2025-07-13 19:42:59,4,Chemical Precursors / Ephedrine,13.48,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00732,21,Kallakurichi,Kallakurichi Central Market,2025-11-10 22:00:25,3,Prescription Narcotics / Codeine / Alprazolam,3.66,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00733,34,Nagapattinam,Nagapattinam South Industrial Bypass,2025-11-29 09:01:58,4,Chemical Precursors / Ephedrine,31.85,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00734,14,Kanniyakumari,Kanniyakumari North Industrial Bypass,2026-02-20 04:04:51,5,Opioid Analogues / Brown Sugar / Heroin,3.73,VIALS,WAREHOUSE_RAID
+SEZ-2026-00735,27,Perambalur,Perambalur East Industrial Bypass,2025-04-06 07:23:58,6,Unclassified / Suspicious Substance,2.82,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00736,35,Mayiladuthurai,Mayiladuthurai East Campus Zone,2025-10-27 23:41:50,1,Commercial Ganja / Cannabis,21.58,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00737,13,Thoothukudi,Thoothukudi Central Market,2026-04-13 06:40:19,1,Commercial Ganja / Cannabis,10.87,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00738,13,Thoothukudi,Thoothukudi Central Industrial Bypass,2025-01-11 00:37:57,5,Opioid Analogues / Brown Sugar / Heroin,33.34,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00739,32,Theni,Theni West Industrial Bypass,2024-12-04 06:09:57,3,Prescription Narcotics / Codeine / Alprazolam,4.19,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00740,22,Dharmapuri,Dharmapuri East Market,2025-04-03 03:33:59,4,Chemical Precursors / Ephedrine,15.03,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00741,22,Dharmapuri,Dharmapuri Central Campus Zone,2025-07-27 05:51:07,6,Unclassified / Suspicious Substance,33.76,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00742,23,Namakkal,Namakkal Central Campus Zone,2024-12-11 19:11:26,1,Commercial Ganja / Cannabis,35.00,LITRES,WAREHOUSE_RAID
+SEZ-2026-00743,15,Tenkasi,Tenkasi South Campus Zone,2024-10-08 09:47:55,4,Chemical Precursors / Ephedrine,28.21,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00744,10,Krishnagiri,Krishnagiri East Campus Zone,2025-07-26 07:55:21,6,Unclassified / Suspicious Substance,31.25,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00745,19,Cuddalore,Cuddalore West Industrial Bypass,2025-12-09 13:01:54,6,Unclassified / Suspicious Substance,16.40,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00746,4,Salem,Salem East Industrial Bypass,2025-11-02 04:11:50,4,Chemical Precursors / Ephedrine,32.17,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00747,2,Coimbatore,Coimbatore East Market,2026-04-29 02:52:34,5,Opioid Analogues / Brown Sugar / Heroin,18.09,LITRES,WAREHOUSE_RAID
+SEZ-2026-00748,1,Chennai,Chennai West Campus Zone,2025-06-23 09:31:27,4,Chemical Precursors / Ephedrine,33.60,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00749,7,Erode,Erode West Market,2024-11-20 07:25:38,2,Synthetic Stimulants / MDMA / Meth,44.18,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00750,30,Ramanathapuram,Ramanathapuram South Market,2024-09-22 21:07:11,1,Commercial Ganja / Cannabis,43.21,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00751,35,Mayiladuthurai,Mayiladuthurai Central Campus Zone,2024-12-23 10:50:22,5,Opioid Analogues / Brown Sugar / Heroin,13.18,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00752,3,Madurai,Madurai West Industrial Bypass,2025-05-29 17:50:39,4,Chemical Precursors / Ephedrine,7.64,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00753,5,Tiruchirappalli,Tiruchirappalli South Market,2026-01-14 04:45:17,5,Opioid Analogues / Brown Sugar / Heroin,30.53,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00754,2,Coimbatore,Coimbatore Central Campus Zone,2025-05-28 14:51:01,4,Chemical Precursors / Ephedrine,26.46,KG,WAREHOUSE_RAID
+SEZ-2026-00755,14,Kanniyakumari,Kanniyakumari Central Industrial Bypass,2024-11-22 00:33:33,3,Prescription Narcotics / Codeine / Alprazolam,22.30,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00756,27,Perambalur,Perambalur South Industrial Bypass,2025-12-12 19:40:32,1,Commercial Ganja / Cannabis,38.28,VIALS,WAREHOUSE_RAID
+SEZ-2026-00757,28,Pudukkottai,Pudukkottai West Campus Zone,2024-11-27 17:04:27,2,Synthetic Stimulants / MDMA / Meth,39.58,VIALS,WAREHOUSE_RAID
+SEZ-2026-00758,24,Nilgiris,Nilgiris West Industrial Bypass,2025-07-02 11:23:53,6,Unclassified / Suspicious Substance,3.19,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00759,23,Namakkal,Namakkal North Market,2025-08-25 05:51:41,5,Opioid Analogues / Brown Sugar / Heroin,12.48,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00760,5,Tiruchirappalli,Tiruchirappalli West Market,2026-05-04 14:17:30,1,Commercial Ganja / Cannabis,18.52,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00761,12,Thanjavur,Thanjavur North Industrial Bypass,2026-07-20 15:19:20,1,Commercial Ganja / Cannabis,29.61,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00762,2,Coimbatore,Coimbatore East Market,2025-09-21 17:11:51,6,Unclassified / Suspicious Substance,13.46,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00763,15,Tenkasi,Tenkasi East Market,2025-12-03 04:03:00,1,Commercial Ganja / Cannabis,17.56,LITRES,WAREHOUSE_RAID
+SEZ-2026-00764,34,Nagapattinam,Nagapattinam Central Campus Zone,2025-05-12 18:58:22,2,Synthetic Stimulants / MDMA / Meth,23.75,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00765,29,Sivaganga,Sivaganga North Industrial Bypass,2025-11-23 03:33:16,3,Prescription Narcotics / Codeine / Alprazolam,2.66,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00766,22,Dharmapuri,Dharmapuri South Industrial Bypass,2026-08-05 00:48:21,4,Chemical Precursors / Ephedrine,26.29,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00767,29,Sivaganga,Sivaganga South Industrial Bypass,2026-08-03 15:04:04,4,Chemical Precursors / Ephedrine,3.98,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00768,30,Ramanathapuram,Ramanathapuram Central Campus Zone,2026-07-30 07:52:11,6,Unclassified / Suspicious Substance,22.14,KG,WAREHOUSE_RAID
+SEZ-2026-00769,15,Tenkasi,Tenkasi East Campus Zone,2024-12-06 02:05:30,6,Unclassified / Suspicious Substance,44.44,LITRES,WAREHOUSE_RAID
+SEZ-2026-00770,34,Nagapattinam,Nagapattinam North Industrial Bypass,2025-03-18 22:35:46,4,Chemical Precursors / Ephedrine,40.91,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00771,32,Theni,Theni East Campus Zone,2024-12-04 06:25:11,2,Synthetic Stimulants / MDMA / Meth,0.59,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00772,13,Thoothukudi,Thoothukudi North Industrial Bypass,2024-11-03 07:00:08,1,Commercial Ganja / Cannabis,42.24,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00773,14,Kanniyakumari,Kanniyakumari South Market,2026-02-01 08:15:22,2,Synthetic Stimulants / MDMA / Meth,21.33,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00774,1,Chennai,Chennai North Campus Zone,2025-11-03 05:57:50,2,Synthetic Stimulants / MDMA / Meth,4.90,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00775,30,Ramanathapuram,Ramanathapuram West Market,2024-11-01 12:27:44,3,Prescription Narcotics / Codeine / Alprazolam,15.14,KG,WAREHOUSE_RAID
+SEZ-2026-00776,21,Kallakurichi,Kallakurichi East Market,2025-12-11 01:52:01,1,Commercial Ganja / Cannabis,19.63,LITRES,WAREHOUSE_RAID
+SEZ-2026-00777,13,Thoothukudi,Thoothukudi North Campus Zone,2025-08-30 05:59:47,5,Opioid Analogues / Brown Sugar / Heroin,39.06,KG,WAREHOUSE_RAID
+SEZ-2026-00778,17,Chengalpattu,Chengalpattu West Market,2026-01-05 03:14:17,4,Chemical Precursors / Ephedrine,8.84,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00779,32,Theni,Theni West Campus Zone,2025-11-23 00:18:09,2,Synthetic Stimulants / MDMA / Meth,13.81,LITRES,WAREHOUSE_RAID
+SEZ-2026-00780,17,Chengalpattu,Chengalpattu Central Campus Zone,2024-11-25 01:49:57,1,Commercial Ganja / Cannabis,16.40,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00781,27,Perambalur,Perambalur North Industrial Bypass,2025-10-28 15:52:24,6,Unclassified / Suspicious Substance,44.89,LITRES,WAREHOUSE_RAID
+SEZ-2026-00782,27,Perambalur,Perambalur Central Market,2025-09-07 10:19:00,1,Commercial Ganja / Cannabis,35.72,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00783,29,Sivaganga,Sivaganga North Market,2025-06-06 03:34:05,1,Commercial Ganja / Cannabis,5.93,LITRES,WAREHOUSE_RAID
+SEZ-2026-00784,22,Dharmapuri,Dharmapuri North Market,2026-07-04 19:38:50,6,Unclassified / Suspicious Substance,37.27,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00785,19,Cuddalore,Cuddalore Central Campus Zone,2024-12-18 01:03:08,6,Unclassified / Suspicious Substance,33.54,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00786,38,Tiruvannamalai,Tiruvannamalai East Market,2026-06-10 15:20:33,4,Chemical Precursors / Ephedrine,13.04,VIALS,WAREHOUSE_RAID
+SEZ-2026-00787,15,Tenkasi,Tenkasi North Campus Zone,2025-01-25 00:08:07,3,Prescription Narcotics / Codeine / Alprazolam,42.85,LITRES,WAREHOUSE_RAID
+SEZ-2026-00788,31,Virudhunagar,Virudhunagar East Industrial Bypass,2026-07-17 00:51:14,5,Opioid Analogues / Brown Sugar / Heroin,12.73,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00789,14,Kanniyakumari,Kanniyakumari South Industrial Bypass,2025-11-09 16:07:52,1,Commercial Ganja / Cannabis,35.30,VIALS,WAREHOUSE_RAID
+SEZ-2026-00790,16,Kancheepuram,Kancheepuram East Market,2025-01-07 06:09:18,1,Commercial Ganja / Cannabis,28.67,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00791,21,Kallakurichi,Kallakurichi East Campus Zone,2025-10-24 02:19:41,2,Synthetic Stimulants / MDMA / Meth,44.89,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00792,21,Kallakurichi,Kallakurichi East Market,2024-10-15 23:38:42,6,Unclassified / Suspicious Substance,21.36,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00793,1,Chennai,Chennai North Market,2026-07-29 11:03:45,3,Prescription Narcotics / Codeine / Alprazolam,43.37,VIALS,WAREHOUSE_RAID
+SEZ-2026-00794,29,Sivaganga,Sivaganga West Industrial Bypass,2025-11-28 04:45:14,5,Opioid Analogues / Brown Sugar / Heroin,9.52,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00795,6,Tirunelveli,Tirunelveli West Industrial Bypass,2025-08-27 16:25:48,4,Chemical Precursors / Ephedrine,12.69,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00796,18,Tiruvallur,Tiruvallur Central Campus Zone,2024-10-28 01:33:00,1,Commercial Ganja / Cannabis,4.87,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00797,24,Nilgiris,Nilgiris West Campus Zone,2025-07-29 21:51:34,1,Commercial Ganja / Cannabis,26.93,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00798,3,Madurai,Madurai East Market,2025-04-18 22:48:47,1,Commercial Ganja / Cannabis,13.96,VIALS,WAREHOUSE_RAID
+SEZ-2026-00799,27,Perambalur,Perambalur East Industrial Bypass,2026-05-12 18:31:48,2,Synthetic Stimulants / MDMA / Meth,0.83,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00800,13,Thoothukudi,Thoothukudi North Campus Zone,2025-03-08 18:16:14,4,Chemical Precursors / Ephedrine,4.29,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00801,2,Coimbatore,Coimbatore Central Campus Zone,2025-03-04 11:55:53,3,Prescription Narcotics / Codeine / Alprazolam,3.86,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00802,38,Tiruvannamalai,Tiruvannamalai North Market,2025-07-27 06:27:25,5,Opioid Analogues / Brown Sugar / Heroin,44.58,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00803,3,Madurai,Madurai West Campus Zone,2024-12-07 21:36:39,5,Opioid Analogues / Brown Sugar / Heroin,41.25,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00804,16,Kancheepuram,Kancheepuram West Industrial Bypass,2025-07-23 00:57:10,3,Prescription Narcotics / Codeine / Alprazolam,39.12,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00805,10,Krishnagiri,Krishnagiri North Market,2025-03-30 06:17:05,2,Synthetic Stimulants / MDMA / Meth,19.44,LITRES,WAREHOUSE_RAID
+SEZ-2026-00806,7,Erode,Erode Central Market,2025-03-18 21:04:43,1,Commercial Ganja / Cannabis,20.23,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00807,35,Mayiladuthurai,Mayiladuthurai North Industrial Bypass,2026-04-02 03:47:17,5,Opioid Analogues / Brown Sugar / Heroin,11.62,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00808,16,Kancheepuram,Kancheepuram North Campus Zone,2024-10-13 16:06:17,3,Prescription Narcotics / Codeine / Alprazolam,13.01,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00809,23,Namakkal,Namakkal Central Campus Zone,2025-05-22 12:46:47,4,Chemical Precursors / Ephedrine,11.66,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00810,19,Cuddalore,Cuddalore South Market,2025-09-29 15:00:58,5,Opioid Analogues / Brown Sugar / Heroin,4.85,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00811,25,Karur,Karur East Market,2025-09-16 17:37:04,2,Synthetic Stimulants / MDMA / Meth,32.99,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00812,25,Karur,Karur Central Industrial Bypass,2025-10-11 00:14:19,1,Commercial Ganja / Cannabis,4.26,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00813,11,Dindigul,Dindigul East Campus Zone,2024-10-09 22:18:07,6,Unclassified / Suspicious Substance,11.32,LITRES,WAREHOUSE_RAID
+SEZ-2026-00814,22,Dharmapuri,Dharmapuri North Campus Zone,2024-11-15 06:45:11,2,Synthetic Stimulants / MDMA / Meth,16.17,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00815,18,Tiruvallur,Tiruvallur Central Industrial Bypass,2025-05-06 01:01:11,2,Synthetic Stimulants / MDMA / Meth,18.78,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00816,34,Nagapattinam,Nagapattinam Central Industrial Bypass,2024-10-30 12:46:03,3,Prescription Narcotics / Codeine / Alprazolam,39.99,LITRES,WAREHOUSE_RAID
+SEZ-2026-00817,11,Dindigul,Dindigul North Market,2026-03-19 10:01:41,1,Commercial Ganja / Cannabis,27.92,LITRES,WAREHOUSE_RAID
+SEZ-2026-00818,5,Tiruchirappalli,Tiruchirappalli Central Market,2025-06-10 08:17:12,3,Prescription Narcotics / Codeine / Alprazolam,31.71,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00819,35,Mayiladuthurai,Mayiladuthurai West Campus Zone,2026-02-09 19:55:58,1,Commercial Ganja / Cannabis,29.86,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00820,34,Nagapattinam,Nagapattinam South Market,2024-10-21 00:26:11,1,Commercial Ganja / Cannabis,40.31,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00821,37,Tirupathur,Tirupathur South Industrial Bypass,2026-03-03 12:18:54,5,Opioid Analogues / Brown Sugar / Heroin,13.95,KG,WAREHOUSE_RAID
+SEZ-2026-00822,34,Nagapattinam,Nagapattinam Central Industrial Bypass,2026-02-05 15:00:56,2,Synthetic Stimulants / MDMA / Meth,12.58,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00823,2,Coimbatore,Coimbatore East Campus Zone,2025-12-13 23:42:46,1,Commercial Ganja / Cannabis,23.82,LITRES,WAREHOUSE_RAID
+SEZ-2026-00824,34,Nagapattinam,Nagapattinam Central Industrial Bypass,2025-04-28 06:43:55,3,Prescription Narcotics / Codeine / Alprazolam,13.28,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00825,34,Nagapattinam,Nagapattinam East Campus Zone,2025-01-09 08:54:48,3,Prescription Narcotics / Codeine / Alprazolam,4.60,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00826,13,Thoothukudi,Thoothukudi East Market,2025-10-20 03:27:46,6,Unclassified / Suspicious Substance,18.54,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00827,29,Sivaganga,Sivaganga South Industrial Bypass,2026-02-08 22:18:42,3,Prescription Narcotics / Codeine / Alprazolam,35.91,VIALS,WAREHOUSE_RAID
+SEZ-2026-00828,15,Tenkasi,Tenkasi West Campus Zone,2024-11-06 05:56:42,5,Opioid Analogues / Brown Sugar / Heroin,36.54,VIALS,WAREHOUSE_RAID
+SEZ-2026-00829,16,Kancheepuram,Kancheepuram West Market,2025-02-09 12:50:53,1,Commercial Ganja / Cannabis,17.87,KG,WAREHOUSE_RAID
+SEZ-2026-00830,13,Thoothukudi,Thoothukudi North Industrial Bypass,2024-12-06 15:28:35,4,Chemical Precursors / Ephedrine,23.12,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00831,35,Mayiladuthurai,Mayiladuthurai Central Market,2024-10-29 20:55:49,1,Commercial Ganja / Cannabis,31.99,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00832,23,Namakkal,Namakkal Central Industrial Bypass,2026-02-07 12:08:19,4,Chemical Precursors / Ephedrine,5.34,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00833,28,Pudukkottai,Pudukkottai East Market,2026-01-09 15:54:24,6,Unclassified / Suspicious Substance,37.12,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00834,26,Ariyalur,Ariyalur East Industrial Bypass,2025-02-28 01:22:29,1,Commercial Ganja / Cannabis,9.01,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00835,7,Erode,Erode East Campus Zone,2024-11-16 22:48:38,4,Chemical Precursors / Ephedrine,30.98,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00836,8,Tiruppur,Tiruppur North Market,2024-10-07 19:11:59,3,Prescription Narcotics / Codeine / Alprazolam,17.29,LITRES,WAREHOUSE_RAID
+SEZ-2026-00837,29,Sivaganga,Sivaganga East Market,2025-08-02 01:26:41,6,Unclassified / Suspicious Substance,29.08,VIALS,WAREHOUSE_RAID
+SEZ-2026-00838,35,Mayiladuthurai,Mayiladuthurai North Campus Zone,2026-06-17 19:05:55,3,Prescription Narcotics / Codeine / Alprazolam,31.35,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00839,26,Ariyalur,Ariyalur East Industrial Bypass,2024-10-24 13:29:35,3,Prescription Narcotics / Codeine / Alprazolam,42.62,LITRES,WAREHOUSE_RAID
+SEZ-2026-00840,18,Tiruvallur,Tiruvallur East Campus Zone,2025-08-15 16:56:07,1,Commercial Ganja / Cannabis,11.12,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00841,9,Vellore,Vellore Central Market,2025-06-20 05:07:16,1,Commercial Ganja / Cannabis,44.55,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00842,32,Theni,Theni North Industrial Bypass,2026-07-05 13:38:19,1,Commercial Ganja / Cannabis,17.08,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00843,13,Thoothukudi,Thoothukudi Central Market,2025-11-26 03:47:15,5,Opioid Analogues / Brown Sugar / Heroin,33.70,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00844,7,Erode,Erode East Industrial Bypass,2025-03-05 08:37:43,2,Synthetic Stimulants / MDMA / Meth,31.68,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00845,24,Nilgiris,Nilgiris Central Campus Zone,2025-08-19 06:49:38,6,Unclassified / Suspicious Substance,14.71,KG,WAREHOUSE_RAID
+SEZ-2026-00846,12,Thanjavur,Thanjavur South Campus Zone,2025-06-26 09:24:41,5,Opioid Analogues / Brown Sugar / Heroin,22.70,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00847,29,Sivaganga,Sivaganga Central Market,2024-09-30 06:46:13,4,Chemical Precursors / Ephedrine,3.64,LITRES,WAREHOUSE_RAID
+SEZ-2026-00848,8,Tiruppur,Tiruppur South Campus Zone,2025-05-11 20:21:00,6,Unclassified / Suspicious Substance,39.09,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00849,9,Vellore,Vellore North Industrial Bypass,2024-09-19 09:45:45,5,Opioid Analogues / Brown Sugar / Heroin,15.42,KG,WAREHOUSE_RAID
+SEZ-2026-00850,38,Tiruvannamalai,Tiruvannamalai South Campus Zone,2026-04-08 03:45:15,5,Opioid Analogues / Brown Sugar / Heroin,30.59,LITRES,WAREHOUSE_RAID
+SEZ-2026-00851,20,Viluppuram,Viluppuram West Campus Zone,2024-11-16 05:09:04,5,Opioid Analogues / Brown Sugar / Heroin,28.16,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00852,21,Kallakurichi,Kallakurichi North Market,2025-03-28 07:27:09,2,Synthetic Stimulants / MDMA / Meth,25.90,KG,WAREHOUSE_RAID
+SEZ-2026-00853,24,Nilgiris,Nilgiris North Campus Zone,2025-04-01 05:24:40,4,Chemical Precursors / Ephedrine,34.45,KG,WAREHOUSE_RAID
+SEZ-2026-00854,3,Madurai,Madurai West Campus Zone,2025-01-08 04:36:52,6,Unclassified / Suspicious Substance,11.10,VIALS,WAREHOUSE_RAID
+SEZ-2026-00855,8,Tiruppur,Tiruppur Central Industrial Bypass,2026-07-09 14:51:17,4,Chemical Precursors / Ephedrine,11.54,VIALS,WAREHOUSE_RAID
+SEZ-2026-00856,38,Tiruvannamalai,Tiruvannamalai North Market,2025-04-11 10:33:11,6,Unclassified / Suspicious Substance,39.05,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00857,2,Coimbatore,Coimbatore South Campus Zone,2025-01-11 01:05:46,2,Synthetic Stimulants / MDMA / Meth,3.71,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00858,29,Sivaganga,Sivaganga Central Industrial Bypass,2026-07-21 21:46:10,2,Synthetic Stimulants / MDMA / Meth,35.97,LITRES,WAREHOUSE_RAID
+SEZ-2026-00859,8,Tiruppur,Tiruppur West Campus Zone,2024-12-11 20:50:37,4,Chemical Precursors / Ephedrine,11.53,KG,WAREHOUSE_RAID
+SEZ-2026-00860,25,Karur,Karur South Industrial Bypass,2025-04-15 10:45:02,6,Unclassified / Suspicious Substance,9.34,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00861,31,Virudhunagar,Virudhunagar West Campus Zone,2025-05-07 05:48:55,1,Commercial Ganja / Cannabis,41.73,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00862,25,Karur,Karur North Industrial Bypass,2024-10-04 17:28:12,2,Synthetic Stimulants / MDMA / Meth,12.65,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00863,18,Tiruvallur,Tiruvallur East Campus Zone,2025-04-21 00:53:07,6,Unclassified / Suspicious Substance,19.49,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00864,30,Ramanathapuram,Ramanathapuram South Campus Zone,2025-03-29 03:09:04,5,Opioid Analogues / Brown Sugar / Heroin,28.58,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00865,30,Ramanathapuram,Ramanathapuram Central Market,2025-01-20 06:57:01,1,Commercial Ganja / Cannabis,22.36,LITRES,WAREHOUSE_RAID
+SEZ-2026-00866,6,Tirunelveli,Tirunelveli South Campus Zone,2024-12-07 22:53:49,2,Synthetic Stimulants / MDMA / Meth,11.43,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00867,3,Madurai,Madurai West Industrial Bypass,2025-11-18 21:00:40,3,Prescription Narcotics / Codeine / Alprazolam,6.71,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00868,38,Tiruvannamalai,Tiruvannamalai East Campus Zone,2025-09-01 09:50:34,2,Synthetic Stimulants / MDMA / Meth,3.36,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00869,26,Ariyalur,Ariyalur West Industrial Bypass,2026-03-27 10:55:09,6,Unclassified / Suspicious Substance,21.98,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00870,37,Tirupathur,Tirupathur Central Campus Zone,2026-06-20 03:56:54,6,Unclassified / Suspicious Substance,36.72,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00871,5,Tiruchirappalli,Tiruchirappalli East Market,2025-01-23 01:20:24,6,Unclassified / Suspicious Substance,1.35,LITRES,WAREHOUSE_RAID
+SEZ-2026-00872,24,Nilgiris,Nilgiris East Campus Zone,2025-08-23 18:56:49,2,Synthetic Stimulants / MDMA / Meth,40.91,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00873,17,Chengalpattu,Chengalpattu West Campus Zone,2025-03-13 05:14:51,2,Synthetic Stimulants / MDMA / Meth,25.54,VIALS,WAREHOUSE_RAID
+SEZ-2026-00874,14,Kanniyakumari,Kanniyakumari West Campus Zone,2025-04-21 13:58:29,5,Opioid Analogues / Brown Sugar / Heroin,21.47,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00875,7,Erode,Erode East Market,2026-08-08 10:20:47,5,Opioid Analogues / Brown Sugar / Heroin,45.21,VIALS,WAREHOUSE_RAID
+SEZ-2026-00876,9,Vellore,Vellore East Market,2026-05-05 20:30:16,2,Synthetic Stimulants / MDMA / Meth,38.29,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00877,31,Virudhunagar,Virudhunagar West Market,2025-05-12 15:15:52,5,Opioid Analogues / Brown Sugar / Heroin,21.23,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00878,2,Coimbatore,Coimbatore North Market,2026-07-02 16:34:37,4,Chemical Precursors / Ephedrine,17.23,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00879,11,Dindigul,Dindigul West Campus Zone,2024-11-15 23:44:57,1,Commercial Ganja / Cannabis,25.45,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00880,9,Vellore,Vellore East Industrial Bypass,2025-12-30 00:51:19,2,Synthetic Stimulants / MDMA / Meth,29.20,VIALS,WAREHOUSE_RAID
+SEZ-2026-00881,36,Ranipet,Ranipet South Industrial Bypass,2025-12-13 21:34:14,5,Opioid Analogues / Brown Sugar / Heroin,27.67,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00882,29,Sivaganga,Sivaganga Central Industrial Bypass,2025-12-05 17:43:35,4,Chemical Precursors / Ephedrine,21.43,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00883,18,Tiruvallur,Tiruvallur East Industrial Bypass,2026-05-16 16:25:23,2,Synthetic Stimulants / MDMA / Meth,7.27,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00884,23,Namakkal,Namakkal North Campus Zone,2025-09-13 21:37:36,1,Commercial Ganja / Cannabis,35.12,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00885,14,Kanniyakumari,Kanniyakumari North Market,2026-08-06 05:20:19,1,Commercial Ganja / Cannabis,14.32,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00886,14,Kanniyakumari,Kanniyakumari South Industrial Bypass,2025-12-27 08:46:58,3,Prescription Narcotics / Codeine / Alprazolam,19.29,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00887,13,Thoothukudi,Thoothukudi North Industrial Bypass,2025-10-15 21:06:33,4,Chemical Precursors / Ephedrine,14.24,LITRES,WAREHOUSE_RAID
+SEZ-2026-00888,24,Nilgiris,Nilgiris Central Market,2026-07-02 11:09:06,5,Opioid Analogues / Brown Sugar / Heroin,26.02,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00889,34,Nagapattinam,Nagapattinam East Market,2026-07-12 08:11:20,6,Unclassified / Suspicious Substance,14.31,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00890,32,Theni,Theni East Industrial Bypass,2024-10-10 17:34:32,5,Opioid Analogues / Brown Sugar / Heroin,30.56,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00891,7,Erode,Erode East Campus Zone,2024-12-11 12:06:08,4,Chemical Precursors / Ephedrine,22.85,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00892,6,Tirunelveli,Tirunelveli Central Industrial Bypass,2026-01-28 09:37:09,4,Chemical Precursors / Ephedrine,14.86,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00893,34,Nagapattinam,Nagapattinam East Industrial Bypass,2024-11-11 12:58:26,1,Commercial Ganja / Cannabis,22.57,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00894,30,Ramanathapuram,Ramanathapuram East Campus Zone,2025-10-21 10:35:10,2,Synthetic Stimulants / MDMA / Meth,36.33,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00895,21,Kallakurichi,Kallakurichi North Market,2026-02-11 08:35:00,2,Synthetic Stimulants / MDMA / Meth,11.11,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00896,29,Sivaganga,Sivaganga West Market,2025-10-01 13:46:56,6,Unclassified / Suspicious Substance,15.24,VIALS,WAREHOUSE_RAID
+SEZ-2026-00897,21,Kallakurichi,Kallakurichi North Industrial Bypass,2026-03-29 11:59:28,1,Commercial Ganja / Cannabis,14.49,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00898,36,Ranipet,Ranipet East Industrial Bypass,2025-04-17 01:08:06,1,Commercial Ganja / Cannabis,28.43,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00899,4,Salem,Salem South Market,2026-06-13 14:22:50,1,Commercial Ganja / Cannabis,33.33,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00900,27,Perambalur,Perambalur West Market,2025-01-16 17:31:44,4,Chemical Precursors / Ephedrine,29.53,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00901,24,Nilgiris,Nilgiris North Industrial Bypass,2025-06-11 13:54:03,1,Commercial Ganja / Cannabis,25.31,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00902,4,Salem,Salem North Campus Zone,2025-05-15 04:49:38,6,Unclassified / Suspicious Substance,45.04,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00903,18,Tiruvallur,Tiruvallur Central Market,2025-07-23 00:42:26,6,Unclassified / Suspicious Substance,8.85,KG,WAREHOUSE_RAID
+SEZ-2026-00904,22,Dharmapuri,Dharmapuri Central Campus Zone,2026-04-29 20:49:36,4,Chemical Precursors / Ephedrine,12.14,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00905,16,Kancheepuram,Kancheepuram West Market,2025-08-27 13:35:50,6,Unclassified / Suspicious Substance,18.75,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00906,1,Chennai,Chennai Central Campus Zone,2025-10-03 18:14:15,3,Prescription Narcotics / Codeine / Alprazolam,24.51,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00907,7,Erode,Erode South Campus Zone,2024-10-25 03:40:11,5,Opioid Analogues / Brown Sugar / Heroin,28.14,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00908,34,Nagapattinam,Nagapattinam West Campus Zone,2024-11-05 00:36:25,4,Chemical Precursors / Ephedrine,12.81,LITRES,WAREHOUSE_RAID
+SEZ-2026-00909,26,Ariyalur,Ariyalur East Campus Zone,2025-11-03 07:18:29,1,Commercial Ganja / Cannabis,33.82,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00910,37,Tirupathur,Tirupathur East Industrial Bypass,2026-07-12 12:04:53,5,Opioid Analogues / Brown Sugar / Heroin,17.57,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00911,14,Kanniyakumari,Kanniyakumari North Industrial Bypass,2026-07-13 11:21:20,2,Synthetic Stimulants / MDMA / Meth,11.98,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00912,22,Dharmapuri,Dharmapuri South Industrial Bypass,2026-04-29 01:41:49,5,Opioid Analogues / Brown Sugar / Heroin,31.21,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00913,13,Thoothukudi,Thoothukudi South Industrial Bypass,2025-06-28 06:06:34,2,Synthetic Stimulants / MDMA / Meth,31.01,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00914,21,Kallakurichi,Kallakurichi North Market,2026-01-21 13:19:05,5,Opioid Analogues / Brown Sugar / Heroin,41.78,LITRES,WAREHOUSE_RAID
+SEZ-2026-00915,12,Thanjavur,Thanjavur West Market,2026-06-18 01:34:50,6,Unclassified / Suspicious Substance,31.61,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00916,1,Chennai,Chennai North Industrial Bypass,2025-12-10 06:45:13,2,Synthetic Stimulants / MDMA / Meth,41.81,KG,WAREHOUSE_RAID
+SEZ-2026-00917,32,Theni,Theni South Market,2025-01-28 20:45:14,4,Chemical Precursors / Ephedrine,42.96,VIALS,WAREHOUSE_RAID
+SEZ-2026-00918,13,Thoothukudi,Thoothukudi Central Campus Zone,2026-06-11 23:19:39,3,Prescription Narcotics / Codeine / Alprazolam,12.71,VIALS,WAREHOUSE_RAID
+SEZ-2026-00919,15,Tenkasi,Tenkasi East Industrial Bypass,2026-03-06 16:32:33,5,Opioid Analogues / Brown Sugar / Heroin,10.22,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00920,34,Nagapattinam,Nagapattinam Central Market,2025-03-18 21:29:16,1,Commercial Ganja / Cannabis,22.96,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00921,7,Erode,Erode West Market,2026-03-16 20:21:48,3,Prescription Narcotics / Codeine / Alprazolam,22.60,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00922,19,Cuddalore,Cuddalore North Campus Zone,2025-02-02 15:29:58,3,Prescription Narcotics / Codeine / Alprazolam,20.99,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00923,26,Ariyalur,Ariyalur South Industrial Bypass,2025-01-30 23:57:29,6,Unclassified / Suspicious Substance,16.64,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00924,9,Vellore,Vellore Central Campus Zone,2026-04-17 07:49:37,6,Unclassified / Suspicious Substance,26.85,VIALS,WAREHOUSE_RAID
+SEZ-2026-00925,4,Salem,Salem West Market,2025-10-26 00:22:49,5,Opioid Analogues / Brown Sugar / Heroin,0.97,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00926,26,Ariyalur,Ariyalur Central Industrial Bypass,2026-06-04 00:55:31,3,Prescription Narcotics / Codeine / Alprazolam,36.16,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00927,24,Nilgiris,Nilgiris North Market,2025-10-26 14:43:53,2,Synthetic Stimulants / MDMA / Meth,1.34,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00928,11,Dindigul,Dindigul South Campus Zone,2025-01-12 15:44:21,1,Commercial Ganja / Cannabis,3.31,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00929,3,Madurai,Madurai Central Campus Zone,2025-01-31 04:22:26,4,Chemical Precursors / Ephedrine,4.18,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00930,14,Kanniyakumari,Kanniyakumari Central Campus Zone,2025-10-27 13:01:47,2,Synthetic Stimulants / MDMA / Meth,22.16,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00931,37,Tirupathur,Tirupathur North Campus Zone,2026-05-08 07:04:04,3,Prescription Narcotics / Codeine / Alprazolam,18.22,LITRES,WAREHOUSE_RAID
+SEZ-2026-00932,30,Ramanathapuram,Ramanathapuram Central Campus Zone,2026-06-14 02:48:56,1,Commercial Ganja / Cannabis,12.80,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00933,22,Dharmapuri,Dharmapuri East Market,2026-01-24 15:53:20,3,Prescription Narcotics / Codeine / Alprazolam,8.90,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00934,24,Nilgiris,Nilgiris East Industrial Bypass,2025-02-13 04:29:38,3,Prescription Narcotics / Codeine / Alprazolam,24.34,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00935,9,Vellore,Vellore North Campus Zone,2025-11-27 01:47:55,6,Unclassified / Suspicious Substance,20.20,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00936,30,Ramanathapuram,Ramanathapuram South Campus Zone,2024-10-04 13:08:10,4,Chemical Precursors / Ephedrine,22.42,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00937,25,Karur,Karur West Market,2024-12-24 12:21:56,2,Synthetic Stimulants / MDMA / Meth,45.43,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00938,29,Sivaganga,Sivaganga South Industrial Bypass,2025-01-14 12:12:36,6,Unclassified / Suspicious Substance,14.67,KG,WAREHOUSE_RAID
+SEZ-2026-00939,9,Vellore,Vellore West Market,2025-12-10 21:06:53,2,Synthetic Stimulants / MDMA / Meth,40.76,KG,WAREHOUSE_RAID
+SEZ-2026-00940,8,Tiruppur,Tiruppur West Industrial Bypass,2025-10-11 23:50:05,2,Synthetic Stimulants / MDMA / Meth,17.63,LITRES,WAREHOUSE_RAID
+SEZ-2026-00941,5,Tiruchirappalli,Tiruchirappalli Central Market,2026-07-28 15:10:23,1,Commercial Ganja / Cannabis,18.79,KG,WAREHOUSE_RAID
+SEZ-2026-00942,1,Chennai,Chennai North Industrial Bypass,2026-01-23 01:13:42,5,Opioid Analogues / Brown Sugar / Heroin,28.46,KG,WAREHOUSE_RAID
+SEZ-2026-00943,17,Chengalpattu,Chengalpattu West Market,2025-05-06 19:39:48,5,Opioid Analogues / Brown Sugar / Heroin,27.95,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00944,30,Ramanathapuram,Ramanathapuram Central Market,2025-04-16 01:24:49,2,Synthetic Stimulants / MDMA / Meth,4.44,KG,WAREHOUSE_RAID
+SEZ-2026-00945,16,Kancheepuram,Kancheepuram North Industrial Bypass,2025-09-03 01:51:53,3,Prescription Narcotics / Codeine / Alprazolam,5.65,KG,WAREHOUSE_RAID
+SEZ-2026-00946,30,Ramanathapuram,Ramanathapuram North Market,2026-08-04 18:25:16,1,Commercial Ganja / Cannabis,21.95,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00947,30,Ramanathapuram,Ramanathapuram North Market,2025-03-03 09:44:42,5,Opioid Analogues / Brown Sugar / Heroin,8.80,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00948,4,Salem,Salem West Market,2025-07-18 08:10:06,1,Commercial Ganja / Cannabis,6.08,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00949,21,Kallakurichi,Kallakurichi North Industrial Bypass,2026-06-05 22:33:02,2,Synthetic Stimulants / MDMA / Meth,37.74,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00950,37,Tirupathur,Tirupathur North Campus Zone,2024-10-03 02:39:49,2,Synthetic Stimulants / MDMA / Meth,4.05,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00951,1,Chennai,Chennai South Industrial Bypass,2026-04-09 05:08:23,3,Prescription Narcotics / Codeine / Alprazolam,13.89,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00952,4,Salem,Salem East Campus Zone,2025-09-11 06:01:51,6,Unclassified / Suspicious Substance,9.59,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00953,3,Madurai,Madurai East Campus Zone,2026-03-06 23:02:10,5,Opioid Analogues / Brown Sugar / Heroin,18.93,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00954,12,Thanjavur,Thanjavur Central Campus Zone,2026-05-30 06:52:02,4,Chemical Precursors / Ephedrine,12.23,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00955,36,Ranipet,Ranipet North Industrial Bypass,2024-10-10 11:32:24,5,Opioid Analogues / Brown Sugar / Heroin,20.05,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00956,29,Sivaganga,Sivaganga South Campus Zone,2025-05-31 18:14:44,3,Prescription Narcotics / Codeine / Alprazolam,1.64,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00957,32,Theni,Theni Central Industrial Bypass,2026-01-21 02:57:57,1,Commercial Ganja / Cannabis,27.66,VIALS,WAREHOUSE_RAID
+SEZ-2026-00958,10,Krishnagiri,Krishnagiri South Industrial Bypass,2026-06-13 20:27:16,4,Chemical Precursors / Ephedrine,14.88,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00959,3,Madurai,Madurai South Industrial Bypass,2025-10-05 19:12:08,3,Prescription Narcotics / Codeine / Alprazolam,35.13,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00960,15,Tenkasi,Tenkasi West Market,2026-05-14 13:10:28,5,Opioid Analogues / Brown Sugar / Heroin,6.55,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00961,25,Karur,Karur East Industrial Bypass,2025-04-09 02:26:01,5,Opioid Analogues / Brown Sugar / Heroin,16.06,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-00962,27,Perambalur,Perambalur East Campus Zone,2026-08-18 11:15:44,4,Chemical Precursors / Ephedrine,10.23,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00963,29,Sivaganga,Sivaganga Central Campus Zone,2025-06-15 04:16:11,6,Unclassified / Suspicious Substance,44.20,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-00964,21,Kallakurichi,Kallakurichi South Industrial Bypass,2025-08-26 02:20:50,2,Synthetic Stimulants / MDMA / Meth,11.85,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00965,38,Tiruvannamalai,Tiruvannamalai North Industrial Bypass,2026-06-29 20:21:09,3,Prescription Narcotics / Codeine / Alprazolam,8.87,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00966,8,Tiruppur,Tiruppur East Market,2026-06-08 15:08:04,5,Opioid Analogues / Brown Sugar / Heroin,38.17,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00967,31,Virudhunagar,Virudhunagar North Industrial Bypass,2025-02-18 00:31:13,1,Commercial Ganja / Cannabis,22.37,LITRES,WAREHOUSE_RAID
+SEZ-2026-00968,6,Tirunelveli,Tirunelveli North Campus Zone,2025-01-30 12:57:10,2,Synthetic Stimulants / MDMA / Meth,40.70,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00969,26,Ariyalur,Ariyalur South Campus Zone,2025-05-17 14:58:11,6,Unclassified / Suspicious Substance,39.31,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00970,18,Tiruvallur,Tiruvallur East Campus Zone,2024-11-13 01:58:32,3,Prescription Narcotics / Codeine / Alprazolam,16.39,KG,WAREHOUSE_RAID
+SEZ-2026-00971,2,Coimbatore,Coimbatore East Industrial Bypass,2025-02-19 07:57:45,2,Synthetic Stimulants / MDMA / Meth,43.30,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-00972,29,Sivaganga,Sivaganga East Market,2025-02-10 18:27:44,6,Unclassified / Suspicious Substance,24.11,KG,WAREHOUSE_RAID
+SEZ-2026-00973,15,Tenkasi,Tenkasi North Campus Zone,2025-04-21 10:54:21,6,Unclassified / Suspicious Substance,26.91,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00974,19,Cuddalore,Cuddalore East Market,2025-07-08 09:26:33,5,Opioid Analogues / Brown Sugar / Heroin,32.93,VIALS,WAREHOUSE_RAID
+SEZ-2026-00975,4,Salem,Salem South Industrial Bypass,2026-04-18 22:32:50,1,Commercial Ganja / Cannabis,27.20,KG,WAREHOUSE_RAID
+SEZ-2026-00976,26,Ariyalur,Ariyalur Central Campus Zone,2025-04-24 10:48:44,4,Chemical Precursors / Ephedrine,4.81,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00977,30,Ramanathapuram,Ramanathapuram Central Campus Zone,2024-09-23 20:15:56,2,Synthetic Stimulants / MDMA / Meth,34.09,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00978,12,Thanjavur,Thanjavur Central Market,2024-10-17 23:53:36,6,Unclassified / Suspicious Substance,16.47,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-00979,34,Nagapattinam,Nagapattinam North Campus Zone,2026-05-29 02:41:15,6,Unclassified / Suspicious Substance,39.67,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00980,1,Chennai,Chennai East Market,2026-03-23 13:52:30,6,Unclassified / Suspicious Substance,43.59,LITRES,WAREHOUSE_RAID
+SEZ-2026-00981,23,Namakkal,Namakkal West Industrial Bypass,2025-02-18 10:16:06,3,Prescription Narcotics / Codeine / Alprazolam,35.45,VIALS,WAREHOUSE_RAID
+SEZ-2026-00982,3,Madurai,Madurai East Industrial Bypass,2025-04-10 06:41:01,4,Chemical Precursors / Ephedrine,5.51,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00983,8,Tiruppur,Tiruppur Central Market,2025-06-13 09:33:42,4,Chemical Precursors / Ephedrine,7.14,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00984,36,Ranipet,Ranipet Central Market,2025-08-01 16:13:57,2,Synthetic Stimulants / MDMA / Meth,13.70,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00985,11,Dindigul,Dindigul South Market,2026-04-18 08:09:24,4,Chemical Precursors / Ephedrine,17.36,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-00986,18,Tiruvallur,Tiruvallur Central Campus Zone,2025-11-22 10:30:11,3,Prescription Narcotics / Codeine / Alprazolam,27.51,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-00987,29,Sivaganga,Sivaganga North Market,2025-08-05 20:03:25,1,Commercial Ganja / Cannabis,43.70,LITRES,WAREHOUSE_RAID
+SEZ-2026-00988,33,Thiruvarur,Thiruvarur West Market,2026-03-18 13:20:33,4,Chemical Precursors / Ephedrine,36.12,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00989,2,Coimbatore,Coimbatore North Industrial Bypass,2024-09-27 23:29:23,5,Opioid Analogues / Brown Sugar / Heroin,24.14,LITRES,WAREHOUSE_RAID
+SEZ-2026-00990,28,Pudukkottai,Pudukkottai North Campus Zone,2025-12-23 18:34:47,6,Unclassified / Suspicious Substance,14.77,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00991,31,Virudhunagar,Virudhunagar East Market,2025-05-05 12:24:05,1,Commercial Ganja / Cannabis,9.41,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-00992,11,Dindigul,Dindigul North Industrial Bypass,2025-10-16 02:32:05,6,Unclassified / Suspicious Substance,14.25,KG,WAREHOUSE_RAID
+SEZ-2026-00993,35,Mayiladuthurai,Mayiladuthurai East Market,2026-06-15 23:36:19,4,Chemical Precursors / Ephedrine,27.59,VIALS,WAREHOUSE_RAID
+SEZ-2026-00994,13,Thoothukudi,Thoothukudi Central Market,2026-06-01 23:40:31,3,Prescription Narcotics / Codeine / Alprazolam,24.49,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00995,5,Tiruchirappalli,Tiruchirappalli North Campus Zone,2025-02-20 10:24:39,5,Opioid Analogues / Brown Sugar / Heroin,41.19,VIALS,WAREHOUSE_RAID
+SEZ-2026-00996,8,Tiruppur,Tiruppur West Campus Zone,2024-10-14 21:51:32,2,Synthetic Stimulants / MDMA / Meth,35.85,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00997,28,Pudukkottai,Pudukkottai East Market,2025-02-24 15:55:57,3,Prescription Narcotics / Codeine / Alprazolam,45.27,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-00998,6,Tirunelveli,Tirunelveli East Industrial Bypass,2026-05-31 08:12:43,2,Synthetic Stimulants / MDMA / Meth,32.62,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-00999,21,Kallakurichi,Kallakurichi Central Industrial Bypass,2026-06-26 16:50:57,1,Commercial Ganja / Cannabis,21.50,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-01000,7,Erode,Erode South Campus Zone,2026-04-18 09:38:57,4,Chemical Precursors / Ephedrine,26.74,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-01001,12,Thanjavur,Thanjavur West Industrial Bypass,2025-03-30 00:29:30,1,Commercial Ganja / Cannabis,15.96,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-01002,38,Tiruvannamalai,Tiruvannamalai North Market,2025-11-10 00:53:58,4,Chemical Precursors / Ephedrine,11.37,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-01003,18,Tiruvallur,Tiruvallur Central Market,2025-08-04 16:36:29,4,Chemical Precursors / Ephedrine,22.82,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-01004,21,Kallakurichi,Kallakurichi South Campus Zone,2025-08-30 21:50:42,4,Chemical Precursors / Ephedrine,26.29,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-01005,23,Namakkal,Namakkal North Industrial Bypass,2024-12-22 18:33:32,6,Unclassified / Suspicious Substance,41.52,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-01006,31,Virudhunagar,Virudhunagar East Industrial Bypass,2025-01-08 04:57:49,1,Commercial Ganja / Cannabis,40.17,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-01007,13,Thoothukudi,Thoothukudi South Campus Zone,2026-02-16 22:09:15,3,Prescription Narcotics / Codeine / Alprazolam,43.47,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-01008,33,Thiruvarur,Thiruvarur Central Market,2025-07-25 14:33:13,6,Unclassified / Suspicious Substance,6.75,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-01009,8,Tiruppur,Tiruppur South Industrial Bypass,2025-06-02 07:36:28,4,Chemical Precursors / Ephedrine,2.69,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-01010,32,Theni,Theni North Campus Zone,2024-09-19 13:45:07,3,Prescription Narcotics / Codeine / Alprazolam,39.61,VIALS,WAREHOUSE_RAID
+SEZ-2026-01011,38,Tiruvannamalai,Tiruvannamalai South Campus Zone,2025-07-20 21:00:38,2,Synthetic Stimulants / MDMA / Meth,1.69,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-01012,8,Tiruppur,Tiruppur East Campus Zone,2025-10-22 13:36:59,3,Prescription Narcotics / Codeine / Alprazolam,36.74,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-01013,29,Sivaganga,Sivaganga North Industrial Bypass,2025-03-14 17:33:30,3,Prescription Narcotics / Codeine / Alprazolam,14.59,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-01014,4,Salem,Salem South Industrial Bypass,2026-04-02 10:31:30,1,Commercial Ganja / Cannabis,22.38,LITRES,WAREHOUSE_RAID
+SEZ-2026-01015,12,Thanjavur,Thanjavur South Market,2026-07-22 20:53:15,5,Opioid Analogues / Brown Sugar / Heroin,32.14,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-01016,36,Ranipet,Ranipet East Industrial Bypass,2026-06-22 03:11:28,1,Commercial Ganja / Cannabis,20.68,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-01017,4,Salem,Salem Central Market,2026-02-05 18:09:20,1,Commercial Ganja / Cannabis,27.61,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-01018,20,Viluppuram,Viluppuram West Market,2025-10-31 08:08:06,3,Prescription Narcotics / Codeine / Alprazolam,7.61,VIALS,HIGHWAY_INTERCEPTION
+SEZ-2026-01019,17,Chengalpattu,Chengalpattu West Market,2025-01-03 20:44:27,6,Unclassified / Suspicious Substance,13.29,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-01020,16,Kancheepuram,Kancheepuram Central Market,2025-01-08 05:19:06,3,Prescription Narcotics / Codeine / Alprazolam,6.06,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-01021,36,Ranipet,Ranipet West Industrial Bypass,2025-10-02 03:12:26,3,Prescription Narcotics / Codeine / Alprazolam,31.02,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-01022,36,Ranipet,Ranipet West Campus Zone,2026-07-06 02:12:42,2,Synthetic Stimulants / MDMA / Meth,43.56,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-01023,36,Ranipet,Ranipet North Market,2025-04-28 05:44:35,5,Opioid Analogues / Brown Sugar / Heroin,31.15,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-01024,6,Tirunelveli,Tirunelveli Central Industrial Bypass,2025-04-08 00:15:46,5,Opioid Analogues / Brown Sugar / Heroin,30.54,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-01025,19,Cuddalore,Cuddalore North Industrial Bypass,2025-08-18 22:25:36,3,Prescription Narcotics / Codeine / Alprazolam,17.03,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-01026,3,Madurai,Madurai East Market,2025-09-21 23:38:25,3,Prescription Narcotics / Codeine / Alprazolam,8.38,KG,WAREHOUSE_RAID
+SEZ-2026-01027,24,Nilgiris,Nilgiris South Market,2025-03-04 23:46:54,2,Synthetic Stimulants / MDMA / Meth,4.32,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-01028,9,Vellore,Vellore East Market,2024-10-09 03:09:49,4,Chemical Precursors / Ephedrine,14.95,VIALS,WAREHOUSE_RAID
+SEZ-2026-01029,3,Madurai,Madurai East Market,2025-12-09 14:53:28,3,Prescription Narcotics / Codeine / Alprazolam,24.17,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-01030,27,Perambalur,Perambalur West Market,2024-09-29 08:20:09,1,Commercial Ganja / Cannabis,8.81,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-01031,19,Cuddalore,Cuddalore West Campus Zone,2026-06-05 05:26:26,1,Commercial Ganja / Cannabis,34.97,LITRES,WAREHOUSE_RAID
+SEZ-2026-01032,37,Tirupathur,Tirupathur South Market,2025-09-27 19:58:10,5,Opioid Analogues / Brown Sugar / Heroin,21.95,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-01033,8,Tiruppur,Tiruppur North Campus Zone,2026-04-09 20:34:07,4,Chemical Precursors / Ephedrine,37.40,LITRES,HIGHWAY_INTERCEPTION
+SEZ-2026-01034,19,Cuddalore,Cuddalore West Market,2026-07-06 17:54:23,1,Commercial Ganja / Cannabis,40.69,VIALS,POSTAL_PARCEL_HOLD
+SEZ-2026-01035,28,Pudukkottai,Pudukkottai South Industrial Bypass,2025-03-31 13:17:54,2,Synthetic Stimulants / MDMA / Meth,40.56,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-01036,5,Tiruchirappalli,Tiruchirappalli East Market,2025-10-15 06:52:10,5,Opioid Analogues / Brown Sugar / Heroin,25.88,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-01037,31,Virudhunagar,Virudhunagar North Market,2026-06-08 04:37:10,2,Synthetic Stimulants / MDMA / Meth,36.36,BLISTER_STRIPS,HIGHWAY_INTERCEPTION
+SEZ-2026-01038,17,Chengalpattu,Chengalpattu South Industrial Bypass,2025-02-20 12:42:11,6,Unclassified / Suspicious Substance,33.39,LITRES,WAREHOUSE_RAID
+SEZ-2026-01039,22,Dharmapuri,Dharmapuri South Industrial Bypass,2026-06-04 01:31:13,5,Opioid Analogues / Brown Sugar / Heroin,23.69,KG,HIGHWAY_INTERCEPTION
+SEZ-2026-01040,28,Pudukkottai,Pudukkottai North Campus Zone,2025-07-03 23:53:48,6,Unclassified / Suspicious Substance,30.36,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-01041,17,Chengalpattu,Chengalpattu North Campus Zone,2024-10-22 08:35:48,2,Synthetic Stimulants / MDMA / Meth,11.98,VIALS,WAREHOUSE_RAID
+SEZ-2026-01042,11,Dindigul,Dindigul South Industrial Bypass,2026-06-15 01:17:41,5,Opioid Analogues / Brown Sugar / Heroin,32.17,LITRES,POSTAL_PARCEL_HOLD
+SEZ-2026-01043,28,Pudukkottai,Pudukkottai North Industrial Bypass,2024-12-21 09:36:13,5,Opioid Analogues / Brown Sugar / Heroin,5.49,VIALS,WAREHOUSE_RAID
+SEZ-2026-01044,8,Tiruppur,Tiruppur South Industrial Bypass,2025-12-07 07:15:32,4,Chemical Precursors / Ephedrine,8.07,BLISTER_STRIPS,POSTAL_PARCEL_HOLD
+SEZ-2026-01045,7,Erode,Erode South Campus Zone,2026-03-01 18:38:16,2,Synthetic Stimulants / MDMA / Meth,45.33,KG,WAREHOUSE_RAID
+SEZ-2026-01046,14,Kanniyakumari,Kanniyakumari East Market,2025-02-10 06:28:30,5,Opioid Analogues / Brown Sugar / Heroin,27.04,KG,POSTAL_PARCEL_HOLD
+SEZ-2026-01047,37,Tirupathur,Tirupathur East Market,2024-10-01 02:32:39,4,Chemical Precursors / Ephedrine,27.47,BLISTER_STRIPS,WAREHOUSE_RAID
+SEZ-2026-01048,38,Tiruvannamalai,Tiruvannamalai North Campus Zone,2024-10-19 22:14:21,3,Prescription Narcotics / Codeine / Alprazolam,14.08,VIALS,WAREHOUSE_RAID
+SEZ-2026-01049,23,Namakkal,Namakkal South Campus Zone,2025-10-12 10:52:48,1,Commercial Ganja / Cannabis,16.97,LITRES,WAREHOUSE_RAID
+SEZ-2026-01050,28,Pudukkottai,Pudukkottai East Market,2025-01-21 10:12:36,2,Synthetic Stimulants / MDMA / Meth,8.76,BLISTER_STRIPS,HIGHWAY_INTERCEPTION

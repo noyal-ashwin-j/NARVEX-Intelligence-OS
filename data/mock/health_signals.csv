@@ -1,0 +1,6 @@
+health_signal_id,facility_name,district_name,taluk_name,reporting_date,signal_type,patient_age_group,primary_substance,intake_count,severity_level,notes
+HLT-2026-001,Coimbatore Medical College Hospital,Coimbatore,Coimbatore South,2026-08-14,ACUTE_TOXICITY_ADMISSION,18-25,SYNTHETIC_MDMA,4,CRITICAL,Aggregate emergency casualty intake with severe stimulant toxicity
+HLT-2026-002,Kilpauk Institute of Mental Health,Chennai,Kilpauk,2026-08-16,WITHDRAWAL_MANAGEMENT,19-28,PRESCRIPTION_OPIOIDS,7,HIGH,Spike in weekly voluntary counseling and withdrawal admissions
+HLT-2026-003,Madurai Rajaji Govt Hospital,Madurai,Madurai South,2026-08-15,OVERDOSE_RESPONSE,20-30,OPIOID_DERIVATIVE,3,HIGH,Emergency department stabilization reports
+HLT-2026-004,Salem Govt Mohan Kumaramangalam Hospital,Salem,Salem,2026-08-13,ACUTE_INTOXICATION,18-26,SYNTHETIC_TABLETS,3,HIGH,Cluster of localized emergency admissions from university area
+HLT-2026-005,Tirunelveli Medical College Hospital,Tirunelveli,Palayamkottai,2026-08-12,DETOX_ADMISSION,22-35,ALCOHOL_SEDATIVE_MIX,5,MEDIUM,Routine clinical detox admissions

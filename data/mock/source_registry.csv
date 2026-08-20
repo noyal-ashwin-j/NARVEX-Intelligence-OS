@@ -1,0 +1,9 @@
+source_id,source_key,source_name,source_type,reliability_weight,description
+1,POLICE_FIR,Law Enforcement Station Record,ENFORCEMENT,0.95,Authorized police station first information report or statutory seizure log
+2,CHECKPOST_LOG,Interstate/Interdistrict Checkpost Telemetry,CHECKPOST,0.90,Vehicular border inspection weighbridge & automated scanner telemetry
+3,CITIZEN_ANON,Anonymous Citizen Intelligence Portal,CITIZEN,0.50,Unverified public tip requiring corroboration and verification
+4,HELPLINE_1058,State Anti-Drug Helpline 1058,HELPLINE,0.65,Toll-free telephonic public intake registry
+5,HEALTH_AGGREGATE,Health & Rehabilitation Aggregate Signal,HEALTH_AGGREGATE,0.80,Aggregated non-PII medical / detox center service demand
+6,STF_INTEL,Special Task Force Intelligence Unit,ENFORCEMENT,0.95,Dedicated state narcotics intelligence unit field log
+7,COURT_RECORD,Judicial Disposition / NDPS Case Record,GOVT_DEPT,0.92,Court charge-sheets and judicial case tracking records
+8,FIELD_OFFICER,District Intelligence Field Officer Memo,COMMUNITY_ORGANIZATION,0.85,Field verification notes and local officer reconnaissance memo

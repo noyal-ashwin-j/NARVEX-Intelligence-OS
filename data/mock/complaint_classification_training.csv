@@ -1,0 +1,9 @@
+text_sample,annotated_category,annotated_severity,annotated_source_type,annotated_priority
+"Commercial parcel consignment containing synthetic stimulant tablets intercepted at terminal.",SEIZURE_ENFORCEMENT,HIGH,POLICE,HIGH
+"Suspicious exchange of packets observed late evening behind college bus shed.",SUPPLY_SALE,HIGH,CITIZEN,HIGH
+"Heavy container truck detained at interstate border checkpost with hidden floor cavity.",TRANSPORT_TRANSIT,HIGH,CHECKPOST,HIGH
+"Emergency casualty admission of three young adults showing acute stimulant overdose symptoms.",HEALTH_EMERGENCY,CRITICAL,HEALTH_AGGREGATE,URGENT
+"Voluntary inquiry regarding student counseling and de-addiction rehabilitation services.",REHAB_SERVICE_NEED,LOW,HELPLINE,LOW
+"Routine highway weighbridge screening logged normal transit density.",TRANSPORT_TRANSIT,LOW,CHECKPOST,LOW
+"Unverified report of loitering in abandoned godown near village junction.",COMMUNITY_CONCERN,MEDIUM,CITIZEN,MEDIUM
+"Police station raid on unauthorized industrial godown processing chemical solvents.",SEIZURE_ENFORCEMENT,CRITICAL,POLICE,URGENT

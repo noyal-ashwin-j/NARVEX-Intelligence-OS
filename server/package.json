@@ -1,0 +1,33 @@
+{
+  "name": "narc-intel-server",
+  "version": "1.0.0",
+  "description": "Statewide Narcotic Intelligence & Preventive Risk Monitoring Platform API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node database/importDatasets.js",
+    "generate:data": "node ../tools/build_static_datasets.js",
+    "validate:data": "node scripts/validateSyntheticData.js",
+    "import:data": "node database/importDatasets.js",
+    "test": "node test.js",
+    "test:intelligence": "node test.js",
+    "test:all-districts": "node testAllDistricts.js",
+    "test:simulation": "node testSimulation.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mammoth": "^1.12.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.10.1",
+    "papaparse": "^5.4.1",
+    "pdf-parse": "^2.4.5",
+    "tesseract.js": "^7.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
