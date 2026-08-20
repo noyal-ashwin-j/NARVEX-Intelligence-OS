@@ -327,23 +327,34 @@ export async function resolveGeographicLocation({ locationText = '', districtMen
     }
   }
 
-  // 2. Direct match on District Name / Code
+function getDeterministicSpatialOffset(str, seed = 1) {
+  let hash = 0;
+  for (let i = 0; i < (str || '').length; i++) {
+    hash = (hash << 5) - hash + str.charCodeAt(i) * seed;
+    hash |= 0;
+  }
+  // Returns deterministic offset between -0.015 and +0.015
+  const normalized = (Math.abs(hash) % 1000) / 1000;
+  return normalized * 0.03 - 0.015;
+}
+
+// 2. Direct match on District Name / Code
   const cleanDistrict = (districtMention || '').trim().toLowerCase();
   if (cleanDistrict) {
     const exactDist = districts.find(
       (d) => d.name.toLowerCase() === cleanDistrict || d.code.toLowerCase() === cleanDistrict
     );
     if (exactDist) {
-      // Perturb coordinates slightly for unique cluster display
-      const jitterLat = parseFloat(exactDist.center_lat) + (Math.random() * 0.03 - 0.015);
-      const jitterLng = parseFloat(exactDist.center_lng) + (Math.random() * 0.03 - 0.015);
+      // Deterministic coordinate offset based on location string
+      const offsetLat = getDeterministicSpatialOffset(locationText, 13);
+      const offsetLng = getDeterministicSpatialOffset(locationText, 29);
 
       return {
         resolved: true,
         district: exactDist,
         locationName: locationText.trim() || exactDist.name,
-        lat: jitterLat,
-        lng: jitterLng,
+        lat: parseFloat(exactDist.center_lat) + offsetLat,
+        lng: parseFloat(exactDist.center_lng) + offsetLng,
         resolutionMethod: 'DIRECT_DISTRICT_FIELD',
         confidence: 92.0
       };
@@ -359,15 +370,15 @@ export async function resolveGeographicLocation({ locationText = '', districtMen
     if (regex.test(lowerText)) {
       const matchedDist = districts.find((d) => d.name.toLowerCase() === targetDistName.toLowerCase());
       if (matchedDist) {
-        const jitterLat = parseFloat(matchedDist.center_lat) + (Math.random() * 0.03 - 0.015);
-        const jitterLng = parseFloat(matchedDist.center_lng) + (Math.random() * 0.03 - 0.015);
+        const offsetLat = getDeterministicSpatialOffset(locality, 17);
+        const offsetLng = getDeterministicSpatialOffset(locality, 31);
 
         return {
           resolved: true,
           district: matchedDist,
           locationName: locationText.trim() || locality.toUpperCase(),
-          lat: jitterLat,
-          lng: jitterLng,
+          lat: parseFloat(matchedDist.center_lat) + offsetLat,
+          lng: parseFloat(matchedDist.center_lng) + offsetLng,
           resolutionMethod: 'KNOWN_LOCALITY_DICTIONARY',
           confidence: 88.0
         };
@@ -379,15 +390,15 @@ export async function resolveGeographicLocation({ locationText = '', districtMen
   for (const dist of districts) {
     const regex = new RegExp(`\\b${dist.name}\\b`, 'i');
     if (regex.test(lowerText)) {
-      const jitterLat = parseFloat(dist.center_lat) + (Math.random() * 0.03 - 0.015);
-      const jitterLng = parseFloat(dist.center_lng) + (Math.random() * 0.03 - 0.015);
+      const offsetLat = getDeterministicSpatialOffset(dist.name, 23);
+      const offsetLng = getDeterministicSpatialOffset(dist.name, 37);
 
       return {
         resolved: true,
         district: dist,
         locationName: locationText.trim() || dist.name,
-        lat: jitterLat,
-        lng: jitterLng,
+        lat: parseFloat(dist.center_lat) + offsetLat,
+        lng: parseFloat(dist.center_lng) + offsetLng,
         resolutionMethod: 'FREE_TEXT_DISTRICT_NAME',
         confidence: 85.0
       };
