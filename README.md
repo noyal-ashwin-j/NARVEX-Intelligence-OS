@@ -3,6 +3,7 @@
 > **Smart India Hackathon (SIH 2026)**  
 > **Author & Lead Architect**: **Noyal Ashwin J**  
 > **Team / Unit**: **VBE Coding**  
+> **Tech Stack**: **Java 17 (Core Security Ledger)** • **Python 3.11 (AI/ML Pipeline)** • **JavaScript/React (MapCN Dashboard)**  
 > **Repository**: [https://github.com/noyal-ashwin-j/NARVEX-Intelligence-OS](https://github.com/noyal-ashwin-j/NARVEX-Intelligence-OS)
 
 ---
@@ -10,17 +11,16 @@
 ```text
                ┌─────────────────────────────────────────────────────────┐
                │                 NARVEX INTELLIGENCE OS                  │
-               │   State-Level Anti-Narcotic Preventive Command System   │
+               │   Java Core + Python ML + JS MapCN Command System       │
                └────────────────────────────┬────────────────────────────┘
                                             │
     ┌───────────────────────────────────────┼───────────────────────────────────────┐
     ▼                                       ▼                                       ▼
 +-----------------------+       +-----------------------+       +-----------------------+
-| 1. EVIDENCE ENGINE    |       | 2. SPATIAL CORRIDORS  |       | 3. DECISION SUPPORT   |
-| Raw Ingestion (PDF/   |       | Multi-Scope MapCN     |       | Statistical Ridge     |
-| CSV/XLSX), SHA-256    | ────➔ | (World, India, TN),   | ────➔ | Forecasts, "WHY"      |
-| Document Hashing,     |       | Emerging Zone Engine  |       | Evidence Panels,      |
-| MySQL Source of Truth |       | & Waterbed Shift Check|       | NARVEX AI Assistant   |
+| 1. JAVA CORE ENGINE   |       | 2. PYTHON ML ENGINE   |       | 3. JS MAPCN DASHBOARD |
+| SHA-256 Block Chain,  | ────➔ | Ridge Forecasting,    | ────➔ | World/India/TN 3D     |
+| Tripartite Risk Math, |       | Observational Bias ML,|       | MapCN Layers, Voice & |
+| Sovereign Ledger      |       | Waterbed Shift Check  |       | Webcam Control        |
 +-----------------------+       +-----------------------+       +-----------------------+
 ```
 
