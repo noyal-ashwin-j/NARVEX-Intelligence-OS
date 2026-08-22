@@ -16,9 +16,12 @@
 5. [Key Implemented Features & MapCN Architecture](#-5-key-implemented-features--mapcn-architecture)
 6. [5 Advanced Strategic Intelligence Modules (NARVEX 2.0)](#-6-5-advanced-strategic-intelligence-modules-narvex-20)
 7. [API Endpoint Directory](#-7-api-endpoint-directory)
-8. [Installation & Setup Manual](#-8-installation--setup-manual)
-9. [Automated Verification & Master Audit Suite](#-9-automated-verification--master-audit-suite)
-10. [Author & Credit Information](#-10-author--credit-information)
+6. [System Drawbacks & Enterprise Scaling Roadmap](#-6-system-drawbacks--enterprise-scaling-roadmap)
+7. [5 Advanced Strategic Intelligence Modules (NARVEX 2.0)](#-7-5-advanced-strategic-intelligence-modules-narvex-20)
+8. [API Endpoint Directory](#-8-api-endpoint-directory)
+9. [Installation & Setup Manual](#-9-installation--setup-manual)
+10. [Automated Verification & Master Audit Suite](#-10-automated-verification--master-audit-suite)
+11. [Author & Credit Information](#-11-author--credit-information)
 
 ---
 
