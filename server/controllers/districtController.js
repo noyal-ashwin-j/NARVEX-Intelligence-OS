@@ -78,10 +78,10 @@ export async function getAllDistricts(req, res) {
         query += ' ORDER BY d.confidence_score DESC, verified_events_count DESC';
         break;
       case 'recent_trend':
-        query += ' ORDER BY recent_signal_count DESC, d.name ASC';
+        query += ' ORDER BY recent_signal_count DESC, d.district_name ASC';
         break;
       case 'alpha':
-        query += ' ORDER BY d.name ASC';
+        query += ' ORDER BY d.district_name ASC';
         break;
       case 'priority':
       default:
@@ -153,9 +153,9 @@ export async function getDistrictById(req, res) {
     const district = districtRows[0];
 
     // Fetch taluks, police stations, checkposts
-    const [taluks] = await pool.query('SELECT * FROM taluks WHERE district_id = ? ORDER BY name ASC', [district.id]);
-    const [policeStations] = await pool.query('SELECT * FROM police_stations WHERE district_id = ? ORDER BY name ASC', [district.id]);
-    const [checkposts] = await pool.query('SELECT * FROM checkposts WHERE district_id = ? ORDER BY name ASC', [district.id]);
+    const [taluks] = await pool.query('SELECT * FROM taluks WHERE district_id = ? ORDER BY id ASC', [district.id]);
+    const [policeStations] = await pool.query('SELECT * FROM police_stations WHERE district_id = ? ORDER BY id ASC', [district.id]);
+    const [checkposts] = await pool.query('SELECT * FROM checkposts WHERE district_id = ? ORDER BY id ASC', [district.id]);
 
     // Fetch active alerts for this district
     const [alerts] = await pool.query(

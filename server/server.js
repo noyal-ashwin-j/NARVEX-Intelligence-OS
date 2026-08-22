@@ -5,8 +5,10 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import apiRouter from './routes/api.js';
 import { testConnection } from './database/db.js';
+import { initSecurityTables, validateStartupSecrets } from './services/securityHardeningService.js';
 
 dotenv.config();
+validateStartupSecrets();
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -68,4 +70,10 @@ app.listen(PORT, async () => {
   console.log(`========================================================`);
   const conn = await testConnection();
   console.log(`📊  Database Status:`, conn.ok ? 'CONNECTED TO narvex' : conn.error);
+  try {
+    await initSecurityTables();
+    console.log(`🔒  Security Envelope: Active (Zero-Trust Session Registry & SIEM Ready)`);
+  } catch (err) {
+    console.error(`⚠️  Security Table Init Error:`, err.message);
+  }
 });

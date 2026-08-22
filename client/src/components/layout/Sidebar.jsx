@@ -1,6 +1,6 @@
-import React from 'react';
 import {
   LayoutDashboard,
+  LayoutGrid,
   Building2,
   Map,
   UploadCloud,
@@ -26,6 +26,13 @@ export function Sidebar({ activeTab, setActiveTab }) {
       id: 'command-center',
       label: 'State Command Center',
       icon: LayoutDashboard,
+      roles: ['STATE_ADMIN']
+    },
+    // Super Admin Only
+    {
+      id: 'district-grid',
+      label: '38-District Grid',
+      icon: LayoutGrid,
       roles: ['STATE_ADMIN']
     },
     // Super Admin & District Officer
@@ -82,6 +89,13 @@ export function Sidebar({ activeTab, setActiveTab }) {
       id: 'audit-trail',
       label: 'SHA-256 Audit Trail',
       icon: FileCheck2,
+      roles: ['STATE_ADMIN']
+    },
+    // Security Center (Super Admin Only)
+    {
+      id: 'security-center',
+      label: 'Zero-Trust Security Center',
+      icon: ShieldCheck,
       roles: ['STATE_ADMIN']
     },
     // Citizen Portal (Public & Citizen Role Only)

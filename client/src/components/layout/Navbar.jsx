@@ -4,6 +4,7 @@ import { useAuth } from '../../context/AuthContext';
 import { useFilters } from '../../context/FilterContext';
 import { useTheme } from '../../context/ThemeContext';
 import { api } from '../../services/api';
+import { NarvexCaseReplayModal } from '../admin/NarvexCaseReplayModal';
 
 export function Navbar({ onOpenSearch, onOpenAbout, onOpenAssistant, onOpenFeed }) {
   const { user, logout, login } = useAuth();
@@ -13,6 +14,7 @@ export function Navbar({ onOpenSearch, onOpenAbout, onOpenAssistant, onOpenFeed 
   const [timeStr, setTimeStr] = useState('');
   const [seedAccounts, setSeedAccounts] = useState([]);
   const [showRoleMenu, setShowRoleMenu] = useState(false);
+  const [isCaseReplayOpen, setIsCaseReplayOpen] = useState(false);
 
   useEffect(() => {
     const updateTime = () => {
@@ -61,15 +63,16 @@ export function Navbar({ onOpenSearch, onOpenAbout, onOpenAssistant, onOpenFeed 
           </div>
           <div>
             <div className="flex items-center gap-2">
-              <span className="font-semibold text-base tracking-tight text-slate-900 dark:text-white uppercase font-space">
-                NARVEX <span className="text-[#22D3EE]">INTELLIGENCE</span>
+              <span className="font-bold text-base tracking-tight text-slate-900 dark:text-white uppercase font-space">
+                NARVEX <span className="text-[#22D3EE]">INTELLIGENCE OS</span>
               </span>
-              <span className="hidden md:inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md text-[11px] font-medium font-inter uppercase tracking-[0.5px] bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700">
-                {user?.roleKey === 'DISTRICT_OFFICER' ? `${user?.districtName || 'DISTRICT'} NODE` : 'STATE COMMAND NODE'}
+              <span className="hidden md:inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-[10px] font-semibold font-mono uppercase tracking-[0.5px] bg-cyan-950 text-cyan-300 border border-cyan-800/60 shadow-sm">
+                <span className="w-1.5 h-1.5 rounded-full bg-cyan-400 animate-ping" />
+                {user?.roleKey === 'DISTRICT_OFFICER' ? `${user?.districtName || 'DISTRICT'} JURISDICTION` : 'STATE SOVEREIGN COMMAND'}
               </span>
             </div>
             <p className="hidden sm:block text-[11px] text-slate-500 dark:text-slate-400 font-normal">
-              State-Level Narcotic Intelligence & Preventive Risk Monitoring Platform
+              Cross-Agency Signal Correlation • Observed Transit Corridors • 30-Day Preventive Forecasts
             </p>
           </div>
         </div>
@@ -93,6 +96,18 @@ export function Navbar({ onOpenSearch, onOpenAbout, onOpenAssistant, onOpenFeed 
             >
               <UploadCloud className="w-4 h-4" />
               <span className="hidden sm:inline">+ Feed Intelligence</span>
+            </button>
+          )}
+
+          {/* Scenario Case Replay Modal Trigger */}
+          {!isCitizen && (
+            <button
+              onClick={() => setIsCaseReplayOpen(true)}
+              className="flex items-center gap-1.5 px-3 py-2 rounded-xl bg-cyan-950/80 hover:bg-cyan-900 text-cyan-300 border border-cyan-500/40 font-semibold text-[11px] uppercase tracking-[0.5px] shadow-sm transition-all cursor-pointer"
+              title="End-to-End Intelligence Scenario Replay & Verification"
+            >
+              <Activity className="w-4 h-4 text-cyan-400 animate-pulse" />
+              <span className="hidden lg:inline">Case Replay</span>
             </button>
           )}
 
@@ -219,6 +234,11 @@ export function Navbar({ onOpenSearch, onOpenAbout, onOpenAssistant, onOpenFeed 
           </div>
         </div>
       </div>
+
+      <NarvexCaseReplayModal
+        isOpen={isCaseReplayOpen}
+        onClose={() => setIsCaseReplayOpen(false)}
+      />
     </header>
   );
 }

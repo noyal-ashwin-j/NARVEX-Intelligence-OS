@@ -7,6 +7,9 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
   plugins: [react()],
+  optimizeDeps: {
+    exclude: ['maplibre-gl']
+  },
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'mapcn/src')

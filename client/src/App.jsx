@@ -15,6 +15,7 @@ import { Bot, Sparkles } from 'lucide-react';
 import { FeedIntelligenceModal } from './components/ingestion/FeedIntelligenceModal';
 import { LoginPage } from './pages/LoginPage';
 import { StateCommandCenter } from './pages/StateCommandCenter';
+import { DistrictSurveillanceGridPage } from './pages/DistrictSurveillanceGridPage';
 import { DistrictIntelligencePage } from './pages/DistrictIntelligencePage';
 import { GISMapPage } from './pages/GISMapPage';
 import { CitizenReportingPage } from './pages/CitizenReportingPage';
@@ -25,6 +26,8 @@ import { SpatialTemporalPage } from './pages/SpatialTemporalPage';
 import { ForecastGovernancePage } from './pages/ForecastGovernancePage';
 import { ActionManagementPage } from './pages/ActionManagementPage';
 import { AuditTrailPage } from './pages/AuditTrailPage';
+import { SecurityCommandCenter } from './pages/SecurityCommandCenter';
+import { ErrorBoundary } from './components/common/ErrorBoundary';
 
 function getDefaultTabForRole(roleKey) {
   switch (roleKey) {
@@ -49,7 +52,7 @@ function MainAppShell() {
   const [inspectEventId, setInspectEventId] = useState(null);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [isAboutOpen, setIsAboutOpen] = useState(false);
-  const [isAssistantOpen, setIsAssistantOpen] = useState(true);
+  const [isAssistantOpen, setIsAssistantOpen] = useState(false);
   const [isFeedModalOpen, setIsFeedModalOpen] = useState(false);
   const [trackingTokenPreload, setTrackingTokenPreload] = useState('');
   const [isPublicMode, setIsPublicMode] = useState(false);
@@ -103,6 +106,17 @@ function MainAppShell() {
       }
     }
   }, [user?.roleKey, user?.districtId, isPublicMode]);
+
+  // Role guard for activeTab
+  useEffect(() => {
+    const role = user?.roleKey || 'STATE_ADMIN';
+    if (role === 'DISTRICT_OFFICER' && activeTab === 'command-center') {
+      setActiveTab('district-intel');
+    }
+    if (role === 'CITIZEN_REPORTER' && !['citizen-portal', 'citizen-track'].includes(activeTab)) {
+      setActiveTab('citizen-portal');
+    }
+  }, [user?.roleKey, activeTab]);
 
   if (loading) {
     return (
@@ -183,18 +197,7 @@ function MainAppShell() {
     );
   }
 
-  // Role guard for activeTab
   const role = user?.roleKey || 'STATE_ADMIN';
-
-  // Ensure District Officer cannot land on statewide command center
-  if (role === 'DISTRICT_OFFICER' && activeTab === 'command-center') {
-    setActiveTab('district-intel');
-  }
-
-  // Ensure Citizen Reporter cannot browse intelligence tabs
-  if (role === 'CITIZEN_REPORTER' && !['citizen-portal', 'citizen-track'].includes(activeTab)) {
-    setActiveTab('citizen-portal');
-  }
 
   const handleSelectDistrict = (dtId) => {
     // Only State Admin can change to another district
@@ -232,54 +235,70 @@ function MainAppShell() {
 
         {/* Dynamic Main Stage View */}
         <main className="flex-1 p-4 lg:p-6 overflow-y-auto max-h-[calc(100vh-4rem)]">
-          {activeTab === 'command-center' && role === 'STATE_ADMIN' && (
-            <StateCommandCenter onSelectDistrict={handleSelectDistrict} />
-          )}
+          <ErrorBoundary>
+            {activeTab === 'command-center' && role === 'STATE_ADMIN' && (
+              <StateCommandCenter
+                onSelectDistrict={handleSelectDistrict}
+                onNavigateTab={(tab) => setActiveTab(tab)}
+                onOpenFeed={() => setIsFeedModalOpen(true)}
+              />
+            )}
 
-          {activeTab === 'district-intel' && (
-            <DistrictIntelligencePage
-              districtId={role === 'DISTRICT_OFFICER' ? (user.districtId || 2) : selectedDistrictId}
-              onBackToState={role === 'STATE_ADMIN' ? () => setActiveTab('command-center') : undefined}
-              onSelectEvent={handleSelectEvent}
-              onSelectZone={(z) => console.log('Selected zone:', z)}
-            />
-          )}
+            {activeTab === 'district-grid' && role === 'STATE_ADMIN' && (
+              <DistrictSurveillanceGridPage
+                onSelectDistrict={handleSelectDistrict}
+              />
+            )}
 
-          {activeTab === 'gis-map' && (
-            <GISMapPage onSelectEvent={handleSelectEvent} />
-          )}
+            {activeTab === 'district-intel' && (
+              <DistrictIntelligencePage
+                districtId={role === 'DISTRICT_OFFICER' ? (user.districtId || 2) : selectedDistrictId}
+                onBackToState={role === 'STATE_ADMIN' ? () => setActiveTab('command-center') : undefined}
+                onSelectEvent={handleSelectEvent}
+                onSelectZone={(z) => console.log('Selected zone:', z)}
+              />
+            )}
 
-          {activeTab === 'data-ingestion' && (
-            <DataIngestionPage onIngestionComplete={() => setActiveTab(role === 'STATE_ADMIN' ? 'command-center' : 'district-intel')} />
-          )}
+            {activeTab === 'gis-map' && (
+              <GISMapPage onSelectEvent={handleSelectEvent} />
+            )}
 
-          {activeTab === 'citizen-queue' && (
-            <VerificationQueuePage />
-          )}
+            {activeTab === 'data-ingestion' && (
+              <DataIngestionPage onIngestionComplete={() => setActiveTab(role === 'STATE_ADMIN' ? 'command-center' : 'district-intel')} />
+            )}
 
-          {activeTab === 'citizen-portal' && (
-            <CitizenReportingPage onTrackToken={handleTrackCitizenToken} />
-          )}
+            {activeTab === 'citizen-queue' && (
+              <VerificationQueuePage />
+            )}
 
-          {activeTab === 'citizen-track' && (
-            <CitizenTrackingPage initialToken={trackingTokenPreload} />
-          )}
+            {activeTab === 'citizen-portal' && (
+              <CitizenReportingPage onTrackToken={handleTrackCitizenToken} />
+            )}
 
-          {activeTab === 'spatial-associations' && role === 'STATE_ADMIN' && (
-            <SpatialTemporalPage />
-          )}
+            {activeTab === 'citizen-track' && (
+              <CitizenTrackingPage initialToken={trackingTokenPreload} />
+            )}
 
-          {activeTab === 'forecast-governance' && role === 'STATE_ADMIN' && (
-            <ForecastGovernancePage onSelectDistrict={handleSelectDistrict} />
-          )}
+            {activeTab === 'spatial-associations' && role === 'STATE_ADMIN' && (
+              <SpatialTemporalPage />
+            )}
 
-          {activeTab === 'action-tickets' && (
-            <ActionManagementPage />
-          )}
+            {activeTab === 'forecast-governance' && role === 'STATE_ADMIN' && (
+              <ForecastGovernancePage onSelectDistrict={handleSelectDistrict} />
+            )}
 
-          {activeTab === 'audit-trail' && role === 'STATE_ADMIN' && (
-            <AuditTrailPage />
-          )}
+            {activeTab === 'action-tickets' && (
+              <ActionManagementPage />
+            )}
+
+            {activeTab === 'audit-trail' && role === 'STATE_ADMIN' && (
+              <AuditTrailPage />
+            )}
+
+            {activeTab === 'security-center' && role === 'STATE_ADMIN' && (
+              <SecurityCommandCenter />
+            )}
+          </ErrorBoundary>
         </main>
       </div>
 

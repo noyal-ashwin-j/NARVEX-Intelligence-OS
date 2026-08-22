@@ -16,6 +16,11 @@ export async function getMapData(req, res) {
       endDate
     } = req.query;
 
+    const isDistrictOfficer = req.user?.roleKey === 'DISTRICT_OFFICER';
+    const effectiveDistrictId = (isDistrictOfficer && req.user?.districtId)
+      ? req.user.districtId
+      : districtId;
+
     let eventWhere = 'WHERE 1=1';
     let zoneWhere = 'WHERE 1=1';
     let alertWhere = "WHERE a.status NOT IN ('RESOLVED', 'DISMISSED')";
@@ -23,15 +28,15 @@ export async function getMapData(req, res) {
     const zoneParams = [];
     const alertParams = [];
 
-    if (districtId && districtId !== 'ALL') {
+    if (effectiveDistrictId && effectiveDistrictId !== 'ALL') {
       eventWhere += ' AND e.district_id = ?';
-      eventParams.push(districtId);
+      eventParams.push(effectiveDistrictId);
 
       zoneWhere += ' AND rz.district_id = ?';
-      zoneParams.push(districtId);
+      zoneParams.push(effectiveDistrictId);
 
       alertWhere += ' AND a.district_id = ?';
-      alertParams.push(districtId);
+      alertParams.push(effectiveDistrictId);
     }
 
     if (talukId && talukId !== 'ALL') {
@@ -125,8 +130,8 @@ export async function getMapData(req, res) {
        FROM spatial_associations sa
        JOIN districts od ON sa.origin_district_id = od.id
        JOIN districts dd ON sa.destination_district_id = dd.id
-       ${districtId && districtId !== 'ALL' ? 'WHERE sa.origin_district_id = ? OR sa.destination_district_id = ?' : ''}`,
-      districtId && districtId !== 'ALL' ? [districtId, districtId] : []
+        ${effectiveDistrictId && effectiveDistrictId !== 'ALL' ? 'WHERE sa.origin_district_id = ? OR sa.destination_district_id = ?' : ''}`,
+      effectiveDistrictId && effectiveDistrictId !== 'ALL' ? [effectiveDistrictId, effectiveDistrictId] : []
     );
 
     // 4. Fetch Active Alerts
@@ -143,10 +148,10 @@ export async function getMapData(req, res) {
     let checkpostQuery = 'SELECT cp.*, d.name as district_name FROM checkposts cp JOIN districts d ON cp.district_id = d.id';
     let stationQuery = 'SELECT ps.*, d.name as district_name FROM police_stations ps JOIN districts d ON ps.district_id = d.id';
     const locParams = [];
-    if (districtId && districtId !== 'ALL') {
+    if (effectiveDistrictId && effectiveDistrictId !== 'ALL') {
       checkpostQuery += ' WHERE cp.district_id = ?';
       stationQuery += ' WHERE ps.district_id = ?';
-      locParams.push(districtId);
+      locParams.push(effectiveDistrictId);
     }
     const [checkposts] = await pool.query(checkpostQuery, locParams);
     const [policeStations] = await pool.query(stationQuery, locParams);
@@ -157,8 +162,8 @@ export async function getMapData(req, res) {
        FROM citizen_reports cr
        JOIN districts d ON cr.approximate_district_id = d.id
        JOIN event_categories c ON cr.category_id = c.id
-       ${districtId && districtId !== 'ALL' ? 'WHERE cr.approximate_district_id = ?' : ''}`,
-      districtId && districtId !== 'ALL' ? [districtId] : []
+       ${effectiveDistrictId && effectiveDistrictId !== 'ALL' ? 'WHERE cr.approximate_district_id = ?' : ''}`,
+      effectiveDistrictId && effectiveDistrictId !== 'ALL' ? [effectiveDistrictId] : []
     );
 
     return res.json({

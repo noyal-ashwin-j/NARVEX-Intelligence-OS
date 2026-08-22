@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Map, Layers, Filter, ShieldAlert, CheckCircle2, Database, Info, X, Share2, MapPin } from 'lucide-react';
-import { NarvexIntelligenceMap } from '../components/map/NarvexIntelligenceMap';
+import { GISIntelligenceMap } from '../components/map/GISIntelligenceMap';
 import { TimeMachine } from '../components/map/TimeMachine';
 import { useFilters } from '../context/FilterContext';
 import { RiskBadge, CoverageBadge, StatusBadge } from '../components/common/Badge';
@@ -60,9 +60,8 @@ export function GISMapPage({ onSelectEvent }) {
       {/* GIS Map & Side Zone Inspector Layout */}
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-4">
         <div className={selectedZone ? 'lg:col-span-3' : 'lg:col-span-4'}>
-          <NarvexIntelligenceMap
+          <GISIntelligenceMap
             height="650px"
-            mode="PRESENT"
             onSelectEvent={onSelectEvent}
             onSelectZone={(zone) => setSelectedZone(zone)}
           />

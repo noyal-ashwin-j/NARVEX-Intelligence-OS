@@ -1,7 +1,7 @@
 {
   "modelType": "REGULARIZED_LOGISTIC_REGRESSION",
   "modelVersion": "NARVEX_TEMPORAL_BAYES_V2.1",
-  "trainedAt": "2026-08-20T04:24:33.453Z",
+  "trainedAt": "2026-08-21T05:33:22.538Z",
   "featureNames": [
     "velocity_7d",
     "velocity_30d",

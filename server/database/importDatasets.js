@@ -10,6 +10,7 @@ import { recalculateDistrictRiskScores } from '../services/backgroundIntelligenc
 import { runForecastInference } from '../ai/forecastInferenceService.js';
 import { trainModel } from '../ai/trainForecastModel.js';
 import { appendAuditRecord } from '../services/hashChainService.js';
+import { initSecurityTables } from '../services/securityHardeningService.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -32,6 +33,7 @@ export async function importStaticDatasets() {
   console.log('========================================================\n');
 
   await pool.query('SET FOREIGN_KEY_CHECKS = 0');
+  try { await initSecurityTables(); } catch (e) {}
 
   try {
     // 1. Ensure Table Schema columns
@@ -40,8 +42,10 @@ export async function importStaticDatasets() {
     try { await pool.query(`ALTER TABLE districts ADD COLUMN first_time_signals_count INT DEFAULT 0`); } catch (e) {}
     try { await pool.query(`ALTER TABLE citizen_reports MODIFY COLUMN tracking_token VARCHAR(64)`); } catch (e) {}
     try { await pool.query(`ALTER TABLE citizen_reports MODIFY COLUMN report_code VARCHAR(64)`); } catch (e) {}
+    try { await pool.query(`ALTER TABLE citizen_reports MODIFY COLUMN status VARCHAR(64) DEFAULT 'RECEIVED'`); } catch (e) {}
     try { await pool.query(`ALTER TABLE citizen_reports ADD COLUMN is_first_time_signal TINYINT(1) DEFAULT 0`); } catch (e) {}
     try { await pool.query(`ALTER TABLE intelligence_events MODIFY COLUMN event_code VARCHAR(64)`); } catch (e) {}
+    try { await pool.query(`ALTER TABLE intelligence_events MODIFY COLUMN verification_status VARCHAR(64) DEFAULT 'UNVERIFIED'`); } catch (e) {}
     try { await pool.query(`ALTER TABLE intelligence_events ADD COLUMN is_first_time_signal TINYINT(1) DEFAULT 0`); } catch (e) {}
     try { await pool.query(`ALTER TABLE event_provenance MODIFY COLUMN classification_method VARCHAR(64)`); } catch (e) {}
     try { await pool.query(`ALTER TABLE districts MODIFY COLUMN risk_level ENUM('HIGH PREVENTIVE ATTENTION', 'INCREASING', 'WATCH', 'LOW', 'INSUFFICIENT_DATA') DEFAULT 'LOW'`); } catch (e) {}
@@ -71,15 +75,16 @@ export async function importStaticDatasets() {
       ON DUPLICATE KEY UPDATE role_name = VALUES(role_name);
     `);
 
-    const defaultPwHash = '$2a$10$wN9a.H7x18vK.i5Ckg01uOpvAiqEkgd9yGzW.q1N0mN70.0Xw7YCy';
+    const bcrypt = (await import('bcryptjs')).default;
+    const defaultPwHash = await bcrypt.hash('Admin@123', 10);
     await pool.query(`
       INSERT INTO users (id, username, password_hash, full_name, email, role_key, district_id, department, badge_number) VALUES
-      (1, 'admin_state', '${defaultPwHash}', 'Director General of Police (Intel)', 'intel.director@tn.gov.in', 'STATE_ADMIN', NULL, 'State Intelligence Directorate', 'TN-DIR-001'),
-      (2, 'officer_cbe', '${defaultPwHash}', 'Superintendent of Police (Coimbatore)', 'sp.cbe.intel@tn.gov.in', 'DISTRICT_OFFICER', 2, 'Coimbatore District Police', 'TN-CBE-SP-01'),
+      (1, 'state_admin', '${defaultPwHash}', 'Dr. S. K. Ramanathan, IPS', 'admin.intel@tn.gov.in', 'STATE_ADMIN', NULL, 'State Intelligence Command', 'IPS-TN-0482'),
+      (2, 'district_cbe', '${defaultPwHash}', 'M. Anbarasu, DSP', 'cbe.intel@tn.gov.in', 'DISTRICT_OFFICER', 2, 'Coimbatore District Intelligence Unit', 'DSP-CBE-109'),
       (3, 'officer_chn', '${defaultPwHash}', 'Joint Commissioner of Police (Chennai)', 'jcp.chn.intel@tn.gov.in', 'DISTRICT_OFFICER', 1, 'Chennai City Police', 'TN-CHN-JC-01'),
-      (4, 'verifier_lead', '${defaultPwHash}', 'Senior Intelligence Analyst (Verification)', 'analyst.lead@tn.gov.in', 'VERIFICATION_OFFICER', NULL, 'Special Task Force Verification Cell', 'TN-VER-001'),
+      (4, 'analyst_priya', '${defaultPwHash}', 'Priya Soundararajan', 'priya.analyst@tn.gov.in', 'VERIFICATION_OFFICER', NULL, 'State Risk Triage Wing', 'V-ANL-882'),
       (5, 'citizen_demo', '${defaultPwHash}', 'Public Citizen Demo Account', 'citizen.demo@narvex.tn.gov.in', 'CITIZEN_REPORTER', NULL, 'Public Access', 'CITIZEN-DEMO')
-      ON DUPLICATE KEY UPDATE full_name = VALUES(full_name);
+      ON DUPLICATE KEY UPDATE username = VALUES(username), password_hash = VALUES(password_hash), failed_login_attempts = 0, locked_until = NULL, full_name = VALUES(full_name);
     `);
 
     // 4. Ingest 12_drug_categories.csv

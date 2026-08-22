@@ -199,7 +199,7 @@ CREATE TABLE intelligence_events (
     source_id INT NOT NULL,
     severity_level ENUM('LOW', 'MEDIUM', 'HIGH', 'CRITICAL') DEFAULT 'MEDIUM',
     is_enforcement TINYINT(1) DEFAULT 0,
-    verification_status ENUM('UNVERIFIED', 'UNDER_REVIEW', 'VERIFIED', 'REJECTED', 'CORROBORATED') DEFAULT 'UNVERIFIED',
+    verification_status VARCHAR(64) DEFAULT 'UNVERIFIED',
     confidence_score DECIMAL(5, 2) DEFAULT 60.00,
     coverage_flag ENUM('GOOD', 'MODERATE', 'LIMITED') DEFAULT 'MODERATE',
     raw_description_redacted TEXT NOT NULL,
@@ -258,7 +258,7 @@ CREATE TABLE citizen_reports (
     audio_transcript TEXT,
     has_attachment TINYINT(1) DEFAULT 0,
     attachment_name VARCHAR(255),
-    status ENUM('RECEIVED', 'UNDER_REVIEW', 'CORROBORATING', 'REFERRED_FOR_PREVENTION', 'CLOSED') DEFAULT 'RECEIVED',
+    status VARCHAR(64) DEFAULT 'RECEIVED',
     duplicate_flag TINYINT(1) DEFAULT 0,
     burst_pattern_flag TINYINT(1) DEFAULT 0,
     confidence_score DECIMAL(5, 2) DEFAULT 40.00,
@@ -577,13 +577,13 @@ INSERT INTO police_stations (district_id, taluk_id, name, station_code, lat, lng
 -- -------------------------------------------------------------
 -- SEED DATA: USERS (4 MVP ROLES)
 -- Password for all seed users is 'Admin@123'
--- Hash: $2a$10$w6pM0UuA91m5QZ3PZc8XOuq.hG0k3Wd8X90kUa7R2jN2Y6A5eMh72
+-- Hash: $2a$10$sv3Wp/bGmCuPU9Si6jM45.ZQ7plK5dMvpF8RN.F76H.1BRNwIPb7q
 -- -------------------------------------------------------------
 INSERT INTO users (username, password_hash, full_name, email, role_key, district_id, department, badge_number) VALUES
-('state_admin', '$2a$10$58c4N3M0kI0t/9GvX3J.xON2pA3g08zY3d0LwW/r2h5R2t4W6v8i2', 'Dr. S. K. Ramanathan, IPS', 'admin.intel@tn.gov.in', 'STATE_ADMIN', NULL, 'State Intelligence Command', 'IPS-TN-0482'),
-('district_cbe', '$2a$10$58c4N3M0kI0t/9GvX3J.xON2pA3g08zY3d0LwW/r2h5R2t4W6v8i2', 'M. Anbarasu, DSP', 'cbe.intel@tn.gov.in', 'DISTRICT_OFFICER', 2, 'Coimbatore District Intelligence Unit', 'DSP-CBE-109'),
-('analyst_priya', '$2a$10$58c4N3M0kI0t/9GvX3J.xON2pA3g08zY3d0LwW/r2h5R2t4W6v8i2', 'Priya Soundararajan', 'priya.analyst@tn.gov.in', 'VERIFICATION_OFFICER', NULL, 'State Risk Triage Wing', 'V-ANL-882'),
-('citizen_demo', '$2a$10$58c4N3M0kI0t/9GvX3J.xON2pA3g08zY3d0LwW/r2h5R2t4W6v8i2', 'Citizen Portal Demo Account', 'citizen.portal@tn.gov.in', 'CITIZEN_REPORTER', NULL, 'Public Anonymous Reporting', 'PUB-DEMO-001');
+('state_admin', '$2a$10$sv3Wp/bGmCuPU9Si6jM45.ZQ7plK5dMvpF8RN.F76H.1BRNwIPb7q', 'Dr. S. K. Ramanathan, IPS', 'admin.intel@tn.gov.in', 'STATE_ADMIN', NULL, 'State Intelligence Command', 'IPS-TN-0482'),
+('district_cbe', '$2a$10$sv3Wp/bGmCuPU9Si6jM45.ZQ7plK5dMvpF8RN.F76H.1BRNwIPb7q', 'M. Anbarasu, DSP', 'cbe.intel@tn.gov.in', 'DISTRICT_OFFICER', 2, 'Coimbatore District Intelligence Unit', 'DSP-CBE-109'),
+('analyst_priya', '$2a$10$sv3Wp/bGmCuPU9Si6jM45.ZQ7plK5dMvpF8RN.F76H.1BRNwIPb7q', 'Priya Soundararajan', 'priya.analyst@tn.gov.in', 'VERIFICATION_OFFICER', NULL, 'State Risk Triage Wing', 'V-ANL-882'),
+('citizen_demo', '$2a$10$sv3Wp/bGmCuPU9Si6jM45.ZQ7plK5dMvpF8RN.F76H.1BRNwIPb7q', 'Citizen Portal Demo Account', 'citizen.portal@tn.gov.in', 'CITIZEN_REPORTER', NULL, 'Public Anonymous Reporting', 'PUB-DEMO-001');
 
 -- -------------------------------------------------------------
 -- SEED DATA: REALISTIC SYNTHETIC DEMONSTRATION INTELLIGENCE EVENTS

@@ -32,12 +32,14 @@ export function AuthProvider({ children }) {
     loadUser();
   }, []);
 
-  const login = async (username, password) => {
+  const login = async (username, password, totpCode) => {
     setError(null);
     try {
-      const res = await api.login(username, password);
+      const res = await api.login(username, password, totpCode);
       if (res.success) {
         setAuthToken(res.token);
+        localStorage.setItem('narvex_session_id', res.sessionId);
+        localStorage.setItem('narvex_refresh_token', res.refreshToken);
         setUser(res.user);
         return { success: true, user: res.user };
       }
@@ -48,8 +50,16 @@ export function AuthProvider({ children }) {
     }
   };
 
-  const logout = () => {
+  const logout = async () => {
+    const sessionId = localStorage.getItem('narvex_session_id');
+    try {
+      if (sessionId) await api.logout(sessionId);
+    } catch (err) {
+      console.warn('Server logout failed:', err.message);
+    }
     setAuthToken(null);
+    localStorage.removeItem('narvex_session_id');
+    localStorage.removeItem('narvex_refresh_token');
     setUser(null);
   };
 

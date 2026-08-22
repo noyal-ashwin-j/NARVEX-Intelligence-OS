@@ -12,6 +12,10 @@
     "validate:data": "node scripts/validateSyntheticData.js",
     "import:data": "node database/importDatasets.js",
     "test": "node test.js",
+    "test:security": "node testSecurityHardeningSuite.js",
+    "test:authorization": "node test.js",
+    "test:audit-chain": "node -e \"import { verifyChainIntegrity } from './services/hashChainService.js'; verifyChainIntegrity().then(r => { console.log('Audit chain intact:', r.isIntact); process.exit(r.isIntact ? 0 : 1); });\"",
+    "test:agent-security": "node testAssistantMultilingual.js",
     "test:intelligence": "node test.js",
     "test:all-districts": "node testAllDistricts.js",
     "test:simulation": "node testSimulation.js"

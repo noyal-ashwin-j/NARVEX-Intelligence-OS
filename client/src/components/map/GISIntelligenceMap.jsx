@@ -1,10 +1,11 @@
 import React, { useState, useEffect, useRef } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
+import { useAuth } from '../../context/AuthContext';
 import { useTheme } from '../../context/ThemeContext';
 import { useFilters } from '../../context/FilterContext';
 import { api } from '../../services/api';
-import { Layers, ShieldAlert, Navigation, Eye, EyeOff, Info, Truck, Train, Ship, Plane, Bus } from 'lucide-react';
+import { Layers, ShieldAlert, Navigation, Eye, EyeOff, Info, Truck, Train, Ship, Plane, Bus, MapPin } from 'lucide-react';
 import { RiskBadge, StatusBadge, CoverageBadge } from '../common/Badge';
 
 export function GISIntelligenceMap({
@@ -18,8 +19,12 @@ export function GISIntelligenceMap({
   const mapInstanceRef = useRef(null);
   const layersGroupRef = useRef({});
 
+  const { user } = useAuth();
   const { isDark } = useTheme();
   const { filters } = useFilters();
+
+  const isDistrictOfficer = user?.roleKey === 'DISTRICT_OFFICER';
+  const effectiveDistrictId = isDistrictOfficer ? (user?.districtId || 2) : (selectedDistrictId || filters.districtId);
 
   const [loading, setLoading] = useState(true);
   const [mapData, setMapData] = useState(null);
@@ -73,17 +78,38 @@ export function GISIntelligenceMap({
       map.removeLayer(map._tileLayer);
     }
 
-    const tileUrl = isDark
-      ? 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
-      : 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png';
+    const tileUrl = 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png';
 
     const tileLayer = L.tileLayer(tileUrl, {
       maxZoom: 19,
-      subdomains: 'abcd'
+      subdomains: 'abcd',
+      attribution: '© OpenStreetMap, © CARTO'
     }).addTo(map);
 
     map._tileLayer = tileLayer;
+
+    // Force recalculation of map container bounds
+    setTimeout(() => {
+      if (map) map.invalidateSize();
+    }, 150);
   }, [isDark]);
+
+  // Auto-Center camera when focused on a specific district
+  useEffect(() => {
+    const map = mapInstanceRef.current;
+    if (!map) return;
+
+    if (effectiveDistrictId && mapData) {
+      // If we have risk zones or events for this district, center on the first one
+      if (mapData.riskZones && mapData.riskZones.length > 0) {
+        const firstZone = mapData.riskZones[0];
+        map.flyTo([parseFloat(firstZone.center_lat), parseFloat(firstZone.center_lng)], 11, { duration: 1.2 });
+      } else if (mapData.events && mapData.events.length > 0) {
+        const firstEvt = mapData.events[0];
+        map.flyTo([parseFloat(firstEvt.lat), parseFloat(firstEvt.lng)], 11, { duration: 1.2 });
+      }
+    }
+  }, [effectiveDistrictId, mapData]);
 
   // Fetch Map Data whenever filters change
   useEffect(() => {
@@ -91,7 +117,7 @@ export function GISIntelligenceMap({
       setLoading(true);
       try {
         const queryParams = {
-          districtId: selectedDistrictId || filters.districtId,
+          districtId: effectiveDistrictId,
           talukId: filters.talukId,
           categoryId: filters.categoryId,
           sourceId: filters.sourceId,
@@ -112,7 +138,7 @@ export function GISIntelligenceMap({
       }
     }
     loadMapData();
-  }, [filters, selectedDistrictId]);
+  }, [filters, effectiveDistrictId]);
 
   // Render Vector Layers on Map
   useEffect(() => {
@@ -346,13 +372,22 @@ export function GISIntelligenceMap({
   };
 
   return (
-    <div className="relative w-full rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-800 bg-white dark:bg-[#0B0F19] shadow-md font-inter">
+    <div className="relative w-full h-full min-h-[480px] rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-800 bg-white dark:bg-[#0B0F19] shadow-md font-inter">
       {/* Map Canvas */}
-      <div ref={mapContainerRef} style={{ height }} className="z-0" />
+      <div ref={mapContainerRef} style={{ height: '100%', minHeight: '480px' }} className="z-0 w-full h-full" />
 
       {/* Top Floating Transport Mode Filter Bar */}
-      <div className="absolute top-3 left-3 z-10 flex flex-wrap items-center gap-1.5 p-2 rounded-xl bg-white/95 dark:bg-[#111827]/95 backdrop-blur-md border border-slate-200 dark:border-slate-800 shadow-lg text-xs font-inter">
-        <span className="text-[11px] font-medium text-slate-400 uppercase tracking-[0.5px] px-1">Transit Mode:</span>
+      <div className="absolute top-3 left-3 z-10 flex flex-col sm:flex-row items-start sm:items-center gap-2">
+        {/* District Jurisdiction Lock Badge */}
+        {isDistrictOfficer && (
+          <div className="px-3 py-1.5 rounded-xl bg-cyan-950/90 text-cyan-300 border border-cyan-500/50 backdrop-blur-md shadow-glow-cyan text-xs font-mono font-bold flex items-center gap-1.5">
+            <MapPin className="w-3.5 h-3.5 text-cyan-400 animate-bounce" />
+            <span>JURISDICTION: {(user?.districtName || 'COIMBATORE').toUpperCase()} DISTRICT</span>
+          </div>
+        )}
+
+        <div className="flex flex-wrap items-center gap-1.5 p-2 rounded-xl bg-white/95 dark:bg-[#111827]/95 backdrop-blur-md border border-slate-200 dark:border-slate-800 shadow-lg text-xs font-inter">
+          <span className="text-[11px] font-medium text-slate-400 uppercase tracking-[0.5px] px-1">Transit Mode:</span>
         <button
           type="button"
           onClick={() => setSelectedTransportMode('ALL')}
@@ -398,6 +433,7 @@ export function GISIntelligenceMap({
         >
           <Bus className="w-3.5 h-3.5" /> <span>Bus Transit</span>
         </button>
+        </div>
       </div>
 
       {/* Top Right Floating Tactical Layer Controller */}

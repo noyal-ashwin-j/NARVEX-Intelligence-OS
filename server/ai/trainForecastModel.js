@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import crypto from 'crypto';
 import Papa from 'papaparse';
 import { fileURLToPath } from 'url';
 
@@ -209,7 +210,19 @@ export async function trainModel() {
   };
 
   const artifactPath = path.join(MODEL_DIR, 'narvex_forecast_model.json');
-  fs.writeFileSync(artifactPath, JSON.stringify(modelArtifact, null, 2), 'utf8');
+  const artifactContent = JSON.stringify(modelArtifact, null, 2);
+  fs.writeFileSync(artifactPath, artifactContent, 'utf8');
+
+  const sha256 = crypto.createHash('sha256').update(artifactContent).digest('hex');
+  const manifestPath = path.join(MODEL_DIR, 'model-integrity-manifest.json');
+  const manifestContent = JSON.stringify({
+    models: {
+      'narvex_forecast_model.json': sha256
+    },
+    modelSha256: sha256,
+    updatedAt: new Date().toISOString()
+  }, null, 2);
+  fs.writeFileSync(manifestPath, manifestContent, 'utf8');
 
   console.log(`\n💾 Saved trained model artifact to: ${artifactPath}`);
   return modelArtifact;

@@ -7,8 +7,11 @@
     "dev": "npm --prefix client run dev",
     "server": "npm --prefix server start",
     "server:dev": "npm --prefix server run dev",
-    "client": "npm --prefix client run dev",
     "test": "npm --prefix server test",
+    "test:security": "npm --prefix server run test:security",
+    "test:authorization": "npm --prefix server run test:authorization",
+    "test:audit-chain": "npm --prefix server run test:audit-chain",
+    "test:agent-security": "npm --prefix server run test:agent-security",
     "seed": "npm --prefix server run seed",
     "build": "npm --prefix client run build"
   }

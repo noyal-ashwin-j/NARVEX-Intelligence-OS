@@ -8,6 +8,8 @@ export function LoginPage({ onLoginSuccess, onOpenPublicPortal }) {
 
   const [username, setUsername] = useState('state_admin');
   const [password, setPassword] = useState('Admin@123');
+  const [totpCode, setTotpCode] = useState('');
+  const [mfaRequired, setMfaRequired] = useState(false);
   const [loading, setLoading] = useState(false);
   const [localError, setLocalError] = useState('');
   const [seedAccounts, setSeedAccounts] = useState([]);
@@ -29,12 +31,13 @@ export function LoginPage({ onLoginSuccess, onOpenPublicPortal }) {
     setLocalError('');
     setLoading(true);
 
-    const res = await login(username, password);
+    const res = await login(username, password, totpCode);
     setLoading(false);
 
     if (res.success) {
       if (onLoginSuccess) onLoginSuccess();
     } else {
+      setMfaRequired(Boolean(res.mfaRequired));
       setLocalError(res.message || 'Authentication failed.');
     }
   };
@@ -54,10 +57,10 @@ export function LoginPage({ onLoginSuccess, onOpenPublicPortal }) {
           </div>
           <div>
             <h1 className="text-lg font-semibold font-space tracking-tight text-slate-900 dark:text-slate-100 uppercase">
-              NARC-INTEL <span className="text-[#22D3EE]">N-RISE</span>
+              NARVEX <span className="text-[#22D3EE]">INTELLIGENCE OS</span>
             </h1>
             <p className="text-xs text-slate-600 dark:text-slate-400 font-normal">
-              Statewide Narcotic Intelligence & Preventive Risk Monitoring Platform
+              Sovereign State-Level Narcotics Intelligence & Preventive Risk Monitoring Platform
             </p>
           </div>
         </div>
@@ -144,6 +147,13 @@ export function LoginPage({ onLoginSuccess, onOpenPublicPortal }) {
                 />
               </div>
             </div>
+
+            {mfaRequired && (
+              <div>
+                <label className="block text-slate-700 dark:text-slate-300 font-medium text-[11px] uppercase tracking-[0.5px] mb-1.5">Authenticator code</label>
+                <input type="text" inputMode="numeric" autoComplete="one-time-code" value={totpCode} onChange={(e) => setTotpCode(e.target.value.replace(/\D/g, '').slice(0, 6))} required placeholder="6-digit code" className="w-full bg-slate-50 dark:bg-[#0B0F19] border border-slate-300 dark:border-slate-700 rounded-xl px-3 py-2 text-slate-900 dark:text-slate-100 font-mono text-[13px] focus:outline-none focus:border-[#22D3EE]" />
+              </div>
+            )}
 
             <div>
               <label className="block text-slate-700 dark:text-slate-300 font-medium text-[11px] uppercase tracking-[0.5px] mb-1.5">

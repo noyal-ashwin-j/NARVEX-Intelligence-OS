@@ -72,7 +72,7 @@ export function DistrictIntelligencePage({
       try {
         const [distRes, analRes, evtRes, fcstRes] = await Promise.all([
           api.getDistrictById(districtId),
-          api.getAnalytics({ districtId, startDate: filters.startDate, endDate: filters.endDate }),
+          api.getAnalytics({ districtId }),
           api.getEvents({
             districtId,
             talukId: filters.talukId,

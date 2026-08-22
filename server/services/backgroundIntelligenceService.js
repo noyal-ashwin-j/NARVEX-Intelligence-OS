@@ -75,6 +75,18 @@ export async function deriveFirstTimeSignalsDynamically() {
 }
 
 /**
+ * Checks if a given location in a district has zero prior historical events
+ */
+export async function evaluateFirstTimeLocality(districtId, locationName) {
+  if (!districtId || !locationName) return false;
+  const [rows] = await pool.query(
+    `SELECT COUNT(*) as count FROM intelligence_events WHERE district_id = ? AND LOWER(TRIM(location_name)) = LOWER(TRIM(?))`,
+    [districtId, locationName]
+  );
+  return (rows[0]?.count || 0) === 0;
+}
+
+/**
  * Recalculates district-level risk indicators, trend velocity, acceleration, and 3-axis status.
  */
 export async function recalculateDistrictRiskScores(districtId = null) {

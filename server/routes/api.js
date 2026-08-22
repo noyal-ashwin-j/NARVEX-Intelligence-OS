@@ -3,22 +3,42 @@ import multer from 'multer';
 import path from 'path';
 import fs from 'fs';
 
-import { login, getCurrentUser, getSeedAccounts } from '../controllers/authController.js';
 import { getAllDistricts, getDistrictById } from '../controllers/districtController.js';
-import { getEvents, getEventById, getAnalytics, getMetadata } from '../controllers/intelligenceController.js';
+import { getEvents, getEventById, getAnalytics, getMetadata, getEntityGraph, getANPRStream, getPrecursorDiversion, getFinancialSignals, getWastewaterMetrics } from '../controllers/intelligenceController.js';
 import { getMapData } from '../controllers/mapController.js';
 import { submitCitizenReport, trackCitizenReport, getVerificationQueue, triageCitizenReport } from '../controllers/citizenController.js';
 import { uploadAndPreviewFile, executeBatchIngestion, uploadUniversalFeed, resolveDuplicateSignal } from '../controllers/ingestionController.js';
-import { getSpatialAssociations, compareCorridors } from '../controllers/associationController.js';
+import { getSpatialAssociations, compareCorridors, getRouteIntelligence, getIntelligenceArcs, getMapArcs } from '../controllers/associationController.js';
 import { getForecastZones, getRiskConfidenceMatrix, getModelStatus, triggerModelReInference } from '../controllers/forecastController.js';
 import { getAlerts, createActionTicket, getActionTickets, updateActionTicket } from '../controllers/actionController.js';
 import { getGovernanceMetrics, updateRiskThresholds } from '../controllers/governanceController.js';
 import { getAuditLogs, testChainIntegrity } from '../controllers/auditController.js';
 import { globalSearch } from '../controllers/searchController.js';
 import { queryAssistant } from '../controllers/assistantController.js';
+import {
+  getReplayStatusHandler,
+  startReplayHandler,
+  stepReplayHandler,
+  resetReplayHandler,
+  generateValidationReportHandler
+} from '../controllers/caseReplayController.js';
 import { authenticateToken, requireRoles, enforceDistrictScope } from '../middleware/authMiddleware.js';
 
 const router = express.Router();
+
+// 6. Spatial-Temporal & Historical Route Associations
+router.get('/spatial/associations', optionalAuth, getSpatialAssociations);
+router.get('/spatial/routes', optionalAuth, getRouteIntelligence);
+router.get('/intelligence/arcs', optionalAuth, getIntelligenceArcs);
+router.get('/map/arcs', optionalAuth, getMapArcs);
+router.get('/spatial/compare', optionalAuth, compareCorridors);
+
+// 15. Real-World Intelligence Scenario Case Replay Validation
+router.get('/validation/replay/status', optionalAuth, getReplayStatusHandler);
+router.post('/validation/replay/start', optionalAuth, startReplayHandler);
+router.post('/validation/replay/step', optionalAuth, stepReplayHandler);
+router.post('/validation/replay/reset', optionalAuth, resetReplayHandler);
+router.get('/validation/report', optionalAuth, generateValidationReportHandler);
 
 // Setup multer for upload handling
 const uploadDir = 'uploads/';
@@ -44,10 +64,32 @@ async function optionalAuth(req, res, next) {
   next();
 }
 
-// 1. Authentication & Accounts
+import {
+  login,
+  getCurrentUser,
+  getSeedAccounts,
+  logoutUser,
+  getUserSessions,
+  revokeSessionHandler,
+  revokeAllUserSessionsHandler,
+  refreshTokenHandler,
+  setupTOTPHandler,
+  getSecurityMetricsHandler
+} from '../controllers/authController.js';
+
+// 1. Authentication & Session Registry
 router.post('/auth/login', login);
+router.post('/auth/refresh', refreshTokenHandler);
+router.post('/auth/logout', authenticateToken, logoutUser);
 router.get('/auth/me', authenticateToken, getCurrentUser);
 router.get('/auth/seed-accounts', getSeedAccounts);
+router.get('/auth/sessions', authenticateToken, getUserSessions);
+router.post('/auth/sessions/:sessionId/revoke', authenticateToken, revokeSessionHandler);
+router.post('/auth/sessions/revoke-all/:userId', authenticateToken, requireRoles('STATE_ADMIN'), revokeAllUserSessionsHandler);
+router.post('/auth/mfa/setup', authenticateToken, setupTOTPHandler);
+
+// Security SIEM & Command Dashboard
+router.get('/security/dashboard', authenticateToken, requireRoles('STATE_ADMIN'), getSecurityMetricsHandler);
 
 // 2. State & District Intelligence (Secured with RBAC & District Scoping)
 router.get('/districts', optionalAuth, enforceDistrictScope, getAllDistricts);
@@ -56,11 +98,18 @@ router.get('/intelligence/events', optionalAuth, enforceDistrictScope, getEvents
 router.get('/intelligence/events/:id', optionalAuth, enforceDistrictScope, getEventById);
 router.get('/intelligence/analytics', optionalAuth, enforceDistrictScope, getAnalytics);
 router.get('/intelligence/metadata', getMetadata);
+
+// Advanced Modules 1-5: Entity Link Graph, ANPR, Precursors, Financial Signals & Wastewater
+router.get('/intelligence/entity-graph', optionalAuth, getEntityGraph);
+router.get('/intelligence/anpr-stream', optionalAuth, getANPRStream);
+router.get('/intelligence/precursor-diversion', optionalAuth, getPrecursorDiversion);
+router.get('/intelligence/financial-signals', optionalAuth, getFinancialSignals);
+router.get('/intelligence/wastewater-metrics', optionalAuth, getWastewaterMetrics);
 import { getWhatChangedSummary } from '../services/backgroundIntelligenceService.js';
 
 router.get('/intelligence/what-changed', optionalAuth, async (req, res) => {
   const data = await getWhatChangedSummary();
-  res.json(data);
+  res.json({ success: true, ...data });
 });
 
 // 3. GIS Map Command Center

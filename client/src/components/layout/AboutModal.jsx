@@ -20,10 +20,10 @@ export function AboutModal({ isOpen, onClose }) {
             </div>
             <div>
               <h3 className="font-semibold text-[18px] text-slate-900 dark:text-slate-100 uppercase tracking-tight font-space">
-                NARC-INTEL <span className="text-[#22D3EE]">(N-RISE)</span>
+                NARVEX <span className="text-[#22D3EE]">INTELLIGENCE OS</span>
               </h3>
               <p className="text-[13px] text-slate-500 dark:text-slate-400 font-normal">
-                Early Drug-Related Risk Detection & Preventive Intelligence Platform
+                Sovereign Narcotics Spatial-Temporal Intelligence & Preventive Risk Monitoring Platform
               </p>
             </div>
           </div>
@@ -56,7 +56,7 @@ export function AboutModal({ isOpen, onClose }) {
           </p>
 
           <p className="text-[13px] text-slate-700 dark:text-slate-300 leading-relaxed font-normal">
-            <strong>The Solution:</strong> NARC-INTEL continuously correlates multi-source signals to detect emerging patterns, visualize geographic and temporal progression, protect anonymous whistleblowers, and route evidence-based early warnings to authorized officers for human verification and proactive prevention.
+            <strong>The Solution:</strong> NARVEX continuously correlates multi-source signals to detect emerging patterns, visualize geographic and temporal progression, protect anonymous whistleblowers, and route evidence-based early warnings to authorized officers for human verification and proactive prevention.
           </p>
 
           <div className="grid grid-cols-2 gap-2.5 text-xs pt-1">
