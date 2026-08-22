@@ -1,0 +1,9 @@
+# GitHub Linguist Language Override
+# Ensures GitHub identifies NARVEX as a Java Sovereign Intelligence Platform
+
+client/** linguist-vendored
+*.json linguist-vendored
+*.geojson linguist-vendored
+*.log linguist-vendored
+tools/** linguist-vendored
+docs/** linguist-documentation
