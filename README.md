@@ -1,119 +1,274 @@
-# NARC-INTEL (N-RISE)
-### Statewide Narcotic Intelligence & Preventive Risk Monitoring Platform
-**Target Jurisdiction**: State of Tamil Nadu (All 38 Districts)  
-**Prototype Scope**: Smart India Hackathon (SIH) Full Working Demonstration  
-**Target Database**: MySQL (`USE narvex;`)
+# 🛡️ NARVEX — State-Level Narcotic Intelligence & Preventive Decision-Support Platform
+
+> **Smart India Hackathon (SIH 2026)**  
+> **Author & Lead Architect**: **Noyal Ashwin J**  
+> **Team / Unit**: **VBE Coding**  
+> **Repository**: [https://github.com/noyal-ashwin-j/NARVEX-Intelligence-OS](https://github.com/noyal-ashwin-j/NARVEX-Intelligence-OS)
 
 ---
 
-## 1. System Overview & Core Objective
-
-**NARC-INTEL (N-RISE)** is a government-style statewide intelligence, data audit, spatial visualization, risk monitoring, and early-warning preventive decision-support platform for Tamil Nadu.
-
-### What the Platform Does:
-1. **Aggregates Multi-Source Signals**: Combines historical and present signals from Police Stations, Interstate Checkposts, Anonymous Citizen tips, State Helpline (1058), Special Task Forces, and Healthcare aggregates.
-2. **Tripartite Safeguard**: Displays **Observed Risk**, **Evidence Confidence**, and **Data Coverage** as **three independent values** — never collapsed into one number.
-3. **Layer Separation**: Separates *Enforcement Activity* (seizures, arrests) from *Risk Signals* (community concerns) to avoid over-policed feedback loops.
-4. **Complete Provenance**: Every signal, marker, and zone traces to original Source Dept, File/Row ID, Timestamp, AI Extraction Confidence, and Reviewing Officer ("Why is this here?").
-5. **Human-in-the-Loop**: AI output serves solely as a *Preventive Attention Priority* suggestion. All real actions require an authorized officer and are logged to an append-only SHA-256 cryptographic audit chain.
-
----
-
-## 2. Completed Phases (Phases 1 — 8 Full Scope)
-
-| Phase | Module | Completion Status | Key Features |
-|---|---|---|---|
-| **Phase 1** | Foundation & RBAC | ✅ **100% Complete** | `NRISE_DATABASE.sql` with all 38 districts, JWT auth, RBAC middleware, 4 core roles, automated test suite (`npm test`). |
-| **Phase 2** | Statewide Command Center & District Intel | ✅ **100% Complete** | Statewide overview, sortable 38-district priority grid, district page with Tripartite Score and charts before map. |
-| **Phase 3** | Interactive GIS Intelligence Map | ✅ **100% Complete** | Leaflet GIS with Dark/Light command center layers, dynamic radius risk zones, active alert overlays, zone inspector. |
-| **Phase 4** | Anonymous Citizen Reporting & Queue | ✅ **100% Complete** | Public portal (Tamil/English/voice), PII scrubber, tracking token generator (`TN-7X9K-42PQ`), safe public status tracker, analyst triage queue with duplicate/burst red flags. |
-| **Phase 5** | Multi-Source Ingestion & Provenance | ✅ **100% Complete** | Drag-drop CSV/Excel parser, AI/Rule column mapping, PII scan, duplicate match check, automatic SHA-256 provenance generation. |
-| **Phase 6** | Spatial-Temporal & Historical Associations | ✅ **100% Complete** | District-to-district historical corridors, corridor comparison tool, emerging zone lifecycle state machine. |
-| **Phase 7** | Predictive Risk Forecast & Governance | ✅ **100% Complete** | Experimental 30/90-day forecast zones, 2-axis risk vs confidence matrix, urban/rural coverage disparity monitor, transparent threshold editor. |
-| **Phase 8** | Action Tickets & Audit Hash-Chain | ✅ **100% Complete** | Alert $\rightarrow$ Action ticket dispatch, intervention outcome logging, SHA-256 cryptographic chain explorer with integrity validator. |
+```text
+               ┌─────────────────────────────────────────────────────────┐
+               │                 NARVEX INTELLIGENCE OS                  │
+               │   State-Level Anti-Narcotic Preventive Command System   │
+               └────────────────────────────┬────────────────────────────┘
+                                            │
+    ┌───────────────────────────────────────┼───────────────────────────────────────┐
+    ▼                                       ▼                                       ▼
++-----------------------+       +-----------------------+       +-----------------------+
+| 1. EVIDENCE ENGINE    |       | 2. SPATIAL CORRIDORS  |       | 3. DECISION SUPPORT   |
+| Raw Ingestion (PDF/   |       | Multi-Scope MapCN     |       | Statistical Ridge     |
+| CSV/XLSX), SHA-256    | ────➔ | (World, India, TN),   | ────➔ | Forecasts, "WHY"      |
+| Document Hashing,     |       | Emerging Zone Engine  |       | Evidence Panels,      |
+| MySQL Source of Truth |       | & Waterbed Shift Check|       | NARVEX AI Assistant   |
++-----------------------+       +-----------------------+       +-----------------------+
+```
 
 ---
 
-## 3. Demo Login Credentials
-
-All seed accounts use the default password: **`Admin@123`**
-
-| Role | Username | Full Name | Jurisdiction / Scope |
-|---|---|---|---|
-| **State Admin** | `state_admin` | Dr. S. K. Ramanathan, IPS | Full Statewide Oversight, Policy Thresholds, Governance |
-| **District Officer** | `district_cbe` | M. Anbarasu, DSP | Coimbatore District Intelligence Unit |
-| **Verification Officer** | `analyst_priya` | Priya Soundararajan | State Risk Triage Wing, Verification Queue, Ingestion |
-| **Citizen Reporter** | `citizen_demo` | Demo Public Account | Anonymous Tip Submission & Public Token Tracker |
-
-*(Note: The UI also includes a quick one-click role switcher in the top navigation bar).*
+## 📋 Table of Contents
+1. [Problem Statement](#-1-problem-statement)
+2. [The NARVEX Solution](#-2-the-narvex-solution)
+3. [Key Implemented Features](#-3-key-implemented-features)
+4. [5 Advanced Strategic Modules (NARVEX 2.0)](#-4-5-advanced-strategic-modules-narvex-20)
+5. [Future Engineering Roadmap](#-5-future-engineering-roadmap)
+6. [System Architecture & Data Flow](#-6-system-architecture--data-flow)
+7. [Step-by-Step Installation & Setup Guide](#-7-step-by-step-installation--setup-guide)
+8. [Automated Verification & Test Suites](#-8-automated-verification--test-suites)
+9. [Author & Credit Information](#-9-author--credit-information)
 
 ---
 
-## 4. Getting Started & Installation
+## 🎯 1. Problem Statement
+
+Drug law enforcement across India faces three critical systemic bottlenecks:
+
+1. **Reactive vs. Preventive Operation**: Traditional policing acts *after* seizures occur, counting arrests instead of intervening *before* smuggling corridors accelerate.
+2. **Observational Bias (Over-Policed vs. Unmonitored Dark Zones)**: High arrest counts in urban centers reflect high police vigilance, not necessarily exclusive drug prevalence. Quiet rural border checkposts with low enforcement presence can carry unintercepted traffic while appearing "safe" on basic charts.
+3. **Fragmented Agency Silos**: Police FIRs, NCB seizures, customs logs, railway parcel telemetry, and hospital overdose reports exist in disconnected databases, preventing cross-agency signal correlation.
+
+---
+
+## 💡 2. The NARVEX Solution
+
+**NARVEX** (*Tamil Nadu State-Level Narcotic Intelligence & Preventive Decision-Support Platform*) transforms narcotic policing into a **database-driven, spatial-temporal operating system**.
+
+### The Core Vision Loop:
+$$\text{Raw Evidence} \xrightarrow{\text{Ingest}} \text{MySQL Database} \xrightarrow{\text{Feature Engine}} \text{Spatial Corridors} \xrightarrow{\text{Forecast Model}} \text{MapCN Map} \xrightarrow{\text{NARVEX Agent}} \text{Preventive Action}$$
+
+- **100% Database-Driven**: Zero hardcoded route arrays, fake risk scores, or static AI responses. All metrics originate dynamically from MySQL (`narvex`).
+- **Cryptographic Audit Ledger**: Append-only SHA-256 block hash chain (`audit_hash_chain`) securing data lineage.
+- **Human-in-the-Loop Safeguard**: Automated early-warning alerts require human officer verification before generating preventive action tickets.
+
+---
+
+## ⚡ 3. Key Implemented Features
+
+### A. 🌐 MapCN Multi-Scope Spatial Architecture
+- **World Scope (`WORLD`)**: Renders 16 international cross-border flight & maritime cargo lanes to Tamil Nadu on a 3D Globe projection.
+- **India Scope (`INDIA`)**: Renders 15 inter-state national corridors connecting Maharashtra, Delhi, Kerala, Karnataka, Andhra Pradesh, West Bengal, and Gujarat.
+- **Tamil Nadu Scope (`TAMILNADU`)**: Renders 57 inter-district tactical arcs connecting all 38 Tamil Nadu districts.
+- **Visual Distinction**:
+  - `HISTORICAL_OBSERVED`: **Solid Line** ($\ge 3$ verified events).
+  - `EMERGING`: **Solid Vibrant Line** (Accelerating recent velocity).
+  - `FORECAST`: **Dashed Glowing Line** (`paint: { "line-dasharray": [2, 2] }`) projecting future risk corridors.
+
+### B. 🎯 Observational Bias Correction & Emerging-Zone Engine
+- Computes separate mathematical dimensions: `observed_activity`, `enforcement_intensity`, `source_coverage`, `community_signal`, `data_gap`, `confidence`.
+- **Core Principle**: Zero observations $\rightarrow$ `INSUFFICIENT_DATA` / `NEEDS_VERIFICATION` (NOT low risk!).
+- **Dynamic States**: `STABLE`, `WATCH`, `EMERGING`, `HIGH PREVENTIVE ATTENTION`, `INSUFFICIENT_DATA`.
+
+### C. 🌊 Waterbed Effect Corridor Substitution Shift Check
+- Automatically detects when police intervention on Corridor A causes smuggling syndicates to reroute through connected Corridor B:
+  $$\Delta A = \text{recent}_A - \text{baseline}_A < -0.20 \quad \text{AND} \quad \Delta B = \text{recent}_B - \text{baseline}_B > +0.20$$
+- Triggers high-priority UI alert: `⚡ POTENTIAL CORRIDOR SHIFT — NEEDS VERIFICATION (Hosur ➔ Salem)`.
+
+### D. 📷 Webcam Gesture Access Control (`WebcamAdapter.jsx`)
+- Uses HTML5 MediaDevices (`navigator.mediaDevices.getUserMedia`) for hand gesture navigation:
+  - `👋 Swipe Left`: Switches scope to **`WORLD`**
+  - `👉 Swipe Right`: Switches scope to **`INDIA`**
+  - `👌 Pinch`: Switches scope to **`TAMIL NADU`**
+
+### E. 🎙️ WebSpeech Voice Access Assistant (`NarvexAvatarCore.jsx`)
+- Integrated speech recognition (`window.SpeechRecognition`) and text-to-speech voice synthesis in English & Tanglish.
+- Queries MySQL database tools dynamically to answer: *"Why did Coimbatore become an emerging attention zone?"*
+
+---
+
+## 🚀 4. 5 Advanced Strategic Modules (NARVEX 2.0)
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                       NARVEX 2.0 STRATEGIC MODULES                          │
+├───────────────────┬───────────────────┬───────────────────┬─────────────────┤
+│ 1. CARTEL GRAPH   │ 2. ANPR TELEMETRY │ 3. PRECURSORS     │ 4. DARKNET/UPI  │
+│ Palantir-Style    │ FASTag Toll Match │ Pharmacy Leak Track│ Telegram Drops  │
+└───────────────────┴───────────────────┴───────────────────┴─────────────────┘
+```
+
+1. **👥 Offender & Cartel Entity Link Graph (`NIDAAN`/`Palantir` Style)**:
+   - Node-edge network graph mapping `Cartels ➔ Accused Offenders ➔ Transport Vehicles ➔ Seaports ➔ Prison Visitors`.
+2. **🚘 FASTag & ANPR Border Checkpost Telemetry Stream**:
+   - Live vehicle registration plate passing telemetry across 14 state border checkposts (Zuzuvadi, Walayar, Kaliyakavallai, Serakuppam).
+3. **🧪 Pharmaceutical Precursor Diversion Tracking**:
+   - Batch leak tracking for Schedule H1 opioids (Codeine, Tramadol, Alprazolam).
+4. **📲 Darknet, Telegram & Micro-Financial UPI Signals**:
+   - Rapid UPI QR payment spikes & Telegram bot drop-shipping channels.
+5. **🧪 Wastewater Sewage Epidemiology Metrics (EMCDDA Model)**:
+   - Chemical metabolite concentrations (mg/1000 people/day per taluk) for independent consumption measurement.
+
+---
+
+## 🔮 5. Future Engineering Roadmap
+
+| Feature Domain | Future Upgrade | Architectural Purpose |
+| :--- | :--- | :--- |
+| **Ground Geometry** | **OSRM Highway Topography Overlay** | Render physical road lines (NH-44, NH-544) underneath MapCN curved arcs. |
+| **Multi-Hop AI** | **Spatial-Temporal Graph Neural Networks (ST-GNN)** | Model multi-hop supply chain disruptions across 3+ state hops. |
+| **High-Volume Telemetry** | **PostgreSQL + PostGIS / TimescaleDB** | Spatial vector indexing (`GEOMETRY(Point, 4326)`) for millions of GPS vehicle logs. |
+| **Document Ingestion** | **Gemini Multilingual FIR OCR** | Multilingual Tamil/English police FIR document entity extraction. |
+
+---
+
+## 🏗️ 6. System Architecture & Data Flow
+
+```text
+RAW CASE BUNDLE / SEIZURE FACT
+              │
+              ▼
+   DOCUMENT INGESTION + OCR
+              │
+              ▼
+  MYSQL DATABASE (narvex)
+   ├── districts (38)
+   ├── intelligence_events (6,502)
+   ├── event_provenance (6,510)
+   ├── route_observations (6,973)
+   ├── route_intelligence (88)
+   └── audit_hash_chain (300+)
+              │
+              ├───────────────────────────────┐
+              ▼                               ▼
+FEATURE ENGINEERING ENGINE           FORECAST RIDGE MODEL
+ (7d/30d/90d Velocity & Bias)      (NARVEX_STATISTICAL_RIDGE_V1.0)
+              │                               │
+              └───────────────┬───────────────┘
+                              ▼
+                 MapCN INTERACTIVE MAPS & UI
+                  ├── 🌐 World 3D Globe
+                  ├── 🧭 India Mercator Map
+                  ├── 📍 38-District Grid
+                  ├── 📷 Webcam Gesture Adapter
+                  └── 🎙️ Voice Assistant Copilot
+```
+
+---
+
+## 💻 7. Step-by-Step Installation & Setup Guide
 
 ### Prerequisites
-- Node.js v18+ or v20+ / v24+
-- MySQL 8.0 running on localhost with database `narvex`
+- **Node.js**: v18.0.0 or higher
+- **MySQL Server**: v8.0 or higher
+- **Git**
 
-### Step 1: Database Setup
-The database schema and seeds are in `server/database/NRISE_DATABASE.sql`.
-Run against `narvex`:
+### Step 1: Clone the Repository
 ```bash
-mysql -u root -p narvex < server/database/NRISE_DATABASE.sql
+git clone https://github.com/noyal-ashwin-j/NARVEX-Intelligence-OS.git
+cd NARVEX-Intelligence-OS
 ```
 
-### Step 2: Environment Configuration
-Check `server/.env`:
+### Step 2: Configure MySQL Database
+Create database `narvex` in MySQL and configure environment variables in `server/.env`:
 ```env
 PORT=5000
-NODE_ENV=development
-DB_HOST=127.0.0.1
-DB_PORT=3306
+DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=your_password
+DB_PASSWORD=your_mysql_password
 DB_NAME=narvex
-JWT_SECRET=nrise_state_intel_secure_jwt_key_2026_tamilnadu
-ANTHROPIC_API_KEY=
+JWT_SECRET=narvex_sovereign_secret_key_2026
 ```
 
-### Step 3: Run Backend Test Suite
+### Step 3: Install Server Dependencies & Seed Database
 ```bash
-npm test
-```
-*Expected: 14/14 tests pass (DB connectivity, all 38 districts, RBAC guards, PII redactor, SHA-256 chain integrity).*
-
-### Step 4: Launch Backend & Frontend Servers
-In terminal 1 (Backend):
-```bash
-npm run server
-```
-In terminal 2 (Frontend):
-```bash
-npm run client
+cd server
+npm install
+npm run db:setup
 ```
 
-Open browser at: **`http://localhost:5173`**
+### Step 4: Install Client Dependencies
+```bash
+cd ../client
+npm install
+```
+
+### Step 5: Launch the Application
+Open two terminal windows:
+
+**Terminal 1 (Express Backend Server - Port 5000)**:
+```bash
+cd server
+npm start
+```
+
+**Terminal 2 (Vite Command Center Client - Port 5173)**:
+```bash
+cd client
+npm run dev
+```
+
+Open your browser at **[http://localhost:5173](http://localhost:5173)**.
 
 ---
 
-## 5. Recommended Live Demo Script (Walkthrough)
+## 🧪 8. Automated Verification & Test Suites
 
-1. **State Command Center**: Log in as `state_admin`. Observe statewide KPI counters, Tamil Nadu 38-district priority grid, and dynamic sorting by Preventive Priority or Emerging Risk.
-2. **District Intelligence Deep-Dive**: Click **Coimbatore (CBE)** or **Tenkasi (TSI)**. Notice the Tripartite Score (`Risk`, `Confidence`, `Coverage`), charts rendered *before* the map, and the synchronized filter drawer.
-3. **Tactical GIS Command Map**: Open the Tactical GIS Map tab. Toggle the *Enforcement Activity* vs *Raw Risk Signals* layers. Click a Risk Zone to open the Zone Inspector.
-4. **Data Provenance ("Why is this here?")**: In any event table or map popup, click **"Inspect Provenance"** to view the source file name, row number, raw SHA-256 payload hash, and reviewing officer signoff.
-5. **Anonymous Citizen Tip & Status Tracker**: Navigate to Citizen Portal. Submit a concern with landmark info. Copy the generated tracking token (e.g. `TN-7X9K-42PQ`). Go to Anonymous Token Lookup and verify stage progression.
-6. **Analyst Verification Queue**: Log in as `analyst_priya`. Open Verification Queue. Inspect automated red-flag detections (duplicates / bursts). Triage the report and promote it to an official intelligence signal.
-7. **Spreadsheet Ingestion**: Open Data Ingestion. Drag-and-drop `sample_checkpost_ingestion.csv`. Review the AI/Rule column mapping, observe PII redaction, and execute batch ingestion.
-8. **Spatial-Temporal Corridors**: Open Spatial-Temporal tab. Inspect the *Krishnagiri $\rightarrow$ Salem $\rightarrow$ Coimbatore* corridor and use the Corridor Comparison tool.
-9. **Responsible AI Governance**: Open Forecast & Responsible AI tab. View the 2-Axis Risk vs Confidence matrix and adjust versioned policy thresholds.
-10. **SHA-256 Audit Trail**: Open SHA-256 Audit Trail tab. Click **"Verify Full Chain Integrity"** to see live mathematical recomputation of block hashes from genesis to current tip.
+NARVEX includes 6 automated test suites:
+
+```bash
+# 1. Run Master Full System Audit Suite
+node server/testFullSystemCoreVisionMasterSuite.js
+
+# 2. Run End-to-End Real Scenario Validation Suite
+node server/testEndToEndScenarioValidationSuite.js
+
+# 3. Run Database-Driven MapArc Suite
+node server/testDatabaseDrivenMapArcSuite.js
+
+# 4. Run Server Core Unit Tests
+npm test --prefix server
+
+# 5. Build Client Production Bundle
+npm run build --prefix client
+```
+
+### Verification Output:
+```text
+================================================================
+🏁 MASTER AUDIT VERIFICATION SUMMARY
+================================================================
+✅ Section 1. CORE-VISION: 6,510 raw observations in MySQL
+✅ Section 2. DB-SOURCE-OF-TRUTH: 38 Tamil Nadu districts loaded dynamically
+✅ Section 3. SCOPE-WORLD: 16 international cross-border arcs
+✅ Section 3. SCOPE-INDIA: 15 inter-state national arcs
+✅ Section 3. SCOPE-TN: 57 inter-district tactical arcs
+✅ Section 5. SHA256-AUDIT-CHAIN: 300+ blocks 100% valid
+✅ Section 6. ZERO-HARDCODING-SCAN: 0 hardcoded route arrays in frontend
+✅ Section 7. REAL MUTATION TEST: Insert ➔ Derive ➔ Delete ➔ Revert verified
+```
 
 ---
 
-## 6. Responsible AI & Legal Safeguards Summary
+## 👨‍💻 9. Author & Credit Information
 
-- **LOW REPORTING $\neq$ LOW RISK**: Sparse areas display **"INSUFFICIENT DATA"**, preventing under-monitored regions from being falsely labeled safe.
-- **HIGH ENFORCEMENT $\neq$ HIGH DRUG RISK**: Enforcement seizures are isolated to prevent over-policing bias feedback loops.
-- **NO DEMOGRAPHIC PROFILING**: Zero storage or inference of individual identities or demographic profiling.
-- **DECISION SUPPORT ONLY**: Forecasts and alerts represent preventive attention priorities; they never independently authorize enforcement or accusation without human verification.
+```text
+================================================================
+🏆 AUTHOR & LEAD ARCHITECT
+================================================================
+• Lead Architect:  Noyal Ashwin J
+• Development Unit: VBE Coding
+• Project:         NARVEX Intelligence OS (SIH 2026)
+• Repository:      https://github.com/noyal-ashwin-j/NARVEX-Intelligence-OS
+================================================================
+```
+
+*Built with passion and commitment for the Government of Tamil Nadu Anti-Narcotics Mission & Smart India Hackathon 2026.*
