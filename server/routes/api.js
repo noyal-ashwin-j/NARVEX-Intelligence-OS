@@ -105,6 +105,10 @@ router.get('/intelligence/anpr-stream', optionalAuth, getANPRStream);
 router.get('/intelligence/precursor-diversion', optionalAuth, getPrecursorDiversion);
 router.get('/intelligence/financial-signals', optionalAuth, getFinancialSignals);
 router.get('/intelligence/wastewater-metrics', optionalAuth, getWastewaterMetrics);
+
+// Real-Time Live Streaming Endpoint (Server-Sent Events)
+import { registerSSEClient } from '../services/liveTelemetryDaemon.js';
+router.get('/stream/live-intelligence', registerSSEClient);
 import { getWhatChangedSummary } from '../services/backgroundIntelligenceService.js';
 
 router.get('/intelligence/what-changed', optionalAuth, async (req, res) => {

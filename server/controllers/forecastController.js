@@ -38,7 +38,7 @@ export async function getForecastZones(req, res) {
       JOIN districts d ON fc.district_id = d.id
       LEFT JOIN taluks t ON fc.taluk_id = t.id
       ${whereClause}
-      ORDER BY fc.forecast_window_days ASC, fc.created_at DESC
+      ORDER BY fc.id DESC
     `;
 
     const [forecasts] = await pool.query(query, params);

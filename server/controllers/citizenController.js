@@ -68,7 +68,13 @@ export async function submitCitizenReport(req, res) {
       await pool.query("ALTER TABLE citizen_reports ADD COLUMN intake_channel VARCHAR(50) DEFAULT 'WEB_PORTAL'");
     }
 
-    // 3. Insert Citizen Report
+    // 3. Validate Taluk ID and Insert Citizen Report
+    let validApproxTalukId = null;
+    if (approximateTalukId) {
+      const [tRows] = await pool.query('SELECT id FROM taluks WHERE id = ?', [approximateTalukId]);
+      if (tRows.length > 0) validApproxTalukId = tRows[0].id;
+    }
+
     const [result] = await pool.query(
       `INSERT INTO citizen_reports 
        (report_code, tracking_token, approximate_district_id, approximate_taluk_id, approximate_location, lat, lng, report_date, category_id, redacted_content, audio_transcript, has_attachment, attachment_name, status, duplicate_flag, burst_pattern_flag, confidence_score, intake_channel)
@@ -77,7 +83,7 @@ export async function submitCitizenReport(req, res) {
         reportCode,
         trackingToken,
         approximateDistrictId,
-        approximateTalukId || null,
+        validApproxTalukId,
         approximateLocation,
         finalLat,
         finalLng,
@@ -311,6 +317,15 @@ export async function triageCitizenReport(req, res) {
 
     let promotedEventId = null;
     if (promoteToEvent) {
+      // Validate taluk_id to prevent foreign key constraint failures
+      let validTalukId = null;
+      if (report.approximate_taluk_id) {
+        const [tRows] = await pool.query('SELECT id FROM taluks WHERE id = ?', [report.approximate_taluk_id]);
+        if (tRows.length > 0) {
+          validTalukId = tRows[0].id;
+        }
+      }
+
       const eventCode = `EVT-CIT-${report.id}-${Date.now().toString().slice(-4)}`;
       const [insResult] = await pool.query(
         `INSERT INTO intelligence_events 
@@ -319,7 +334,7 @@ export async function triageCitizenReport(req, res) {
         [
           eventCode,
           report.approximate_district_id,
-          report.approximate_taluk_id,
+          validTalukId,
           report.approximate_location,
           report.lat,
           report.lng,
@@ -334,10 +349,13 @@ export async function triageCitizenReport(req, res) {
 
       await pool.query(
         `INSERT INTO event_provenance 
-         (event_id, source_department, source_file_name, source_row_number, raw_payload_hash, extraction_confidence, classification_method, human_reviewer_id, review_timestamp, transformation_log)
-         VALUES (?, 'State Anonymous Citizen Portal', ?, 1, ?, ?, 'MANUAL_OFFICER_ENTRY', ?, NOW(), ?)`,
+         (event_ref, event_id, source_id, district_id, description, source_department, source_file_name, source_row_number, raw_payload_hash, extraction_confidence, classification_method, human_reviewer_id, review_timestamp, transformation_log)
+         VALUES (?, ?, 3, ?, ?, 'State Anonymous Citizen Portal', ?, 1, ?, ?, 'MANUAL_OFFICER_ENTRY', ?, NOW(), ?)`,
         [
+          report.report_code,
           promotedEventId,
+          report.approximate_district_id,
+          report.redacted_content,
           report.report_code,
           crypto.createHash('sha256').update(report.redacted_content).digest('hex'),
           report.confidence_score,

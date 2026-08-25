@@ -79,7 +79,14 @@ export async function queryAssistant(req, res) {
 
   try {
     // 1. Fetch live contextual data from MySQL
-    const [districts] = await pool.query('SELECT id, name, code, risk_level, confidence_score, coverage_status, active_alerts_count, emerging_zones_count, baseline_population, trend_direction, velocity_30d, first_time_signals_count FROM districts');
+    const [districts] = await pool.query(`
+      SELECT d.*, 
+        COALESCE(a.alert_count, 0) as active_alerts_count, 
+        COALESCE(rz.zone_count, 0) as emerging_zones_count 
+      FROM districts d
+      LEFT JOIN (SELECT district_id, COUNT(*) as alert_count FROM alerts WHERE status NOT IN ('RESOLVED', 'DISMISSED') GROUP BY district_id) a ON d.id = a.district_id
+      LEFT JOIN (SELECT district_id, COUNT(*) as zone_count FROM risk_zones WHERE historical_trend = 'NEW_EMERGING' GROUP BY district_id) rz ON d.id = rz.district_id
+    `);
     const [forecasts] = await pool.query('SELECT fc.*, d.name as district_name FROM forecast_records fc JOIN districts d ON fc.district_id = d.id');
     const [events] = await pool.query('SELECT e.*, d.name as district_name, c.category_name FROM intelligence_events e JOIN districts d ON e.district_id = d.id JOIN event_categories c ON e.category_id = c.id ORDER BY e.event_date DESC LIMIT 50');
     const [associations] = await pool.query('SELECT sa.*, d1.name as origin_name, d2.name as dest_name FROM spatial_associations sa JOIN districts d1 ON sa.origin_district_id = d1.id JOIN districts d2 ON sa.destination_district_id = d2.id');
@@ -230,10 +237,10 @@ export async function queryAssistant(req, res) {
         spokenText = `Emerging risk zones have been identified in Coimbatore, Krishnagiri, and Salem. Layer is now active on the map.`;
       }
 
-      tabAction = 'emerging-zones';
+      tabAction = 'command-center';
       mapAction = { type: 'FILTER_LAYER', layer: 'emergingZones' };
       actions = [
-        { label: 'View Emerging Zones Page', tab: 'emerging-zones' },
+        { label: 'View Emerging Zones in Command Center', tab: 'command-center' },
         { label: 'Focus Map on Clusters', tab: 'gis-map' }
       ];
     }
@@ -268,10 +275,10 @@ export async function queryAssistant(req, res) {
         spokenText = `First-time signals have been detected in zero-history locations. They are highlighted on the map and queued for human verification.`;
       }
 
-      tabAction = 'verification-queue';
+      tabAction = 'citizen-queue';
       mapAction = { type: 'FILTER_LAYER', layer: 'newSignals' };
       actions = [
-        { label: 'Open Verification Queue', tab: 'verification-queue' },
+        { label: 'Open Verification Queue', tab: 'citizen-queue' },
         { label: 'View New Signals on Map', tab: 'gis-map' }
       ];
     }
@@ -306,10 +313,10 @@ export async function queryAssistant(req, res) {
         spokenText = `30-day and 90-day preventive attention forecast is active. Forecast zones have been rendered with dashed visual indicators.`;
       }
 
-      tabAction = 'forecast';
+      tabAction = 'forecast-governance';
       mapAction = { type: 'FILTER_LAYER', layer: 'forecastZones' };
       actions = [
-        { label: 'Open Forecast Center', tab: 'forecast' },
+        { label: 'Open Forecast Center', tab: 'forecast-governance' },
         { label: 'View Forecast Zones on Map', tab: 'gis-map' }
       ];
     }
@@ -343,10 +350,10 @@ export async function queryAssistant(req, res) {
         spokenText = `Inter-state highway and rail transit corridors connecting neighboring states to Tamil Nadu nodes have been mapped.`;
       }
 
-      tabAction = 'spatial-temporal';
+      tabAction = 'spatial-associations';
       mapAction = { type: 'FILTER_LAYER', layer: 'historicalCorridors' };
       actions = [
-        { label: 'Open Spatial Corridors Page', tab: 'spatial-temporal' },
+        { label: 'Open Spatial Corridors Page', tab: 'spatial-associations' },
         { label: 'View Inter-State Arcs on Map', tab: 'gis-map' }
       ];
     }

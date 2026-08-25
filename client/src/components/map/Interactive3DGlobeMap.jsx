@@ -360,9 +360,14 @@ export function Interactive3DGlobeMap({ height = "100%", onSelectDistrict }) {
           <div className="flex items-center gap-1 bg-slate-100 p-1 rounded-xl text-[11px] font-medium">
             <Clock className="size-3 text-slate-500 ml-1" />
             <span className="text-slate-500 font-semibold px-0.5">Window:</span>
-            {['7D', '30D', '90D', '1Y', 'ALL'].map((w) => (
-              <button key={w} onClick={() => setTimeWindow(w)} className={`px-2 py-1 rounded-lg font-bold transition-all ${timeWindow === w ? 'bg-emerald-600 text-white shadow-sm' : 'text-slate-600 hover:bg-slate-200'}`}>{w}</button>
-            ))}
+            {['7D', '30D', '90D', '1Y', 'ALL'].map((w) => {
+              const labelMap = { '7D': '7 Days', '30D': '30 Days', '90D': '90 Days', '1Y': '1 Year', 'ALL': 'All' };
+              return (
+                <button key={w} onClick={() => setTimeWindow(w)} className={`px-2 py-1 rounded-lg font-bold transition-all ${timeWindow === w ? 'bg-emerald-600 text-white shadow-sm' : 'text-slate-600 hover:bg-slate-200'}`}>
+                  {labelMap[w] || w}
+                </button>
+              );
+            })}
           </div>
         </div>
       </div>

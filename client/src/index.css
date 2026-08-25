@@ -109,6 +109,49 @@
   }
 }
 
+/* HIGH-TECH CYBER KEYFRAME ANIMATIONS */
+@keyframes floatSubtle {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-6px); }
+}
+
+@keyframes modalPop {
+  0% { opacity: 0; transform: scale(0.92) translateY(12px); }
+  70% { transform: scale(1.02) translateY(-2px); }
+  100% { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+@keyframes pulseGlowCyan {
+  0%, 100% { box-shadow: 0 0 15px rgba(34, 211, 238, 0.25), inset 0 0 15px rgba(34, 211, 238, 0.1); }
+  50% { box-shadow: 0 0 35px rgba(34, 211, 238, 0.55), inset 0 0 25px rgba(34, 211, 238, 0.25); }
+}
+
+@keyframes shimmerGlow {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.animate-float-subtle {
+  animation: floatSubtle 4s ease-in-out infinite;
+}
+
+.animate-modal-pop {
+  animation: modalPop 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-pulse-cyan {
+  animation: pulseGlowCyan 3s ease-in-out infinite;
+}
+
+.shimmer-text {
+  background: linear-gradient(90deg, #ffffff 0%, #22D3EE 50%, #ffffff 100%);
+  background-size: 200% auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: shimmerGlow 4s linear infinite;
+}
+
 /* Custom Scrollbars */
 ::-webkit-scrollbar {
   width: 6px;

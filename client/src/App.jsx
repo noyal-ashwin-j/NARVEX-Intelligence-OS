@@ -298,6 +298,15 @@ function MainAppShell() {
             {activeTab === 'security-center' && role === 'STATE_ADMIN' && (
               <SecurityCommandCenter />
             )}
+
+            {/* Fallback to prevent blank screen if unknown tab is passed */}
+            {!['command-center', 'district-grid', 'district-intel', 'gis-map', 'data-ingestion', 'citizen-queue', 'citizen-portal', 'citizen-track', 'spatial-associations', 'forecast-governance', 'action-tickets', 'audit-trail', 'security-center'].includes(activeTab) && (
+              <StateCommandCenter
+                onSelectDistrict={handleSelectDistrict}
+                onNavigateTab={(tab) => setActiveTab(tab)}
+                onOpenFeed={() => setIsFeedModalOpen(true)}
+              />
+            )}
           </ErrorBoundary>
         </main>
       </div>

@@ -31,7 +31,7 @@ export function Sidebar({ activeTab, setActiveTab }) {
     // Super Admin Only
     {
       id: 'district-grid',
-      label: '38-District Grid',
+      label: 'District Operations Grid',
       icon: LayoutGrid,
       roles: ['STATE_ADMIN']
     },
@@ -52,49 +52,49 @@ export function Sidebar({ activeTab, setActiveTab }) {
     // Super Admin & Verification Officer
     {
       id: 'data-ingestion',
-      label: '+ Feed Intelligence',
+      label: 'Ingest Intelligence Feed',
       icon: UploadCloud,
       roles: ['STATE_ADMIN', 'VERIFICATION_OFFICER']
     },
     // Super Admin, District Officer & Verification Officer
     {
       id: 'citizen-queue',
-      label: role === 'DISTRICT_OFFICER' ? 'District Verification Queue' : 'Verification Queue',
+      label: role === 'DISTRICT_OFFICER' ? 'District Verification Queue' : 'Evidence Verification Queue',
       icon: UserCheck,
       roles: ['STATE_ADMIN', 'DISTRICT_OFFICER', 'VERIFICATION_OFFICER']
     },
     // Super Admin Only
     {
       id: 'spatial-associations',
-      label: 'Spatial Corridors',
+      label: 'Inter-State Transit Corridors',
       icon: Network,
       roles: ['STATE_ADMIN']
     },
     // Super Admin Only
     {
       id: 'forecast-governance',
-      label: 'Forecast & Responsible AI',
+      label: 'AI Risk Projections & Governance',
       icon: Cpu,
       roles: ['STATE_ADMIN']
     },
     // Super Admin & District Officer
     {
       id: 'action-tickets',
-      label: role === 'DISTRICT_OFFICER' ? 'District Action Tickets' : 'Preventive Action Tickets',
+      label: role === 'DISTRICT_OFFICER' ? 'District Action Directives' : 'Preventive Action Directives',
       icon: Ticket,
       roles: ['STATE_ADMIN', 'DISTRICT_OFFICER']
     },
     // Super Admin Only
     {
       id: 'audit-trail',
-      label: 'SHA-256 Audit Trail',
+      label: 'Ledger Audit Trail',
       icon: FileCheck2,
       roles: ['STATE_ADMIN']
     },
     // Security Center (Super Admin Only)
     {
       id: 'security-center',
-      label: 'Zero-Trust Security Center',
+      label: 'Security & Access Control',
       icon: ShieldCheck,
       roles: ['STATE_ADMIN']
     },

@@ -72,7 +72,11 @@ app.listen(PORT, async () => {
   console.log(`📊  Database Status:`, conn.ok ? 'CONNECTED TO narvex' : conn.error);
   try {
     await initSecurityTables();
+    await (await import('./database/migrateProvenanceSchema.js')).ensureProvenanceSchema();
     console.log(`🔒  Security Envelope: Active (Zero-Trust Session Registry & SIEM Ready)`);
+    const { startLiveTelemetryDaemon } = await import('./services/liveTelemetryDaemon.js');
+    startLiveTelemetryDaemon();
+    console.log(`⚡  Live Streaming Telemetry Daemon: STARTED (SSE active at /api/stream/live-intelligence)`);
   } catch (err) {
     console.error(`⚠️  Security Table Init Error:`, err.message);
   }

@@ -7,11 +7,28 @@ export async function seedForecasts() {
     const [cols] = await pool.query('DESCRIBE forecast_records');
     const colNames = cols.map((c) => c.Field);
 
-    if (!colNames.includes('location_name')) {
-      await pool.query("ALTER TABLE forecast_records ADD COLUMN location_name VARCHAR(150) DEFAULT 'High-Risk Transit Belt'");
-    }
-    if (!colNames.includes('recommended_action')) {
-      await pool.query("ALTER TABLE forecast_records ADD COLUMN recommended_action TEXT");
+    const requiredCols = [
+      { name: 'forecast_code', type: "VARCHAR(100) DEFAULT 'FCST-2026-01'" },
+      { name: 'taluk_id', type: 'INT DEFAULT NULL' },
+      { name: 'location_name', type: "VARCHAR(250) DEFAULT 'High-Risk Transit Belt'" },
+      { name: 'center_lat', type: 'DECIMAL(10, 6) DEFAULT 11.000000' },
+      { name: 'center_lng', type: 'DECIMAL(10, 6) DEFAULT 77.000000' },
+      { name: 'radius_meters', type: 'INT DEFAULT 3000' },
+      { name: 'forecast_window_days', type: 'INT DEFAULT 30' },
+      { name: 'risk_level', type: "VARCHAR(100) DEFAULT 'HIGH PREVENTIVE ATTENTION'" },
+      { name: 'confidence_level', type: "VARCHAR(50) DEFAULT 'HIGH'" },
+      { name: 'data_coverage', type: "VARCHAR(50) DEFAULT 'GOOD'" },
+      { name: 'historical_contributing_factors', type: 'TEXT' },
+      { name: 'recommended_action', type: 'TEXT' },
+      { name: 'training_date', type: 'VARCHAR(50) DEFAULT NULL' },
+      { name: 'disclaimer', type: 'TEXT' }
+    ];
+
+    for (const col of requiredCols) {
+      if (!colNames.includes(col.name)) {
+        console.log(`Adding missing column ${col.name} to forecast_records...`);
+        await pool.query(`ALTER TABLE forecast_records ADD COLUMN ${col.name} ${col.type}`);
+      }
     }
 
     await pool.query('DELETE FROM forecast_records');
@@ -141,8 +158,8 @@ export async function seedForecasts() {
     for (const f of forecasts) {
       await pool.query(
         `INSERT INTO forecast_records
-         (forecast_code, district_id, taluk_id, location_name, center_lat, center_lng, radius_meters, forecast_window_days, risk_level, confidence_level, data_coverage, historical_contributing_factors, recommended_action, model_version, training_date, disclaimer)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'NRISE-RISK-v1.0', ?, ?)`,
+         (forecast_code, district_id, taluk_id, location_name, center_lat, center_lng, radius_meters, forecast_window_days, risk_level, confidence_level, data_coverage, historical_contributing_factors, recommended_action, model_version, training_date, disclaimer, forecast_date, probability, confidence, coverage, signal_state)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'NRISE-RISK-v1.0', ?, ?, CURRENT_DATE, 0.85, 0.88, 0.82, 'EMERGING')`,
         [
           f.code, f.districtId, f.talukId, f.location, f.lat, f.lng, f.radius, f.days, f.risk, f.conf, f.coverage, f.factors, f.action, f.date,
           'Forecasted Preventive Attention Zone: Decision-support signal for authorized verification and preventive planning; does not independently authorize enforcement action.'
